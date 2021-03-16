@@ -30,27 +30,12 @@ Para um membro da equipe de projeto, a principal atração de trabalhar remotame
 * O horário núcleo onde todos os membros do grupo de projeto devem estar trabalhando;
 
 ### Investir em treinamento de produtividade
-Uma força de trabalho remota promete aumentar a produtividade geral. No entanto, o aumento na produtividade não se materializará repentinamente, assim como um trabalhador remoto não se tornará repentinamente um funcionário autogerenciado e superprodutivo do dia para a noite. Hábitos de trabalho favoráveis ​​à produtividade precisam ser desenvolvidos e aperfeiçoados ao longo do tempo. Os gerentes de projeto devem assumir nessa horao papel de coach.
+Uma força de trabalho remota promete aumentar a produtividade geral. No entanto, o aumento na produtividade não se materializará repentinamente, assim como um trabalhador remoto não se tornará repentinamente um funcionário autogerenciado e superprodutivo do dia para a noite. Hábitos de trabalho favoráveis à produtividade precisam ser desenvolvidos e aperfeiçoados ao longo do tempo. Os gerentes de projeto devem assumir nessa horao papel de coach.
 
 Para ser bons treinadores, exigimos uma imagem precisa dos hábitos de trabalho e dados de desempenho do trabalhador. Sem dados de entrada objetivos, as discussões sobre produtividade rapidamente se transformam em exercícios de adivinhação e contestações acaloradas. Novamente, a tecnologia alivia o problema automatizando a captura dos dados vitais. Os aplicativos de rastreamento de tempo mencionados no Lifehack 2 capturam horas de trabalho que podem servir como dados de entrada em sessões de coaching. Além de capturar as horas trabalhadas, esses aplicativos também registram estatísticas sobre aplicativos executados e sites visitados pelo trabalhador remoto.
 
-5. Invista no equilíbrio entre vida pessoal e profissional
+### Invista no equilíbrio entre vida pessoal e profissional
 A sabedoria convencional nos diz que trabalhadores remotos, sem deslocamento diário e mais tempo para a família, deveriam teoricamente ter um equilíbrio saudável entre vida profissional e pessoal.
 
-Teoricamente.
+Como gerentes de projeto, precisamos envolver cada membro da equipe remota em discussões sobre como manter um bom equilíbrio entre a vida pessoal e profissional e, ao mesmo tempo, manter a produtividade alta. Cada membro da equipe é único. Portanto, não existe um plano único para todos. Alguma flexibilidade e espaço para experimentação devem ser permitidos. No entanto, devemos monitorar o progresso com base nas horas trabalhadas, conforme relatado pelos aplicativos de rastreamento de tempo.
 
-Pode ser uma surpresa saber que vários estudos mostraram que os trabalhadores remotos correm o risco exatamente o oposto, devido à incapacidade de sair do modo de trabalho. Embora maior produtividade seja o objetivo de todas as organizações, o esgotamento como subproduto não é. Temos a responsabilidade de proteger o bem-estar dos membros da equipe para garantir sua produtividade a longo prazo.
-
-Como gerentes de projeto, precisamos envolver cada membro da equipe remota em discussões sobre como manter um bom equilíbrio entre a vida pessoal e profissional e, ao mesmo tempo, manter a produtividade alta. Cada membro da equipe é único. Portanto, não existe um plano único para todos. Alguma flexibilidade e espaço para exploração devem ser permitidos. No entanto, devemos monitorar o progresso com base nas horas trabalhadas, conforme relatado pelos aplicativos de rastreamento de tempo.
-
-Conclusões
-O trabalho remoto é um fenômeno moderno que apresenta novos desafios - e às vezes reempacota os desafios convencionais de PM com um sabor ligeiramente diferente.
-
-Teoricamente.
-
-Pode ser uma surpresa saber que vários estudos mostraram que os trabalhadores remotos correm o risco exatamente o oposto, devido à incapacidade de sair do modo de trabalho. Embora maior produtividade seja o objetivo de todas as organizações, o esgotamento como subproduto não é. Temos a responsabilidade de proteger o bem-estar dos membros da equipe para garantir sua produtividade a longo prazo.
-
-Como gerentes de projeto, precisamos envolver cada membro remoto da equipe em discussões sobre como manter um bom equilíbrio entre a vida pessoal e profissional e, ao mesmo tempo, manter a produtividade alta. Cada membro da equipe é único. Portanto, não existe um plano único para todos. Alguma flexibilidade e espaço para exploração devem ser permitidos. No entanto, devemos monitorar o progresso com base nas horas trabalhadas, conforme relatado pelos aplicativos de rastreamento de tempo.
-
-Conclusões
-O trabalho remoto é um fenômeno moderno que apresenta novos desafios - e às vezes reempacota os desafios convencionais de PM com um sabor ligeiramente diferente.
