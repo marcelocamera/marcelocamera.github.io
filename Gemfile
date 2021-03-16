@@ -11,3 +11,7 @@ group :jekyll_plugins do
   gem "rake"
   gem "wdm"
 end
+
+platforms :mswin do
+  gem "wdm", :group => [:development]
+end
