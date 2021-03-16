@@ -13,5 +13,5 @@ group :jekyll_plugins do
 end
 
 platforms :mswin do
-  gem "wdm", :group => [:development]
+  gem "wdm"
 end
