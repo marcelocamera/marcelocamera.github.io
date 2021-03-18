@@ -5,7 +5,9 @@ author: "Marcelo"
 comments: true
 tags: gerenciamento dicas
 ---
-Em novos tempos, onde o virtual passou a ser a nova realidade, toda dica de como tornar mais efetivo e presente a gestão de times virtuais é importante. Considere como sendo virtual aqueles times que estão em home office e aqueles que estão geograficamente dispersos. Para todos, não existe o certo e o errado, algumas dicas resultam em sucesso para certos tipos de time e simplesmente não geram efeitos para outros, mas, o mais importante é estar aberto para testar essas dicas nos seus times e verificar o que pode ser útil e aplicável a eles.
+Em novos tempos, onde o virtual passou a ser a nova realidade, toda dica de como tornar mais efetivo e presente a gestão de times virtuais é importante.
+
+Considere como sendo virtual aqueles times que estão em home office e aqueles que estão geograficamente dispersos. Para todos, não existe o certo e o errado, algumas dicas resultam em sucesso para certos tipos de time e simplesmente não geram efeitos para outros, mas, o mais importante é estar aberto para testar essas dicas nos seus times e verificar o que pode ser útil e aplicável a eles.
 
 ### Invista em comunicação
 Sem acompanhamento, os membros da equipe de projetos podem desenvolver sentimentos de isolamento, relutar em fornecer ou pedir ajuda e parar de fornecer feedback significativo à gestão.
@@ -14,8 +16,6 @@ Sem acompanhamento, os membros da equipe de projetos podem desenvolver sentiment
 Para facilitar interações efetivas e contínuas entre os membros da sua equipe, aproveite a tecnologia. <a href="https://slack.com/intl/pt-br/" target=_blank >Slack</a> e o <a href="https://www.microsoft.com/pt-br/microsoft-teams/group-chat-softwareTeams" target=_blank >Teams</a> são plataformas populares de comunicação para equipes. O importante aqui é que os membros da equipe devem se comunicar, seja usando e-mail, texto, voz, chamadas de vídeo - seja qual for a plataforma usada, organize o espaço de comunicação de forma clara para que os membros da equipe possam se comunicar uns com os outros de maneira confiável.
 
 ### Investir em hardware e software
-Um computador bom e uma conexão rápida de Internet são o aparato básico de tecnologia para trabalhar remotamente. Sozinhos, eles não vão aumentar a produtividade das equipes virtuais - é aqui que um bom software de gestão de projetos entra em jogo.
-
 O uso de um bom software de acompanhamento de tarefas, produtividade, cronograma e riscos é essencial. Sensibilizar sua equipe para mantê-lo atualizado será a melhor maneira de ter sob controle as atividades do time durante todo o desenvolvimento do projeto.
 
 #### Um tempo para o One2One Meetings
@@ -38,4 +38,3 @@ Para ser bons treinadores, exigimos uma imagem precisa dos hábitos de trabalho 
 A sabedoria convencional nos diz que trabalhadores remotos, sem deslocamento diário e mais tempo para a família, deveriam teoricamente ter um equilíbrio saudável entre vida profissional e pessoal.
 
 Como gerentes de projeto, precisamos envolver cada membro da equipe remota em discussões sobre como manter um bom equilíbrio entre a vida pessoal e profissional e, ao mesmo tempo, manter a produtividade alta. Cada membro da equipe é único. Portanto, não existe um plano único para todos. Alguma flexibilidade e espaço para experimentação devem ser permitidos. No entanto, devemos monitorar o progresso com base nas horas trabalhadas, conforme relatado pelos aplicativos de rastreamento de tempo.
-
