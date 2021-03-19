@@ -3,43 +3,27 @@ layout: default
 ---
 
 <div class="post">
-  <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
-
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
-  </div>
-
   <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-line"></div>
+<div class="post-info">
+  <span>Written by</span>
 
-  {{ content }}
+  {% if page.author %}
+    {{ page.author }}
+  {% else %}
+    {{ site.author.name }}
+  {% endif %}
 
-
-    <div class="imgContainer1">
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }} por  @{{site.twitter}} {{site.url}}{{ page.url }}" target="_blank"><img src="/assets/Twitter.png" height="30" width="30"/></a>
-  </div>
-
-  <div class="imgContainer2">
-    <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}"><img src="/assets/Facebook.png" height="30" width="30"/></a>
-  </div>
-
-  <div class="imgContainer3">
-    <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}"><img src="/assets/LinkedIn.png" height="30" width="30"/></a>
-  </div>
-
+  {% if page.date %}
+    <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+  {% endif %}
 </div>
 
-{% if page.comments %}
-  {% include disqus_comments.html %}
-{% endif %}
+<br>
+
+<div class="imgContainer1"><a href="https://twitter.com/intent/tweet?text={{ page.title }} por  @{{site.twitter}} {{site.url}}{{ page.url }}" style="display:inline;margin:0px 10px 0px 0px; target="_blank"><img src="/assets/Twitter.png" height="30" width="30"/>  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}" style="display:inline;margin:0px 10px 0px 0px; target="_blank" ><img src="/assets/Facebook.png" height="30" width="30"/></a>  <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}"><img src="/assets/LinkedIn.png" height="30" width="30"/></a></div>
+  <br>
+  {{ content }}
+</div>
 
 <div class="pagination">
   {% if page.next.url %}
@@ -52,3 +36,8 @@ layout: default
 
   <a href="#" class="top">Top</a>
 </div>
+
+<br>
+{% if page.comments %}
+  {% include disqus_comments.html %}
+{% endif %}
