@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Cancun - Atlanta"
+author: "Marcelo"
+comments: true
+tags: flight-simulator
+excerpt_separator: <!--more-->
+---
+Bem vindos a bordo do voo DL609 da Delta Airlines. Voaremos de Cancun (CUN) para a Atlanta (ATL) a bordo do Airbus A320-200. Nosso voo, tem um duração prevista de 2 hora e 30 minutos. O embarque já foi iniciado.
+<!--more-->
+
+No aeroporto da Cancun (Cancun International Airport), o céu está parcialmente nublado e a temperatura é de 27<sup>o</sup>C. No aeroporto de Atlanta (Hartsfield–Jackson International Airport), o céu está encoberto e a temperatura é de 18<sup>o</sup>C.
+
+## Flight General Information
+{% highlight markdown %}
+Flight ID      : 297
+Flight Number  : DL609
+Flight Co.     : Delta Airlines
+Aircraft Model : Airbus A320-200
+Departure      : MMUN/CUN Cancun, Mexico (-5 UTC)
+Arrival        : KATL/ATL Atlanta, United States (-4 UTC)
+{% endhighlight %}
+
+## Flight Schedule
+{% highlight markdown %}
+Dep. Scheduled : 11:30      Dep. Time : 11:38
+Arr. Scheduled : 13:00      Arr. Time : 12:58
+
+Flight Time    :   2:20
+Acc. Flt. Time : 784:18
+{% endhighlight %}
+
+## Flight Weight
+{% highlight markdown %}
+PAX            :     152 people
+Cargo          :   1.000 lbs
+Fuel Loaded    :  18.900 lbs
+Takeoff Weight : 144.600 lbs
+{% endhighlight %}
+
+## Flight Route
+{% highlight markdown %}
+Flight Level   : FL STEPS MMUN/0370/
+Flt Distance   : 639 NM
+Route          : MMUN/30L ROTGI1F ROTGI UM219 MYDIA M219 CIGAR DCT SZW DCT DAWWN
+                 DCT BEORN GNDLF2 KATL/09L
+{% endhighlight %}
+
+## Weather Information
+{% highlight markdown %}
+MMUN/CUN  CANCUN INTL
+   MMUN 211843Z 12010KT 7SM SCT015 27/18 A3006
+
+KATL/ATL  HARTSFIELD - JACKSON ATLANTA I
+   KATL 212052Z 08008G17KT 10SM SCT047 BKN085 BKN120 18/07 A3024
+{% endhighlight %}
+
+<figure align="center">
+   <img src="/assets/297a.webp">
+</figure>
+
+<figure align="center">
+   <img src="/assets/297b.webp">
+</figure>
