@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Cidade do México - Cancun"
+author: "Marcelo"
+comments: true
+tags: flight-simulator
+excerpt_separator: <!--more-->
+---
+Bem vindos a bordo do voo U2870 da EasyJet Airlines. Voaremos da Cidade do México (MEX) para a Cancun (CUN) a bordo do Airbus A320neo. Nosso voo, tem um duração prevista de 2 horas. Sejam bem vindos.
+<!--more-->
+
+No aeroporto da Cidade do México (Benito Juárez International Airport), o céu está encoberto e a temperatura é de 16<sup>o</sup>C. No aeroporto de Cancun (Cancun International Airport), o céu está parcialmente nublado e a temperatura é de 26<sup>o</sup>C.
+
+## Flight General Information
+{% highlight markdown %}
+Flight ID      : 296
+Flight Number  : U2870
+Flight Co.     : EasyJet Airlines
+Aircraft Model : Airbus A320neo
+Departure      : MMMX/MEX Mexico City, Mexico (-6 UTC)
+Arrival        : MMUN/CUN Cancun, Mexico (-5 UTC)
+{% endhighlight %}
+
+## Flight Schedule
+{% highlight markdown %}
+Dep. Scheduled : 11:30      Dep. Time : 11:38
+Arr. Scheduled : 14:30      Arr. Time : 14:28
+
+Flight Time    :   1:50
+Acc. Flt. Time : 781:58
+{% endhighlight %}
+
+## Flight Weight
+{% highlight markdown %}
+PAX            :     134 people
+Cargo          :   1.000 lbs
+Fuel Loaded    :  16.100 lbs
+Takeoff Weight : 137.700 lbs
+{% endhighlight %}
+
+## Flight Route
+{% highlight markdown %}
+Flight Level   : FL STEPS MMMX/0330/
+Flt Distance   : 639 NM
+Route          : MMMX/23L APN5B APN UT19 MID UJ16 XUDUN XUDUN1A MMUN/12R
+{% endhighlight %}
+
+## Weather Information
+{% highlight markdown %}
+MMMX/MEX  BENITO JUAREZ INTL
+   MMMX 211449Z 00000KT 6SM BKN025 OVC100 16/05 A3038
+
+MMUN/CUN  CANCUN INTL
+   MMUN 211540Z 07006KT 7SM SCT015 26/17 A3011
+{% endhighlight %}
+
+<figure align="center">
+   <img src="/assets/296a.webp">
+</figure>
+
+<figure align="center">
+   <img src="/assets/296b.webp">
+</figure>
