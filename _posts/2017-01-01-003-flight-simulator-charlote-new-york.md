@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Charlotte - New York"
+author: "Marcelo"
+comments: true
+tags: flight-simulator
+excerpt_separator: <!--more-->
+---
+Bem vindos a bordo do voo AA1972 da American Airlines. Voaremos de Charlotte (CLT) para New York (JFK) a bordo do Airbus A319-100. Nosso voo, tem um duração prevista de 2 horas e 30 minutos. O embarque está aberto.
+<!--more-->
+
+No aeroporto de Charlotte (Douglas International Airport), o céu está encoberto com uma chuva leve e neblina, a temperatura é de 9<sup>o</sup>C. No aeroporto de New York (Kennedy International Airport), o céu está claro com ventos calmos, a temperatura é de 6<sup>o</sup>C.
+
+## Flight General Information
+{% highlight markdown %}
+Flight ID      : 003
+Flight Number  : AA1972
+Flight Co.     : American Airlines
+Aircraft Model : Airbus A319-100
+Departure      : KCLT/CLT Charlotte, United States (-5 UTC)
+Arrival        : KJFK/JFK New York, United States (-5 UTC)
+{% endhighlight %}
+
+## Flight Schedule
+{% highlight markdown %}
+Dep. Scheduled : 16:00      Dep. Time : 16:06
+Arr. Scheduled : 19:00      Arr. Time : 19:01
+
+Flight Time    : 2:55
+Acc. Flt. Time : 8:11
+{% endhighlight %}
+
+## Flight Weight
+{% highlight markdown %}
+PAX            :     175 people
+Cargo          :     100 lbs
+Fuel Loaded    :  15.300 lbs
+Takeoff Weight : 151.500 lbs
+{% endhighlight %}
+
+## Flight Route
+{% highlight markdown %}
+Flight Level   : FL350
+Flt Distance   : 474 NM
+Route          : KCLT/36C BARMY4 TYI DCT ORF J121 SIE CAMRN4 KJFK/31L
+{% endhighlight %}
+
+## Weather Information
+{% highlight markdown %}
+KCLT/CLT  CHARLOTTE/DOUGLAS INTL
+   KCLT 012052Z 09005KT 2SM -RA BR OVC004 09/08 A3018
+
+KJFK/JFK  KENNEDY INTL
+   KJFK 012351Z 00000KT 10SM CLR 06/M09 A3036
+{% endhighlight %}
+
+<figure align="center">
+   <img src="/assets/003a.webp">
+</figure>
+
+<figure align="center">
+   <img src="/assets/003b.webp">
+</figure>
