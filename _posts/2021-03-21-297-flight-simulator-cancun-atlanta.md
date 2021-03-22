@@ -56,7 +56,7 @@ KATL/ATL  HARTSFIELD - JACKSON ATLANTA I
 {% endhighlight %}
 
 <figure align="center">
-   <img src="/assets/297a.webp">
+   <img src="/assets/297a.webp" alt="flight simulator, msfs2020, fs2020, flight">
 </figure>
 
 <figure align="center">
