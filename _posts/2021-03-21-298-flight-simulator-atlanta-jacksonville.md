@@ -59,5 +59,5 @@ KJAX/JAX  JACKSONVILLE INTL
 </figure>
 
 <figure align="center">
-   <img src="/assets/298b.webp">
+   <img src="/assets/298b.webp" alt="flight simulator, msfs2020, fs2020, flight">
 </figure>
