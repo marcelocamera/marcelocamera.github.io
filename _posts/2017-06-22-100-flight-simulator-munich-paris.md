@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Munich to Paris"
+title: "Flight Simulator #100: Munich - Paris"
 author: "Marcelo"
 comments: true
 tags: flight-simulator
