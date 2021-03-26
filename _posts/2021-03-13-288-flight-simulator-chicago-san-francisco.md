@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Chicago to San Francisco"
+title: "Chicago - San Francisco"
 author: "Marcelo"
 comments: true
 tags: flight-simulator
+excerpt_separator: <!--more-->
 ---
-Welcome aboard of American Airlines AA2907 flight. The flight is from Chicago (ORD) to San Francisco (SFO) on board of the <a href="https://imgproc.airliners.net/photos/airliners/9/9/6/6284699.jpg?v=v48d7f67cc91" target="_blank">Airbus A320neo</a>, the approximated flight time will be 4 hours and 45 minutes.
+Bem vindos a bordo do voo AA2907 da American Airlines. Voaremos de Chicago (ORD) para San Francisco (SFO) a bordo do Airbus A320neo. Nosso voo, tem um duração prevista de 4 horas e 45 minutos. Apertem o cinto.
+<!--more-->
 
-In Chicago O'Hare International Airport, the sky is clear with few clouds, temperature is 0<sup>o</sup>C. In San Francisco International Airport, the sky is cloudy. The temperature is around 11<sup>o</sup>C.
+No aeroporto de Chicago (O'Hare International Airport) o céu está claro com poucas nuvens, a temperatura é de 0<sup>o</sup>C. No aeroporto de San Franciso (San Francisco International Airport), o céu está nublado e a temperatura é de 11<sup>o</sup>C.
+
 
 ## Flight General Information
 {% highlight markdown %}
@@ -47,12 +50,16 @@ Route          : KORD/28R DCT MYKIE DCT MONNY DCT JORDY DCT ONL J148 CYS DCT EKR
 ## Weather Information
 {% highlight markdown %}
 KORD/ORD -O'HARE INTL
-   KORD 131251Z 00000KT 10SM SCT250 00/M02 A3047 RMK AO2 SLP324 T00001017
+   KORD 131251Z 00000KT 10SM SCT250 00/M02 A3047
 
 KSFO/SFO SAN FRANCISCO INTL
-   KSFO 27012KT 10SM FEW010 BKN015 11/06 A3026 RMK AO2 T01060061
+   KSFO 131251Z 27012KT 10SM FEW010 BKN015 11/06 A3026
 {% endhighlight %}
 
 <figure align="center">
-   <img src="/assets/288.PNG">
+   <img src="/assets/288a.webp">
+</figure>
+
+<figure align="center">
+   <img src="/assets/288b.webp" alt="flight simulator, msfs2020, fs2020, flight, airbus, a320, san francisco, chicago, united states, united airlines">
 </figure>
