@@ -35,7 +35,15 @@ permalink: /bookmarks/
 
 #### Desenvolvedores e Fabricantes
   * <a href="http://www.boeing.com" target="_blank">Boeing</a>
- 
+
+#### Webcams de Aeroportos
+  *  <a href="https://youtu.be/pY7IQVpcrsM" target="_blank">Aeroporto São Paulo, Guarulhos - SBGR, RWY9-27</a>
+  *  <a href="https://youtu.be/uqk1HU_GLVk" target="_blank">Aeroporto Washington, Reagan National Airport - KDCA</a>
+  *  <a href="https://www.youtube.com/watch?v=doqBgKIBBh8" target="_blank">Aeroporto Lazarote, Ilhas Canárias - GCRR</a>
+  *  <a href="https://www.youtube.com/watch?v=t0GrpAgdBFI" target="_blank">Aeroporto Los Angeles - KLAX</a>
+  *  <a href="https://www.youtube.com/watch?v=bqiZ2xih6Jk" target="_blank">Aeroporto de Praga - LKPR</a>
+  *  <a href="https://www.youtube.com/watch?v=v5mYgxu3xBA" target="_blank">Aeroporto de Lisboa - LPPT</a>
+
 ---
 <section id ="livros"></section>
 ## Livros
