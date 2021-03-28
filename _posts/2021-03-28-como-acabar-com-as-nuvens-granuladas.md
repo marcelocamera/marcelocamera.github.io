@@ -22,7 +22,7 @@ Esse problema deve ser resolvido em algum patch de correção do Flight Simulato
 
 #### Como acabar com a granulação das nuvens
 
-1. **Alteração no arquivo UserCfg.opt**
+**Alteração no arquivo UserCfg.opt**
 O arquivo UserCfg.opt deve ter dois de seus parâmetros alterados.
 O arquivo pode ser encontrado em um dos dois locais.
 
@@ -40,7 +40,7 @@ No arquivo, procure pelos parâmetros **Sharpen** e **FilmGrain**. Substitua o v
 
 Salve o arquivo.
 
-2. **Alteração da permissão de escrita do arquivo UserCfg.opt**
+**Alteração da permissão de escrita do arquivo UserCfg.opt**
 Da maneira como foi concebido, o MSFS2020 pode alterar o conteúdo deste arquivo, isso ocorre principalmente quando o jogo é iniciado e durante as atualizações.
 
 Para evitar que isso ocorra durante quando o jogo é iniciado, é possível alterar a permissão de escrita do arquivo.
