@@ -14,6 +14,10 @@ permalink: /bookmarks/
 ---
 <section id ="flight"></section>
 ## Flight Simulator
+
+#### Hardware
+  * <a href="https://amzn.to/3tMOvi1" target="_blank">Manche e Acelerador Saitek</a>
+
 #### Planos de Voo
   * <a href="http://fuelplanner.com/" target="_blank">Fuel Planner</a> - Cálculo de combustível
   * <a href="https://www.simbrief.com/" target="_blank">SimBrief</a> - Criação de planos de voo completos
