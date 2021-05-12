@@ -9,36 +9,79 @@ excerpt_separator: <!--more-->
 Nesse post vou inserir um log dos meus voos e minhas observações sobre cada deles.
 <!--more-->
 
-## 0004 - Phoenix/PHX - Saint Louis/STL
+<a href="1"><b>001-010</b></a> 011-020 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
+101-110 111-120 121-130 131-140 141-150 151-160 161-170 171-180 181-190 191-200
+201-210 211-220 221-230 231-240 241-250 251-260 261-270 271-280 281-290 291-300
+301-310 311-320 321-330 331-340 341-350 351-360
 
+## 0355 - Amsterdan/AMS - Barcelona/BCN
 {% highlight markdown %}
 FLIGHT INFORMATION
-Flight Number  : AA489
-Flight Co.     : American Airlines
-Aircraft Model : Boeing 737-800
-Departure      : KJFK/JFK New York, United States (-5 UTC)
-Arrival        : KORD/ORD Chicago, United States (-6 UTC)
+Flight Number  :  KL1681
+Flight Co.     :  KLM Royal Dutch Airlines
+Aircraft Model :  Airbus A320-NEO
+Departure      :  EHAM/AMS Amsterdan, Netherlands (+2 UTC)
+Arrival        :  LEBL/BCN Barcelona, Spain (+2 UTC)
 {% endhighlight %}
 {% highlight markdown %}
 FLIGHT SCHEDULE AND TIMES
-Flight Date    : December 31, 2016
-Dep. Scheduled : 17:00      Dep. Time :   17:10
-Arr. Scheduled : 19:00      Arr. Time :   19:09
-Flight Time    :  2:59      Log Time  :   11:10
+Flight Date    :  May 11, 2021
+Departure Time :   07:44
+Arr. Time      :   09:50
+Flight Time    :   02:06      
+Log Time       :  906:46
 {% endhighlight %}
 {% highlight markdown %}
 FLIGHT WEIGHTS
-PAX            :     158 people
-Cargo          :     500 lbs
-Fuel Loaded    :  22.100 lbs
+PAX            :     161 people
+Cargo          :     900 lbs
+Fuel Loaded    :  10.700 lbs
+Takeoff Weight : 146.100 lbs
+{% endhighlight %}
+{% highlight markdown %}
+FLIGHT ROUTE
+Flight Level   : FL STEPS EHAM/0340/
+Flt Distance   : 724 NM
+Route          : EHAM KUDA1R WOODY N872 MEDIL UN872 KOVIN UM728 RESMI UN857 DIRMO
+                 UZ365 NARAK UN859 PUMAL PUMA1Y LEBL
+{% endhighlight %}
+{% highlight markdown %}
+WEATHER
+Dep. Weather   : EHAM 120255Z 23003KT FEW020 08/06 Q1010 NOSIG
+Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
+{% endhighlight %}
+
+<section id ="1"></section>
+## 0001 - Phoenix/PHX - Saint Louis/STL
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  :  AA489
+Flight Co.     :  American Airlines
+Aircraft Model :  Airbus A319-100
+Departure      :  KPHX/PHX Phoenix, United States (-7 UTC)
+Arrival        :  KSTL/STL Saint Louis, United States (-6 UTC)
+{% endhighlight %}
+{% highlight markdown %}
+FLIGHT SCHEDULE AND TIMES
+Flight Date    :  December 31, 2016
+Departure Time :  09:05
+Arr. Time      :  12:58
+Flight Time    :   2:53      
+Log Time       :   2:53
+{% endhighlight %}
+{% highlight markdown %}
+FLIGHT WEIGHTS
+PAX            :     161 people
+Cargo          :     400 lbs
+Fuel Loaded    :  21.900 lbs
 Takeoff Weight : 150.100 lbs
 {% endhighlight %}
 {% highlight markdown %}
-FLIGHT PERFORMANCE
-Flight Level   : FL STEPS KJFK/0360/
-Flt Distance   : 866 NM
-Route          : KCLT/36C BARMY4 TYI DCT ORF J121 SIE CAMRN4 KJFK/31L
-Dep. Weather   : KJFK 082051Z 28013KT 10SM SCT047 BKN060 M04/M18 A3035
-KORD/ORD  -O'HARE INTL
-   KORD 090051Z 18008KT 10SM SCT120 BKN150 OVC200 M10/M17 A3052
+FLIGHT PERFORMANCE, ROUTE AND WEATHER
+Flight Level   : FL STEPS PHX/0330/
+Flt Distance   : 1.022 NM
+Route          : KPHX/26 FORPE1 ABQ DCT FTI DCT KA36W DCT KK42A DCT BUM KAYLA3
+                 KSTL/06
+Dep. Weather   : KPHX 311551Z 21003KT 8SM SCT006 BKN008 OVC012 13/12 A2992
+Arr. Weather   : KSTL 311551Z 21018KT 10SM BKN065 OVC250 09/M09 A2975
 {% endhighlight %}
