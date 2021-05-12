@@ -18,8 +18,8 @@ Flight Co.     : American Airlines
 Aircraft Model : Boeing 737-800
 Departure      : KJFK/JFK New York, United States (-5 UTC)
 Arrival        : KORD/ORD Chicago, United States (-6 UTC)
-{% highlight markdown %}
 {% endhighlight %}
+{% highlight markdown %}
 FLIGHT SCHEDULE AND TIMES
 Flight Date    : December 31, 2016
 Dep. Scheduled : 17:00      Dep. Time :   17:10
