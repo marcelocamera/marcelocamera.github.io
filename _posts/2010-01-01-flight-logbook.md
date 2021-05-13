@@ -9,12 +9,12 @@ excerpt_separator: <!--more-->
 Nesse post vou inserir um log dos meus voos e minhas observações sobre cada deles.
 <!--more-->
 
-<a href="#1"><b>001-010</b></a> 011-020 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
+<a href="#de1a10"><b>001-010</b></a> 011-020 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
 101-110 111-120 121-130 131-140 141-150 151-160 161-170 171-180 181-190 191-200
 201-210 211-220 221-230 231-240 241-250 251-260 261-270 271-280 281-290 291-300
 301-310 311-320 321-330 331-340 341-350 <a href="#351"><b>351-360</b></a> 361-370 371-380 381-390 391-400
 
-<section id ="#361"></section>
+<section id ="361"></section>
 ## 0355 - Amsterdan/AMS - Barcelona/BCN
 {% highlight markdown %}
 FLIGHT INFORMATION
@@ -52,7 +52,7 @@ Dep. Weather   : EHAM 120255Z 23003KT FEW020 08/06 Q1010 NOSIG
 Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 {% endhighlight %}
 
-<section id ="#1"></section>
+<section id ="de1a10"></section>
 ## 0001 - Phoenix/PHX - Saint Louis/STL
 {% highlight markdown %}
 FLIGHT INFORMATION
