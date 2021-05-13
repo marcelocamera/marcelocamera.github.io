@@ -53,6 +53,43 @@ Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 {% endhighlight %}
 
 <section id ="de1a10"></section>
+## 0002 - Saint Louis/STL - Charlotte/CLT
+#### Flight Information
+{% highlight markdown %}
+Flight Number  : AA1823
+Flight Co.     : American Airlines
+Aircraft Model : Airbus A319-100
+Departure      : KSTL/STL Saint Louis, United States (-6 UTC)
+Arrival        : KCLT/CLT Charlotte, United States (-5 UTC)
+{% endhighlight %}
+#### Flight Schedule
+{% highlight markdown %}
+Flight Date    : January 1, 2017
+Departure Time : 07:10
+Arr. Time      : 10:33
+Flight Time    : 02:23      
+Log Time       : 05:16
+{% endhighlight %}
+#### Flight Weights
+{% highlight markdown %}
+PAX            : 135 people
+Cargo          : 300 lbs
+Fuel Loaded    : 14.000 lbs
+Takeoff Weight : 145.100 lbs
+{% endhighlight %}
+#### Flight Route
+{% highlight markdown %}
+Flight Level   : FL STEPS KSTL/0370
+Flt Distance   : 490 NM
+Route          : KSTL/30L JHART6 DOBLR DCT CAROL J134 FLM DCT TAFTT PARQR3 KCLT/23
+{% endhighlight %}
+#### Flight Weather
+{% highlight markdown %}
+Dep. Weather   : KSTL 011451Z 29006KT 10SM FEW250 00/M04 A3009
+Arr. Weather   : KCLT 011451Z 24006KT 2SM BR SCT002 OVC014 06/05 A3021
+{% endhighlight %}
+
+
 ## 0001 - Phoenix/PHX - Saint Louis/STL
 #### Flight Information
 {% highlight markdown %}
@@ -67,8 +104,8 @@ Arrival        :  KSTL/STL Saint Louis, United States (-6 UTC)
 Flight Date    :  December 31, 2016
 Departure Time :  09:05
 Arr. Time      :  12:58
-Flight Time    :   2:53      
-Log Time       :   2:53
+Flight Time    :  02:53      
+Log Time       :  02:53
 {% endhighlight %}
 #### Flight Weights
 {% highlight markdown %}
@@ -84,7 +121,7 @@ Flt Distance   : 1.022 NM
 Route          : KPHX/26 FORPE1 ABQ DCT FTI DCT KA36W DCT KK42A DCT BUM KAYLA3
                  KSTL/06
 {% endhighlight %}
-#### Flight Route
+#### Flight Weather
 {% highlight markdown %}
 Dep. Weather   : KPHX 311551Z 21003KT 8SM SCT006 BKN008 OVC012 13/12 A2992
 Arr. Weather   : KSTL 311551Z 21018KT 10SM BKN065 OVC250 09/M09 A2975
