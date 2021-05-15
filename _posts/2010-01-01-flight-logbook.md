@@ -6,9 +6,9 @@ comments: true
 tags: flight-simulator
 excerpt_separator: <!--more-->
 ---
+<section id ="top"></section>
 Nesse post vou inserir um log dos meus voos e minhas observações sobre cada deles.
 <!--more-->
-<section id ="top"></section>
 <a href="#010"><b>001-010</b></a> 011-020 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
 101-110 111-120 121-130 131-140 141-150 151-160 161-170 171-180 181-190 191-200
 201-210 211-220 221-230 231-240 241-250 251-260 261-270 271-280 281-290 291-300
@@ -121,6 +121,75 @@ Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 
 <!--- Até 010 --->
 <section id ="010"></section>
+<!--- 0006 --->
+## <a href="#top"><b>0005 - Boston/BOS - London/LHR</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : BA214
+Flight Co.     : British Airways
+Aircraft Model : Boeing 747-400
+Departure      : KBOS/BOS Boston, United States (-5 UTC)
+Arrival        : EGLL/LHR London, United Kingdom (0 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 14, 2017
+Departure Time : 22:45
+Arr. Time      : 11:38
+Flight Time    : 7:53
+Log Time       : 21:33
+
+FLIGHT WEIGHTS
+PAX            : 365 people
+Cargo          : 2.900 lbs
+Fuel Loaded    : 152.400 lbs
+Takeoff Weight : 639.800 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS KBOS/0350/JOOPY/0370
+Flt Distance   : 2.813 NM
+Route          : KBOS/27 LBSTA6 LBSTA DCT ALLEX N263A JOOPY DCT 49N050W 50N040W
+                 51N030W 51N020W DCT DINIM DCT ELSOX DCT LESLU N514 DIDEL N513
+                 ELRIP N17 OTMET OTMET1H EGLL/09L
+
+FLIGHT WEATHER
+Dep. Weather   : KBOS 150254Z 23012KT 10SM OVC090 M01/M07 A3033
+Arr. Weather   : EGLL 151120Z 27009KT 9000 -RA FEW008 BKN012 06/06 Q1021
+{% endhighlight %}
+
+<!--- 0005 --->
+## <a href="#top"><b>0005 - Chicago/ORD - Boston/BOS</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : AA2222
+Flight Co.     : American Airlines
+Aircraft Model : Boeing 737-800
+Departure      : KORD/ORD Chicago, United States (-6 UTC)
+Arrival        : KBOS/BOS Boston, United States (-5 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 9, 2017
+Departure Time : 12:15
+Arr. Time      : 15:45
+Flight Time    : 2:30
+Log Time       : 13:40
+
+FLIGHT WEIGHTS
+PAX            : 161 people
+Cargo          : 400 lbs
+Fuel Loaded    : 18.800 lbs
+Takeoff Weight : 147.400 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS KORD/0350/
+Flt Distance   : 689 NM
+Route          : KORD/28R DCT EBAKE DCT WISMO DCT POSTS DCT PADDE DCT SVM DCT DKK
+                 DCT PONCT JFUND2 KBOS/33L
+
+FLIGHT WEATHER
+Dep. Weather   : KORD 091751Z 23008KT 10SM SCT140 OVC250 M03/M09 A3025
+Arr. Weather   : KBOS 091954Z 22009KT 10SM FEW050 OVC200 M07/M17 A3066
+{% endhighlight %}
+
 <!--- 0004 --->
 ## <a href="#top"><b>0004 - New York/JFK - Chicago/ORD</b></a>
 {% highlight markdown %}
