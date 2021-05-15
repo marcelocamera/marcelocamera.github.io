@@ -268,6 +268,7 @@ Flight Level   : FL STEPS PHX/0330/
 Flt Distance   : 1.022 NM
 Route          : KPHX/26 FORPE1 ABQ DCT FTI DCT KA36W DCT KK42A DCT BUM KAYLA3
                  KSTL/06
+                 </br>
 {% endhighlight %}
 #### Flight Weather
 {% highlight markdown %}
