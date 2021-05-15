@@ -9,14 +9,15 @@ excerpt_separator: <!--more-->
 Nesse post vou inserir um log dos meus voos e minhas observações sobre cada deles.
 <!--more-->
 <section id ="top"></section>
-<a href="#001"><b>001-010</b></a> 011-020 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
+<a href="#010"><b>001-010</b></a> 011-020 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
 101-110 111-120 121-130 131-140 141-150 151-160 161-170 171-180 181-190 191-200
 201-210 211-220 221-230 231-240 241-250 251-260 261-270 271-280 281-290 291-300
-301-310 311-320 321-330 331-340 341-350 <a href="#351"><b>351-360</b></a> 361-370 371-380 381-390 391-400
+301-310 311-320 321-330 331-340 341-350 <a href="#360"><b>351-360</b></a> 361-370 371-380 381-390 391-400
 
-<!--- De 351 a 360 --->
-<section id ="351"></section>
-## 0357 - Birmingham/BHX - Sofia/SOF
+<!--- Até 360 --->
+<section id ="360"></section>
+<!--- 0357 --->
+## <a href="#top"><b>0357 - Birmingham/BHX - Sofia/SOF</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  :  VWT462
@@ -50,7 +51,8 @@ Dep. Weather   : EGBB 150250Z 15004KT 5000 RA BKN015 08/07 Q1002
 Arr. Weather   : LBSF 150230Z VRB02KT RA OVC078 06/05 Q1013 NOSIG
 {% endhighlight %}
 
-## 0356 - Barcelona/BCN - Birmingham/BHX
+<!--- 0356 --->
+## <a href="#top"><b>0356 - Barcelona/BCN - Birmingham/BHX</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : VY1670
@@ -83,7 +85,8 @@ Dep. Weather   : LEBL 130230Z 31007KT CAVOK 17/06 Q1013 NOSIG
 Arr. Weather   : EGBB 130250Z 04004KT RA OVC010 09/07 Q1007
 {% endhighlight %}
 
-## 0355 - Amsterdan/AMS - Barcelona/BCN
+<!--- 0355 --->
+## <a href="#top"><b>0355 - Amsterdan/AMS - Barcelona/BCN</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : KL1681
@@ -116,9 +119,10 @@ Dep. Weather   : EHAM 120255Z 23003KT FEW020 08/06 Q1010 NOSIG
 Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 {% endhighlight %}
 
-<!--- De 001 a 010 --->
-<section id ="001"></section>
-## 0004 - New York/JFK - Chicago/ORD
+<!--- Até 010 --->
+<section id ="010"></section>
+<!--- 0004 --->
+## <a href="#top"><b>0004 - New York/JFK - Chicago/ORD</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA2270
@@ -150,7 +154,8 @@ Dep. Weather   : KJFK 082051Z 28013KT 10SM SCT047 BKN060 M04/M18 A3035
 Arr. Weather   : KORD 090051Z 18008KT 10SM SCT120 BKN150 OVC200 M10/M17 A3052
 {% endhighlight %}
 
-## 0003 - Charlotte/CLT - New York/JFK
+<!--- 0003 --->
+## <a href="#top"><b>0003 - Charlotte/CLT - New York/JFK</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA1972
@@ -182,7 +187,8 @@ Dep. Weather   : KCLT 012052Z 09005KT 2SM -RA BR OVC004 09/08 A3018
 Arr. Weather   : KJFK 012351Z 00000KT 10SM CLR 06/M09 A3036
 {% endhighlight %}
 
-## 0002 - Saint Louis/STL - Charlotte/CLT
+<!--- 0002 --->
+## <a href="#top"><b>0002 - Saint Louis/STL - Charlotte/CLT</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA1823
@@ -214,6 +220,7 @@ Dep. Weather   : KSTL 011451Z 29006KT 10SM FEW250 00/M04 A3009
 Arr. Weather   : KCLT 011451Z 24006KT 2SM BR SCT002 OVC014 06/05 A3021
 {% endhighlight %}
 
+<!--- 0001 --->
 ## <a href="#top"><b>0001 - Phoenix/PHX - Saint Louis/STL</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
