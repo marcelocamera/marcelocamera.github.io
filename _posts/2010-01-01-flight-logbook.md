@@ -28,16 +28,16 @@ Arrival        :  LBSF/SOF Sofia, Bulgaria (+3 UTC)
 {% highlight markdown %}
 FLIGHT SCHEDULE AND TIMES
 Flight Date    :  May 14, 2021
-Departure Time :   13:15
-Arr. Time      :   17:59
-Flight Time    :   03:44
+Departure Time :  13:15
+Arr. Time      :  17:59
+Flight Time    :  03:44
 Log Time       :  913:53
 {% endhighlight %}
 {% highlight markdown %}
 FLIGHT WEIGHTS
-PAX            :     169 people
-Cargo          :     700 lbs
-Fuel Loaded    :  18.700 lbs
+PAX            : 169 people
+Cargo          : 700 lbs
+Fuel Loaded    : 18.700 lbs
 Takeoff Weight : 142.200 lbs
 {% endhighlight %}
 {% highlight markdown %}
@@ -57,25 +57,25 @@ Arr. Weather   : LBSF 150230Z VRB02KT RA OVC078 06/05 Q1013 NOSIG
 ## 0356 - Barcelona/BCN - Birmingham/BHX
 {% highlight markdown %}
 FLIGHT INFORMATION
-Flight Number  :  VY1670
-Flight Co.     :  Vueling Airlines
-Aircraft Model :  Airbus A320-NEO
-Departure      :  LEBL/BCN Barcelona, Spain (+2 UTC)
-Arrival        :  EGBB/BHX Birmingham, United Kingdom (+1 UTC)
+Flight Number  : VY1670
+Flight Co.     : Vueling Airlines
+Aircraft Model : Airbus A320-NEO
+Departure      : LEBL/BCN Barcelona, Spain (+2 UTC)
+Arrival        : EGBB/BHX Birmingham, United Kingdom (+1 UTC)
 {% endhighlight %}
 {% highlight markdown %}
 FLIGHT SCHEDULE AND TIMES
-Flight Date    :  May 12, 2021
-Departure Time :   13:52
-Arr. Time      :   14:56
-Flight Time    :   02:04      
-Log Time       :  910:09
+Flight Date    : May 12, 2021
+Departure Time : 13:52
+Arr. Time      : 14:56
+Flight Time    : 02:04      
+Log Time       : 910:09
 {% endhighlight %}
 {% highlight markdown %}
 FLIGHT WEIGHTS
-PAX            :     169 people
-Cargo          :     700 lbs
-Fuel Loaded    :  11.100 lbs
+PAX            : 169 people
+Cargo          : 700 lbs
+Fuel Loaded    : 11.100 lbs
 Takeoff Weight : 139.900 lbs
 {% endhighlight %}
 {% highlight markdown %}
@@ -94,25 +94,25 @@ Arr. Weather   : EGBB 130250Z 04004KT RA OVC010 09/07 Q1007
 ## 0355 - Amsterdan/AMS - Barcelona/BCN
 {% highlight markdown %}
 FLIGHT INFORMATION
-Flight Number  :  KL1681
-Flight Co.     :  KLM Royal Dutch Airlines
-Aircraft Model :  Airbus A320-NEO
-Departure      :  EHAM/AMS Amsterdan, Netherlands (+2 UTC)
-Arrival        :  LEBL/BCN Barcelona, Spain (+2 UTC)
+Flight Number  : KL1681
+Flight Co.     : KLM Royal Dutch Airlines
+Aircraft Model : Airbus A320-NEO
+Departure      : EHAM/AMS Amsterdan, Netherlands (+2 UTC)
+Arrival        : LEBL/BCN Barcelona, Spain (+2 UTC)
 {% endhighlight %}
 {% highlight markdown %}
 FLIGHT SCHEDULE AND TIMES
-Flight Date    :  May 11, 2021
-Departure Time :   07:44
-Arr. Time      :   09:50
-Flight Time    :   02:06      
-Log Time       :  906:46
+Flight Date    : May 11, 2021
+Departure Time : 07:44
+Arr. Time      : 09:50
+Flight Time    : 02:06      
+Log Time       : 906:46
 {% endhighlight %}
 {% highlight markdown %}
 FLIGHT WEIGHTS
-PAX            :     161 people
-Cargo          :     900 lbs
-Fuel Loaded    :  10.700 lbs
+PAX            : 161 people
+Cargo          : 900 lbs
+Fuel Loaded    : 10.700 lbs
 Takeoff Weight : 146.100 lbs
 {% endhighlight %}
 {% highlight markdown %}
@@ -241,25 +241,25 @@ Arr. Weather   : KCLT 011451Z 24006KT 2SM BR SCT002 OVC014 06/05 A3021
 ## 0001 - Phoenix/PHX - Saint Louis/STL
 #### Flight Information
 {% highlight markdown %}
-Flight Number  :  AA489
-Flight Co.     :  American Airlines
-Aircraft Model :  Airbus A319-100
-Departure      :  KPHX/PHX Phoenix, United States (-7 UTC)
-Arrival        :  KSTL/STL Saint Louis, United States (-6 UTC)
+Flight Number  : AA489
+Flight Co.     : American Airlines
+Aircraft Model : Airbus A319-100
+Departure      : KPHX/PHX Phoenix, United States (-7 UTC)
+Arrival        : KSTL/STL Saint Louis, United States (-6 UTC)
 {% endhighlight %}
 #### Flight Schedule
 {% highlight markdown %}
-Flight Date    :  December 31, 2016
-Departure Time :  09:05
-Arr. Time      :  12:58
-Flight Time    :  02:53      
-Log Time       :  02:53
+Flight Date    : December 31, 2016
+Departure Time : 09:05
+Arr. Time      : 12:58
+Flight Time    : 02:53      
+Log Time       : 02:53
 {% endhighlight %}
 #### Flight Weights
 {% highlight markdown %}
-PAX            :     161 people
-Cargo          :     400 lbs
-Fuel Loaded    :  21.900 lbs
+PAX            : 161 people
+Cargo          : 400 lbs
+Fuel Loaded    : 21.900 lbs
 Takeoff Weight : 150.100 lbs
 {% endhighlight %}
 #### Flight Route
