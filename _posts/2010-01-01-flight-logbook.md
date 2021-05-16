@@ -16,6 +16,40 @@ Nesse post vou inserir um log dos meus voos e minhas observações sobre cada de
 
 <!--- Até 360 --->
 <section id ="360"></section>
+<!--- 0358 --->
+## <a href="#top"><b>0358 - Sofia/SOF - Salzburg/SZG</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  :  OS1455
+Flight Co.     :  Austrian Airlines
+Aircraft Model :  Airbus A320-NEO
+Departure      :  LBSF/SOF Sofia, Bulgaria (+3 UTC)
+Arrival        :  LOWS/SZG Salzburg, Austria (+2 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    :  May 16, 2021
+Departure Time :  13:47
+Arr. Time      :  14:34
+Flight Time    :  01:47
+Log Time       :  915:40
+
+FLIGHT WEIGHTS
+PAX            : 169 people
+Cargo          : 800 lbs
+Fuel Loaded    : 10.500 lbs
+Takeoff Weight : 134.200 lbs
+
+FLIGHT ROUTE
+Flight Level   : FL STEPS LBSF/0320/
+Flt Distance   : 625 NM
+Route          : LBSF/27 GODE2T ERDOM N133 NEKUL P975 MIVSA NUBR2R LOWS/15
+
+FLIGHT WEATHER
+Dep. Weather   : LBSF 162200Z 14003KT 080V230 9999 0500W BCFG SCT004 08/08 Q1011
+Arr. Weather   : LOWS 162150Z AUTO 16006KT 130V200 9999 -SHRA FEW050 SCT060 BKN110
+                 10/09 Q1006
+{% endhighlight %}
+
 <!--- 0357 --->
 ## <a href="#top"><b>0357 - Birmingham/BHX - Sofia/SOF</b></a>
 {% highlight markdown %}
