@@ -155,8 +155,110 @@ Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 
 <!--- Até 010 --->
 <section id ="010"></section>
+<!--- 0009 --->
+## <a href="#top"><b>0009 - Madrid/MAD - Zurich/ZRH</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : IB3476
+Flight Co.     : Iberia Líneas Aéreas de España
+Aircraft Model : Airbus A320-200
+Departure      : LEMD/MAD Madrid, Spain (+1 UTC)
+Arrival        : LSZH/ZRH Zurich, Switzerland (+1 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 17, 2017
+Departure Time : 19:53
+Arr. Time      : 22:32
+Flight Time    : 2:39
+Log Time       : 27:37
+
+FLIGHT WEIGHTS
+PAX            : 177 people
+Cargo          : 0 lbs
+Fuel Loaded    : 21.300 lbs
+Takeoff Weight : 157.900 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS LEMD/0280/CEGAM/0230/SSN/0240/URUNA/0180/RLP/0190
+Flt Distance   : 789 NM
+Route          : LEMD/36L RBO1N RBO UN867 DGO UL176 CEGAM B190 SSN R10 LMG G21 RLP
+                 G4 LUL G42 BLM DCT ZH677 DCT GIPOL DCT ZH713 DCT ZH714 DCT OSNEM
+                 DCT LSZH/34
+
+FLIGHT WEATHER
+Dep. Weather   : LEMD 170800Z 36013KT CAVOK 08/02 Q1018
+Arr. Weather   : LSZH 172120Z 05013KT 020V080 9999 FEW023 BKN027 M04/M09 Q1028
+{% endhighlight %}
+
+<!--- 0008 --->
+## <a href="#top"><b>0008 - Paris/CDG - Madrid/MAD</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : AF1600
+Flight Co.     : Air France
+Aircraft Model : Airbus A320-200
+Departure      : LFPG/CDG Paris, France (+1 UTC)
+Arrival        : LEMD/MAD Madrid, Spain (+1 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 16, 2017
+Departure Time : 14:45
+Arr. Time      : 16:50
+Flight Time    : 2:00
+Log Time       : 24:58
+
+FLIGHT WEIGHTS
+PAX            : 163 people
+Cargo          : 200 lbs
+Fuel Loaded    : 16.600 lbs
+Takeoff Weight : 150.100 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS LFPG/0330/
+Flt Distance   : 629 NM
+Route          : LFPG/09R AGOPA2G AGOPA UL167 ARTAX UN857 BAN BAN1J LEMD/32L
+
+FLIGHT WEATHER
+Dep. Weather   : LFPG 161230Z 04004KT 360V060 7000 BKN009 BKN063 02/00 Q1026 NOSIG
+Arr. Weather   : LEMD 161530Z 01016KT 340V040 9999 FEW070 11/01 Q1022 NOSIG
+{% endhighlight %}
+
+<!--- 0007 --->
+## <a href="#top"><b>0007 - London/LHR - Paris/CDG</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : BA304
+Flight Co.     : British Airways
+Aircraft Model : Airbus A320-200
+Departure      : EGLL/LHR London, United Kingdom (0 UTC)
+Arrival        : LFPG/CDG Paris, France (+1 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 15, 2017
+Departure Time : 14:15
+Arr. Time      : 16:35
+Flight Time    : 1:20
+Log Time       : 22:53
+
+FLIGHT WEIGHTS
+PAX            : 165 people
+Cargo          : 200 lbs
+Fuel Loaded    : 11.600 lbs
+Takeoff Weight : 146.600 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS EGLL/0250/
+Flt Distance   : 208 NM
+Route          : EGLL/27R MID4F MID UL612 BOGNA DCT HARDY UM605 BIBAX BIBAX8E
+                 LFPG/09R
+
+FLIGHT WEATHER
+Dep. Weather   : EGLL 151350Z 30007KT 5000 -RA FEW005 BKN011 08/08 Q1020
+Arr. Weather   : LFPG 151530Z 23005KT 6000 -SNRA SCT005 BKN007 BKN017 02/01 Q1022
+{% endhighlight %}
+
 <!--- 0006 --->
-## <a href="#top"><b>0005 - Boston/BOS - London/LHR</b></a>
+## <a href="#top"><b>0006 - Boston/BOS - London/LHR</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : BA214
