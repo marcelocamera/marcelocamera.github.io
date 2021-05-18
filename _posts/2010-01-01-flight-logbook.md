@@ -156,9 +156,72 @@ Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 
 <!--- Até 020 --->
 <section id ="020"></section>
+<!--- 0012 --->
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0012 - Stockholm/ARN - London/LHR</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : BA771
+Flight Co.     : British Airways
+Aircraft Model : Boeing 737-800
+Departure      : ESSA/ARN Stockholm, Sweden (+1 UTC)
+Arrival        : EGLL/LHR London, United Kingdom (0 UTC)
 
+FLIGHT SCHEDULE
+Flight Date    : January 20, 2017
+Departure Time : 18:05
+Arr. Time      : 19:50
+Flight Time    : 2:45
+Log Time       : 34:02
 
+FLIGHT WEIGHTS
+PAX            : 127 people
+Cargo          : 400 lbs
+Fuel Loaded    : 18.100 lbs
+Takeoff Weight : 140.200 lbs
 
+ROUTE INFORMATION
+Flight Level   : FL STEPS ESSA/0330
+Flt Distance   : 665 NM
+Route          : ESSA DEPEX UN866 RAM UN581 EVAKI UN866 GOLUM UP144 LARGA UM604
+                 LEDBO UN866 BANEM EGLL
+
+FLIGHT WEATHER
+Dep. Weather   : ESSA 201650Z 27005KT CAVOK 04/02 Q1019
+Arr. Weather   : EGLL 201920Z AUTO 05004KT 9999 NCD 03/M02 Q1031
+{% endhighlight %}
+
+<!--- 0011 --->
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0011 - Amsterdam/AMS - Stockholm/ARN</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : KL1107
+Flight Co.     : KLM Royal Dutch Airlines
+Aircraft Model : Boeing 737-800
+Departure      : EHAM/AMS Amsterdam, Netherlands (+1 UTC)
+Arrival        : ESSA/ARN Stockholm, Sweden (+1 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 19, 2017
+Departure Time : 06:50
+Arr. Time      : 08:50
+Flight Time    : 2:00
+Log Time       : 31:17
+
+FLIGHT WEIGHTS
+PAX            : 171 people
+Cargo          : 300 lbs
+Fuel Loaded    : 17.900 lbs
+Takeoff Weight : 148.700 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS EHAM/0190/LABIL/0230/TUSKA/0350
+Flt Distance   : 665 NM
+Route          : EHAM/27 SPY1P ANDIK N873 ARS T317 ELTOK ELTOK7S ESSA/08
+
+FLIGHT WEATHER
+Dep. Weather   : EHAM 190525Z 09003KT 6000 BCFG NSC M05/M06 Q1038
+Arr. Weather   : ESSA 190720Z 26012KT 9999 OVC003 02/02 Q1021
+{% endhighlight %}
 
 <!--- Até 010 --->
 <section id ="010"></section>
