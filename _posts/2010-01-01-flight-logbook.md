@@ -258,7 +258,7 @@ Arr. Weather   : LFPG 151530Z 23005KT 6000 -SNRA SCT005 BKN007 BKN017 02/01 Q102
 {% endhighlight %}
 
 <!--- 0006 --->
-## <a href="#top"><b>0006 - Boston/BOS - London/LHR</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0006 - Boston/BOS - London/LHR</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : BA214
