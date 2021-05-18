@@ -8,8 +8,9 @@ excerpt_separator: <!--more-->
 ---
 <section id ="top"></section>
 Nesse post vou inserir um log dos meus voos e minhas observações sobre cada deles.
+
 <!--more-->
-<a href="#010"><b>001-010</b></a> 011-020 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
+<a href="#010"><b>001-010</b></a> <a href="#020"><b>011-020</b></a> 021-030 031-040 041-050 051-060 061-070 071-080 081-090 091-100
 101-110 111-120 121-130 131-140 141-150 151-160 161-170 171-180 181-190 191-200
 201-210 211-220 221-230 231-240 241-250 251-260 261-270 271-280 281-290 291-300
 301-310 311-320 321-330 331-340 341-350 <a href="#360"><b>351-360</b></a> 361-370 371-380 381-390 391-400
@@ -17,7 +18,7 @@ Nesse post vou inserir um log dos meus voos e minhas observações sobre cada de
 <!--- Até 360 --->
 <section id ="360"></section>
 <!--- 0358 --->
-## <a href="#top"><b>0358 - Sofia/SOF - Salzburg/SZG</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0358 - Sofia/SOF - Salzburg/SZG</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  :  OS1455
@@ -51,7 +52,7 @@ Arr. Weather   : LOWS 162150Z AUTO 16006KT 130V200 9999 -SHRA FEW050 SCT060 BKN1
 {% endhighlight %}
 
 <!--- 0357 --->
-## <a href="#top"><b>0357 - Birmingham/BHX - Sofia/SOF</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0357 - Birmingham/BHX - Sofia/SOF</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  :  VWT462
@@ -86,7 +87,7 @@ Arr. Weather   : LBSF 150230Z VRB02KT RA OVC078 06/05 Q1013 NOSIG
 {% endhighlight %}
 
 <!--- 0356 --->
-## <a href="#top"><b>0356 - Barcelona/BCN - Birmingham/BHX</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0356 - Barcelona/BCN - Birmingham/BHX</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : VY1670
@@ -120,7 +121,7 @@ Arr. Weather   : EGBB 130250Z 04004KT RA OVC010 09/07 Q1007
 {% endhighlight %}
 
 <!--- 0355 --->
-## <a href="#top"><b>0355 - Amsterdan/AMS - Barcelona/BCN</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0355 - Amsterdan/AMS - Barcelona/BCN</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : KL1681
@@ -153,10 +154,51 @@ Dep. Weather   : EHAM 120255Z 23003KT FEW020 08/06 Q1010 NOSIG
 Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 {% endhighlight %}
 
+<!--- Até 020 --->
+<section id ="020"></section>
+
+
+
+
 <!--- Até 010 --->
 <section id ="010"></section>
+<!--- 0010 --->
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0010 - Zurich/ZRH - Amsterdam/AMS</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : KL1952
+Flight Co.     : KLM Royal Dutch Airlines
+Aircraft Model : Boeing 737-800
+Departure      : LSZH/ZRH Zurich, Switzerland (+1 UTC)
+Arrival        : EHAM/AMS Amsterdam, Netherlands (+1 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 18, 2017
+Departure Time : 07:00
+Arr. Time      : 08:40
+Flight Time    : 1:40
+Log Time       : 29:17
+
+FLIGHT WEIGHTS
+PAX            : 176 people
+Cargo          : 0 lbs
+Fuel Loaded    : 15.200 lbs
+Takeoff Weight : 146.800 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS LSZH/0180/LASUN/0360/BUB/0180
+Flt Distance   : 512 NM
+Route          : LSZH/34 VEBIT2H VEBIT T51 LASUN UT10 TORPA UM624 LUL UT60 GIVOR UN853
+                 IBERA DCT BUB Y28 HELEN HELEN1A EHAM/18R
+
+FLIGHT WEATHER
+Dep. Weather   : LSZH 180550Z 04010KT 010V070 9999 BKN022 M05/M09 Q1028
+Arr. Weather   : EHAM 180725Z 16003KT 120V190 0600 FZFG -SG SCT000 BKN001 M05/M06
+                 Q1040
+{% endhighlight %}
+
 <!--- 0009 --->
-## <a href="#top"><b>0009 - Madrid/MAD - Zurich/ZRH</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0009 - Madrid/MAD - Zurich/ZRH</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : IB3476
@@ -191,7 +233,7 @@ Arr. Weather   : LSZH 172120Z 05013KT 020V080 9999 FEW023 BKN027 M04/M09 Q1028
 {% endhighlight %}
 
 <!--- 0008 --->
-## <a href="#top"><b>0008 - Paris/CDG - Madrid/MAD</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0008 - Paris/CDG - Madrid/MAD</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AF1600
@@ -224,7 +266,7 @@ Arr. Weather   : LEMD 161530Z 01016KT 340V040 9999 FEW070 11/01 Q1022 NOSIG
 {% endhighlight %}
 
 <!--- 0007 --->
-## <a href="#top"><b>0007 - London/LHR - Paris/CDG</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0007 - London/LHR - Paris/CDG</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : BA304
@@ -293,7 +335,7 @@ Arr. Weather   : EGLL 151120Z 27009KT 9000 -RA FEW008 BKN012 06/06 Q1021
 {% endhighlight %}
 
 <!--- 0005 --->
-## <a href="#top"><b>0005 - Chicago/ORD - Boston/BOS</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0005 - Chicago/ORD - Boston/BOS</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA2222
@@ -327,7 +369,7 @@ Arr. Weather   : KBOS 091954Z 22009KT 10SM FEW050 OVC200 M07/M17 A3066
 {% endhighlight %}
 
 <!--- 0004 --->
-## <a href="#top"><b>0004 - New York/JFK - Chicago/ORD</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0004 - New York/JFK - Chicago/ORD</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA2270
@@ -360,7 +402,7 @@ Arr. Weather   : KORD 090051Z 18008KT 10SM SCT120 BKN150 OVC200 M10/M17 A3052
 {% endhighlight %}
 
 <!--- 0003 --->
-## <a href="#top"><b>0003 - Charlotte/CLT - New York/JFK</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0003 - Charlotte/CLT - New York/JFK</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA1972
@@ -393,7 +435,7 @@ Arr. Weather   : KJFK 012351Z 00000KT 10SM CLR 06/M09 A3036
 {% endhighlight %}
 
 <!--- 0002 --->
-## <a href="#top"><b>0002 - Saint Louis/STL - Charlotte/CLT</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0002 - Saint Louis/STL - Charlotte/CLT</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA1823
@@ -426,7 +468,7 @@ Arr. Weather   : KCLT 011451Z 24006KT 2SM BR SCT002 OVC014 06/05 A3021
 {% endhighlight %}
 
 <!--- 0001 --->
-## <a href="#top"><b>0001 - Phoenix/PHX - Saint Louis/STL</b></a>
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0001 - Phoenix/PHX - Saint Louis/STL</b></a>
 {% highlight markdown %}
 FLIGHT INFORMATION
 Flight Number  : AA489
