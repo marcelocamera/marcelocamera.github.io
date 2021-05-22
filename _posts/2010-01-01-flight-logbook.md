@@ -156,6 +156,39 @@ Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 
 <!--- Até 020 --->
 <section id ="020"></section>
+<!--- 0014 --->
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0014 - New York/JFK - Pittsburg/PIT</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : UA3529
+Flight Co.     : United Airlines
+Aircraft Model : Airbus A319-100
+Departure      : KJFK/JFK New York, United States (-5 UTC)
+Arrival        : KPIT/PIT Pittsburgh, United States (-5 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 22, 2017
+Departure Time : 10:10
+Arr. Time      : 11:40
+Flight Time    : 1:30
+Log Time       : 43:22
+
+FLIGHT WEIGHTS
+PAX            : 145 people
+Cargo          : 100 lbs
+Fuel Loaded    : 13.900 lbs
+Takeoff Weight : 139.800 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS KJFK/0340/
+Flt Distance   : 455 NM
+Route          : KJFK/04L DCT RBV J230 VINSE DEMME3 KPIT/10R
+
+FLIGHT WEATHER
+Dep. Weather   : KJFK 221451Z 04007KT 2SM BR OVC004 08/08 A2975
+Arr. Weather   : KPIT 221540Z AUTO 05005KT 10SM OVC085 A2964
+{% endhighlight %}
+
 <!--- 0013 --->
 ## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0013 - London/LHR - New York/JFK</b></a>
 {% highlight markdown %}
@@ -190,7 +223,6 @@ FLIGHT WEATHER
 Dep. Weather   : EGLL 211020Z AUTO 07004KT 9999 NCD 02/M02 Q1028 NOSIG
 Arr. Weather   : KJFK 211830Z AUTO 23008KT 4SM BR OVC007 A2983 RMK MADISHF
 {% endhighlight %}
-
 
 <!--- 0012 --->
 ## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0012 - Stockholm/ARN - London/LHR</b></a>
