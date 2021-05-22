@@ -156,6 +156,42 @@ Arr. Weather   : LEBL 120300Z 33008KT 9999 FEW025 11/08 Q1017 NOSIG
 
 <!--- Até 020 --->
 <section id ="020"></section>
+<!--- 0013 --->
+## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0013 - London/LHR - New York/JFK</b></a>
+{% highlight markdown %}
+FLIGHT INFORMATION
+Flight Number  : BA175
+Flight Co.     : British Airways
+Aircraft Model : Boeing 777-200
+Departure      : EGLL/LHR London, United Kingdom (0 UTC)
+Arrival        : KJFK/JFK New York, United States (-5 UTC)
+
+FLIGHT SCHEDULE
+Flight Date    : January 21, 2017
+Departure Time : 10:45
+Arr. Time      : 13:35
+Flight Time    : 7:50
+Log Time       : 41:52
+
+FLIGHT WEIGHTS
+PAX            : 313 people
+Cargo          : 3.600 lbs
+Fuel Loaded    : 116.700 lbs
+Takeoff Weight : 502.900 lbs
+
+ROUTE INFORMATION
+Flight Level   : FL STEPS EGLL/0360/LUTOV/0380/RESNO/0370/JANJO/0400
+Flt Distance   : 3.267 NM
+Route          : EGLL/27R UMLAT1F UMLAT T418 WELIN T420 TNT UL28 RODOL UM65 TENSO
+                 L603 REMSI DCT LUTOV DCT RESNO NATA JANJO N556A TOPPS DCT ENE
+                 ROBER2 KJFK/31L
+
+FLIGHT WEATHER
+Dep. Weather   : EGLL 211020Z AUTO 07004KT 9999 NCD 02/M02 Q1028 NOSIG
+Arr. Weather   : KJFK 211830Z AUTO 23008KT 4SM BR OVC007 A2983 RMK MADISHF
+{% endhighlight %}
+
+
 <!--- 0012 --->
 ## <a href="https://marcelocamera.github.io/2010-01-01/flight-logbook"><b>0012 - Stockholm/ARN - London/LHR</b></a>
 {% highlight markdown %}
@@ -182,8 +218,8 @@ Takeoff Weight : 140.200 lbs
 ROUTE INFORMATION
 Flight Level   : FL STEPS ESSA/0330
 Flt Distance   : 665 NM
-Route          : ESSA DEPEX UN866 RAM UN581 EVAKI UN866 GOLUM UP144 LARGA UM604
-                 LEDBO UN866 BANEM EGLL
+Route          : ESSA/26 DEPEX UN866 RAM UN581 EVAKI UN866 GOLUM UP144 LARGA UM604
+                 LEDBO UN866 BANEM EGLL/9R
 
 FLIGHT WEATHER
 Dep. Weather   : ESSA 201650Z 27005KT CAVOK 04/02 Q1019
