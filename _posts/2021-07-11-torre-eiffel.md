@@ -17,7 +17,7 @@ A data chave associada à história da Torre Eiffel é inegavelmente a Exposiç�
 O projeto fez surgir, na época, numerosos detratores que consideraram a Torre como uma ameaça à estética da cidade. através da carta de Protesto dos Artistas contra a Torre do Sr. Eiffel. Uma torre de ferro erguida em pleno coração de Paris não convinha por contrastar demasiadamente com a elegância e a beleza refinada da cidade.
 
 <figure>
-<a href="/assets/img/torre-eiffel-01.jpg">
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="https://marcelocamera.github.io/assets/img/torre-eiffel-01.jpg"></a>
 </figure>
 
 
