@@ -7,17 +7,17 @@ project: true
 tag:
 - fotografia
 - preto e branco
-- blog
-- about
-- theme
+- viagens
 comments: true
 ---
+A Torre Eiffel é o cartão postal da França, com a sua geometria e arquitetura intrigante, é o lugar mais visitado no mundo, com cerca de 7 milhões de visitantes.
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+A data chave associada à história da Torre Eiffel é inegavelmente a Exposição Universal de 1889. O projeto deveria erguer sobre o Campo de Marte uma torre de ferro, de base quadrada, com 125 metros de largura e 300 metros de altura. Dos 107 projetos apresentados, o de Gustave Eiffel foi o escolhido, ele tinha a seu lado os engenheiros Maurice Koechlin, Emile Nouguier e como arquiteto Stephen Sauvestre.
 
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
+O projeto fez surgir, na época, numerosos detratores que consideraram a Torre como uma ameaça à estética da cidade. através da carta de Protesto dos Artistas contra a Torre do Sr. Eiffel. Uma torre de ferro erguida em pleno coração de Paris não convinha por contrastar demasiadamente com a elegância e a beleza refinada da cidade.
 
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+<a href="/images/torre-eiffel-01.jpg">
+
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
 
