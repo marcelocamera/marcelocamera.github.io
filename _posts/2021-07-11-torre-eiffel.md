@@ -7,6 +7,9 @@ project: true
 tag:
 - fotografia
 - preto e branco
+- blog
+- about
+- theme
 comments: true
 ---
 
