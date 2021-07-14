@@ -21,13 +21,25 @@ O diafragma é um dispositivo mecânico encontrado dentro da lente que controla 
 Quanto menor o valor de f, maior será a abertura do diafragma e mais luz atingirá o sensor da câmera.
 
 <figure>
-	<a img src="https://marcelocamera.github.io/assets/img/tecnica-fotografica-01.jpg"></a>
-	<figcaption><a title="Relação entre o valor de f e a abertura do diafragma"></a></figcaption>
+	<img src="https://marcelocamera.github.io/assets/img/tecnica-fotografica-01.jpg">
+	<figcaption><center>Relação entre o valor de f e a abertura do diafragma</center></figcaption>
 </figure>
 
-### Heading 3
+> **Dica**: Com grandes aberturas do diafragma é possível fotografar em locais de pouca luz (ou a noite). Além disso é possível criar efeitos de desfoque no fundo das fotos.
 
-#### Heading 4
+## Velocidade do Obturador (1/x)
+O obturador é um mecanismo presente nas câmeras que também controla a exposição do sensor à entrada de luz.
+
+Quanto maior for a velocidade do obturador, menos luz incidirá no sensor.
+
+<figure>
+	<img src="https://marcelocamera.github.io/assets/img/tecnica-fotografica-02.jpg">
+	<figcaption><center>A velocidade do obturador e a imagem produzida</center></figcaption>
+</figure>
+
+
+
+#### Heading
 
 ##### Heading 5
 
