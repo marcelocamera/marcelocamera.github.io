@@ -61,4 +61,4 @@ Um dimensionamento errado do ISO (ISO alto) poderá provocar o surgimento do ru�
 	<figcaption><center>ISO e o surgimento do ruído</center></figcaption>
 </figure>
 
-O recurso da ISO deverá ser usado quando não houver mais abertura e velocidade suficientes para fazer a estabilização da exposição fotográfica.
+O recurso da ISO deverá ser usado quando não houver mais abertura e velocidade suficientes para fazer a estabilização da exposição fotográfica.	
