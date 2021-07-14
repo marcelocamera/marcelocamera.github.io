@@ -25,7 +25,9 @@ Quanto menor o valor de f, maior será a abertura do diafragma e mais luz atingi
 	<figcaption><center>Relação entre o valor de f e a abertura do diafragma</center></figcaption>
 </figure>
 
-> **Dica**: Com grandes aberturas do diafragma é possível fotografar em locais de pouca luz (ou a noite). Além disso é possível criar efeitos de desfoque no fundo das fotos.
+> **Dica 1**: Com grandes aberturas do diafragma é possível fotografar em locais de pouca luz (ou a noite).
+
+> **Dica 2**: Mantendo uma grande abertura do diafragma é possível criar o efeito de desfoque no fundo das fotos.
 
 ## Velocidade do Obturador (1/x)
 O obturador é um mecanismo presente nas câmeras que também controla a exposição do sensor à entrada de luz.
