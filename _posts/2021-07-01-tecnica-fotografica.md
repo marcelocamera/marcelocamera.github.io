@@ -21,7 +21,7 @@ O diafragma é um dispositivo mecânico encontrado dentro da lente que controla 
 Quanto menor o valor de f, maior será a abertura do diafragma e mais luz atingirá o sensor da câmera.
 
 <figure>
-	<img src="https://marcelocamera.github.io/assets/img/tecnica-fotográfica-01.jpg" alt="Uma imagem impressionante">
+	<img src="https://marcelocamera.github.io/assets/img/tecnica-fotografica-01.jpg">
 	<figcaption>Relação entre o valor de f e a abertura do diafragma</figcaption>
 </figure>
 
