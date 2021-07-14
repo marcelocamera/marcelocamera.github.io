@@ -40,9 +40,8 @@ google:
 #email:
 twitter:            marcelocamera
 facebook:           cameramarcelo
-#github-url:         username
+#github-url:        username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
 #xing:              username
 instagram:          marcelocamera
 #lastfm:            username
@@ -50,13 +49,14 @@ instagram:          marcelocamera
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
 flickr:             156045355@N04
+linkedin:           mcamera
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
