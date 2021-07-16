@@ -19,13 +19,13 @@ Nos milênios seguintes o terreno gradativamente se elevou e foi vagarosamente e
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-01.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-01.jpg"></a>
-	<figcaption><a>Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a></figcaption>
+	<figcaption><center><a>O Camelo</a></center></figcaption>
 </figure>
 
-
-
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-02.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-02.jpg"></a>
+	<figcaption><center><a>A cabeça do Leão</a></center></figcaption>
 </figure>
-
 
   Torre Eiffel é o cartão postal da França, com a sua geometria e arquitetura intrigante, é o lugar mais visitado no mundo, com cerca de 7 milhões de visitantes.
 
