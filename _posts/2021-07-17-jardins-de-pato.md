@@ -12,12 +12,12 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-01.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-01.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Oleandro (<i>Nerium oleander</i>)</a></center></figcaption>
 </figure>
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-02.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-02.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Quaresmeira (<i>Tibouchina granula</i>)</a></center></figcaption>
 </figure>
 
 <figure>
@@ -57,7 +57,7 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-10.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-10.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Abelha Uruçu-Amarela (Melipona rufiventris) voando na flor do Agapanto (Agapanthus campanulatus)</a></center></figcaption>
 </figure>
 
 <figure>
@@ -72,7 +72,7 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-13.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-13.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Abelha Uruçu-Amarela (Melipona rufiventris) voando na flor do Agapanto (Agapanthus campanulatus)</a></center></figcaption>
 </figure>
 
 <figure>
