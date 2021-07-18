@@ -52,7 +52,7 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-09.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-09.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Abelha Uruçu-Amarela (<i>Melipona rufiventris</i>) voando na Agapanto (<i>Agapanthus campanulatus</i>)</a></center></figcaption>
 </figure>
 
 <figure>
