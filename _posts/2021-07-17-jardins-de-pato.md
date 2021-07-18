@@ -92,5 +92,5 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-17.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-17.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>João-de-Barro (<i>Furnarius rufus</i>)</a></center></figcaption>
 </figure>
