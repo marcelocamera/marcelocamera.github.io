@@ -47,12 +47,12 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-08.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-08.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Orquídea Falenópsis (<i>Phalaenopsis amabilis</i>)</a></center></figcaption>
 </figure>
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-09.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-09.jpg"></a>
-	<figcaption><center><a>Abelha Uruçu-Amarela (<i>Melipona rufiventris</i>) voando na Agapanto (<i>Agapanthus campanulatus</i>)</a></center></figcaption>
+	<figcaption><center><a>Abelha Uruçu-Amarela (<i>Melipona rufiventris</i>) voando na flor do Agapanto (<i>Agapanthus campanulatus</i>)</a></center></figcaption>
 </figure>
 
 <figure>
@@ -62,7 +62,7 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-11.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-11.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Alface (<i>Lactuca sativa</i>)</a></center></figcaption>
 </figure>
 
 <figure>
@@ -82,12 +82,12 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-15.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-15.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Sabugueiro Vermelho (<i>Sambucus racemosa</i>)</a></center></figcaption>
 </figure>
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-16.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-16.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Jasmim (<i>Jasminum laurifolium</a>)</a></center></figcaption>
 </figure>
 
 <figure>
