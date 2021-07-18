@@ -27,25 +27,70 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-04.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-04.jpg"></a>
-	<figcaption><center><a>A cabeça do gorila</a></center></figcaption>
+	<figcaption><center><a></a></center></figcaption>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-05.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-05.jpg"></a>
-	<figcaption><center><a>A garrafa</a></center></figcaption>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-05.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-05.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-13.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-13.jpg"></a>
-	<figcaption><center><a>A esfinge</a></center></figcaption>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-06.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-06.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-16.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-16.jpg"></a>
-	<figcaption><center><a>O castelo</a></center></figcaption>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-07.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-07.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-20.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-20.jpg"></a>
-	<figcaption><center><a>A taça</a></center></figcaption>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-08.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-08.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-09.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-09.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-10.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-10.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-11.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-11.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-12.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-12.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-13.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-13.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-14.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-14.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-15.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-15.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-16.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-16.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
+</figure>
+
+<figure>
+	<a href="http://marcelocamera.github.io/assets/img/pato-branco-17.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-17.jpg"></a>
+	<figcaption><center><a></a></center></figcaption>
 </figure>
