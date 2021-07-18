@@ -87,7 +87,7 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-16.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-16.jpg"></a>
-	<figcaption><center><a>Jasmim (<i>Jasminum laurifolium</a>)</a></center></figcaption>
+	<figcaption><center><a>Jasmim (<i>Jasminum laurifolium</i>)</a></center></figcaption>
 </figure>
 
 <figure>
