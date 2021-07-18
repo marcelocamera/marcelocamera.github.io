@@ -22,12 +22,12 @@ comments: true
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-03.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-03.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Sabugueiro Vermelho (<i>Sambucus racemosa</i>)</a></center></figcaption>
 </figure>
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/pato-branco-04.jpg"><img src="http://marcelocamera.github.io/assets/img/pato-branco-04.jpg"></a>
-	<figcaption><center><a></a></center></figcaption>
+	<figcaption><center><a>Algodãozinho do Campo (<i>Asclepias curassavica</i>)</a></center></figcaption>
 </figure>
 
 <figure>
