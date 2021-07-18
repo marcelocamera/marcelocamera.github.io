@@ -64,7 +64,7 @@ A Furna 2 tem uma profundidade de 40 metros até o nível da água e 30 metros d
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-23.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-22.jpg"></a>
+	<a href="http://marcelocamera.github.io/assets/img/ponta-grossa-23.jpg"><img src="http://marcelocamera.github.io/assets/img/ponta-grossa-23.jpg"></a>
 	<figcaption><center><a>Furna 2</a></center></figcaption>
 </figure>
 
