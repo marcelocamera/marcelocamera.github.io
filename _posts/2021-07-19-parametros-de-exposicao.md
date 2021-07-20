@@ -14,7 +14,7 @@ A quantidade de luz que entra na câmera pode ser controlada pelos parâmetros I
 O fotômetro é um aparelho utilizado para medir a intensidade da luz. Os fotômetros internos às câmeras leva em conta a luz que passa através da lente (TTL - through the lens), e não a luz do ambiente. Neste caso o fotômetro da câmera irá considerar apenas a luz que está sendo refletida pela lente, não sabendo a quantidade de luz que realmente incide sobre aquele objeto ou cena.
 
 <figure>
-	<img src="https://marcelocamera.github.io/assets/img/configurar-parametros-de-exposicao-01">
+	<img src="https://marcelocamera.github.io/assets/img/configurar-parametros-de-exposicao-01.jpg">
 	<figcaption><center>Fotômetro presentes nas câmeras digitais</center></figcaption>
 </figure>
 
