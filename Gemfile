@@ -6,4 +6,3 @@ gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'wdm', '>= 0.1.0'
-gem 'jekyll-feed'
