@@ -169,7 +169,7 @@ Diana de Poitiers foi uma nobre francesa que viveu nas cortes dos reis Francisco
 Neste quarto, dois itens chamam bastante a atenção: a lareira branca com o retrato de Catarina de Médici e as tapeçarias flamencas.
 
 <figure>
-	<a href="https://i.imgur.com/CoiXBiX.jpg><img src="https://i.imgur.com/CoiXBiX.jpg"></a>
+	<a href="https://i.imgur.com/CoiXBiX.jpg"><img src="https://i.imgur.com/CoiXBiX.jpg"></a>
 	<figcaption><center><a>#26: Quarto de Diana de Poitiers</a></center></figcaption>
 </figure>
 
@@ -410,7 +410,7 @@ Existem duas escadarias no Chatêau, a primeira localizada entre a Sala Louis XI
 
 # Segundo Andar
 <figure>
-	<a href="https://i.imgur.com/IlDvgXf.jpg"><img src="https://i.imgur.com/IlDvgXf.jpg"></a>
+	<a href="https://i.imgur.com/a7dkhDg.png"><img src="https://i.imgur.com/a7dkhDg.png"></a>
 	<figcaption><center><a>#67: Mapa do Segundo Andar</a></center></figcaption>
 </figure>
 
@@ -516,11 +516,6 @@ Ela foi dominada pela dor, ficou melancólica e nunca se recuperou de uma enorme
 <figure>
 	<a href="https://i.imgur.com/GJgHcKO.jpg"><img src="https://i.imgur.com/GJgHcKO.jpg"></a>
 	<figcaption><center><a>#82: Detalhe do Oratório</a></center></figcaption>
-</figure>
-
-<figure>
-	<a href="https://i.imgur.com/3xDO2An.jpg"><img src="https://i.imgur.com/3xDO2An.jpg"></a>
-	<figcaption><center><a>#83: Detalhe do Teto</a></center></figcaption>
 </figure>
 
 # Parte Externa do Chatêau Chenoceau
