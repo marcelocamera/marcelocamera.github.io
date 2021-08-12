@@ -16,17 +16,17 @@ Tira uma foto decente da Lua não é uma tarefa fácil. Por maior que esse saté
 </figure>
 
 ## Equipamentos
-a) lente objetiva com distância focal maior que 200mm;
-b) tripé
+1. lente objetiva com distância focal maior que 200mm;
+2. tripé
 
 ## Configurações
-a) colocar a câmera no modo manual (ou modo M);
-b) ajustar a abertura do diafragma entre f/5 e f/11;
-c) ajustar a velocidade do obturador para 1/500 ou maior;
-d) ajustar o valor do ISO em 200 ou 400 (manter a relação do dobro da distância focal da lente, isto é se uso uma lente 200mm, manter o ISO em pelo menos 400);
+1. colocar a câmera no modo manual (ou modo M);
+2. ajustar a abertura do diafragma entre f/5 e f/11;
+3. ajustar a velocidade do obturador para 1/500 ou maior;
+4. ajustar o valor do ISO em 200 ou 400 (manter a relação do dobro da distância focal da lente, isto é se uso uma lente 200mm, manter o ISO em pelo menos 400);
 
 ## Captura
-a) estabilizar a máquina no tripé
-b) ajustar manualmente o foco da lente;
-b) conferir o foco usando a lupa da câmera e o display;
-c) utilizar o temporizador da câmera para 2 segundos;
+1. estabilizar a máquina no tripé
+2. ajustar manualmente o foco da lente;
+3. conferir o foco usando a lupa da câmera e o display;
+4. utilizar o temporizador da câmera para 2 segundos;
