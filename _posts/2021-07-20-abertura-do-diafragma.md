@@ -24,7 +24,7 @@ A abertura do diafragma é representada por um número chamado de f. Quanto meno
 Valores baixos de f irão garantir um pequena faixa de nitidez, elementos que estiverem dentro dessa faixa terão nitidez, àqueles fora dessa faixa estão desfocados.
 
 <figure>
-	<img src="https://i.imgur.com/FeS3orT.png">
+	<img src="https://i.imgur.com/FeS3orT.png" width=”70%” height=”70%”>
 	<figcaption><center>Faixa de nitidez</center></figcaption>
 </figure>
 
