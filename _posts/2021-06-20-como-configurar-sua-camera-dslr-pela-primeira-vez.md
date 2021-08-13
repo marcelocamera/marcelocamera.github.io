@@ -3,7 +3,7 @@ layout: post
 title: "Como configurar sua câmera DSLR pela primeira vez"
 date: 2021-06-20
 excerpt: "Comprei minha câmera, estou louco pra usá-la, mas não sei por onde começar"
-tags: [equipamento fotográfico, câmeras, tutoriais]
+tags: [equipamento fotográfico, dicas]
 feature: https://i.imgur.com/vEnUFnZ.jpg
 comments: true
 ---
