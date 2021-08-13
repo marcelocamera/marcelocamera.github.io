@@ -44,21 +44,21 @@ O óleo pode indicar que os mecanismos internos da câmera não estão funcionan
 
 Se você tiver uma lente em mãos, vale a pena fazer um teste para procurar problemas com o sensor. Ajuste a câmera para f/16 ou f/22, aponte para um objeto brilhante (uma parede branca ou o céu) e tire uma foto. No computador procure por pontos de poeira ou arranhões.
 
-A poeira não é um grande problema, pois uma simples limpeza no sensor pode resolver o problema, mas linhas ou outras marcas podem ser evidências de um arranhão no sensor, o que significa que é melhor evitar essa câmera.
-
 <figure>
 	<img src="https://i.imgur.com/McgJxwA.png">
 </figure>
+
+A poeira não é um grande problema, pois uma simples limpeza no sensor pode resolver o problema, mas linhas ou outras marcas podem ser evidências de um arranhão no sensor, o que significa que é melhor evitar essa câmera.
 
 ### 4. Examine a parte externa da câmera
 #### No corpo da câmera
 Procure por arranhões e amassados, não se preocupe com arranhões menores, esse tipo de arranhão não afeta a condição mecânica da câmera, mas pode mostrar como ela foi usada. Arranhões e amassados ​​maiores podem indicar que a câmera sofreu uma queda.
 
-Verifique a condição da borracha, da superfície do corpo da câmera e do silk dos botões, procure por partes soltas ou descoladas ou por letras que estejam apagadas, isso geralmente acontece devido ao uso constante do equipamento.
-
 <figure>
     <img src="https://i.imgur.com/jgV3HFb.png">
 </figure>
+
+Verifique a condição da borracha, da superfície do corpo da câmera e do silk dos botões, procure por partes soltas ou descoladas ou por letras que estejam apagadas, isso geralmente acontece devido ao uso constante do equipamento.
 
 #### No compartimento do cartão de memória
 Tome cuidado especial ao examinar o compartimento do cartão de memória, se a câmera usa cartões do tipo CF, é vital que nenhum dos contatos dentro do compartimento do cartão esteja torto ou danificado. Pinos tortos podem causar curto-circuito e danificar seus cartões ou o próprio leitor de cartão.
@@ -71,7 +71,7 @@ Uma tela LCD arranhada ou danificada pode ser muito cara para substituir, portan
 #### No suporte da lente
 Examine o suporte da lente, ele deve estar em perfeitas condições, não deve haver amassados ​​ou dobras e os pinos de contato devem estar limpos.
 
-Amassados ​ou dobras nesse suporte pode significar que a câmera caiu ou foi usada com lentes pesadas sem cuidado. Certifique-se de que a lente uma vez montada não fique mexendo.
+Amassados ​ou dobras nesse suporte pode significar que a câmera caiu ou foi usada com lentes pesadas sem o devido cuidado. Certifique-se de que a lente não fique mexendo depois de montada.
 
 ### 5. Examine a operação do Autofocus
 Coloque uma lente na câmera e veja se ela foca bem para objetos perto e para aqueles que estejam mais longe. Tire algumas fotos e verifique se o foco se manteve na foto tirada. Para um teste mais cuidadoso, é importante usar algum padrão para isso.
