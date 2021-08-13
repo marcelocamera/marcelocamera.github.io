@@ -9,10 +9,10 @@ comments: true
 ---
 Você acabou de comprar sua primeira câmera DSLR, mas não sabe por onde começar, neste post escrevo todas as dicas sobre como começar do jeito certo a tirar ótimas fotografias usando o modo manual da sua câmera.
 
-# Carregar a bateria
+## Carregar a bateria
 Mesmo para câmeras novas, a bateria não vem totalmente carregada. É importante carregá-la antes do primeiro uso. Em situação normais, são necessárias de 2 a 4 horas para recarregar completamente a bateria.
 
-# Formatar o cartão de memória
+## Formatar o cartão de memória
 Sempre que for usar um cartão de memória, seja ele novo ou mesmo aqueles que já tenham sido usados anteriormente, é importante que o cartão seja formatado dentro da câmera fotográfica.
 
 Para formatar o cartão de memória, insira o cartão de memória no compartimento correto e ligue a câmera.
@@ -28,8 +28,8 @@ Selecione a opção "OK" e pressione o botão "set".
 
 O processo de formatação dentro da câmera fotográfica garante a integridade dos arquivos e os processos corretos de escrita e leitura, evitando com que os mesmos travem ou percam algum tipo de informação.
 
-# Configuração dos parâmetros principais
-## Modo M ou Modo Manual
+## Configuração dos parâmetros principais
+### Modo M ou Modo Manual
 Para selecionar o modo manual da câmera, coloque o seletor de modos na posição "M".
 
 <figure>
@@ -37,7 +37,7 @@ Para selecionar o modo manual da câmera, coloque o seletor de modos na posiçã
 	<figcaption><center>Seleção do Modo M ou Manual</center></figcaption>
 </figure>
 
-## Velocidade do Obturador e a Abertura do Diafragma
+### Velocidade do Obturador e a Abertura do Diafragma
 Para definir a velocidade do obturador, gire o seletor.
 Recomendo manter a menor velocidade do obturador (1/60), velocidades menores podem causar borrões na imagem, velocidades maiores irão congelar a imagem.
 
@@ -49,7 +49,7 @@ Recomendo manter a menor velocidade do obturador (1/60), velocidades menores pod
 Para definir a abertura do diafragma, pressione o botão AV e gire o seletor.
 Mantenha o menor valor de f possível, quanto menor o valor de f, maior será o desfoque.
 
-## ISO
+### ISO
 Para configurar a velocidade ISO, pressione a seta "^ ISO".
 
 <figure>
@@ -71,7 +71,7 @@ Recomendo limitar a velocidade ISO AUTO para no máximo a velocidade ISO de 6400
 	<figcaption><center>Limitar a velocidade ISO AUTO para 6400</center></figcaption>
 </figure>
 
-## Compensação do Flash
+### Compensação do Flash
 Essa configuração serve para compensar a luminosidade do flash quando as fotos ficarem muito claras.
 Para ajustar a compensação do flash, selecione a opção "compensação de exposição do flash"
 
@@ -81,6 +81,7 @@ Para ajustar a compensação do flash, selecione a opção "compensação de exp
 </figure>
 
 Se a exposição estiver muito escura, gire o seletor para a direita. Se a exposição estiver muito clara, gire o seletor para esquerda.
+
 Quando o botão do obturador estiver pressionado até a metade, o ícone de compensação da exposição do flash irá surgir no visor.
 
 <figure>
@@ -90,8 +91,8 @@ Quando o botão do obturador estiver pressionado até a metade, o ícone de comp
 
 Depois de tirar a fotografia, cancele a compensação da exposição do flash, definindo-o novamente para "0".
 
-# Configuração dos parâmetros secundários
-## Formato de arquivo
+## Configuração dos parâmetros secundários
+### Formato de arquivo
 Para ajustar o formato do arquivo de saída da câmera, no menu da câmera, procure pela opção "Qual. imagem".
 
 <figure>
@@ -106,7 +107,7 @@ Minha sugestão é usar o formato "RAW+L" que permite uma maior possibilidade de
 	<figcaption><center>Resolução da fotografia e número estimado de disparos restantes</center></figcaption>
 </figure>
 
-## Focagem automática (AF)
+### Focagem automática (AF)
 Para ajustar as opções de focagem automática (AF), coloque o interruptor de modo da focagem automática da lente objetiva na posição AF (focagem automática).
 
 <figure>
@@ -128,16 +129,16 @@ Selecione a opção de focagem automática utilizando os botões "<" ou ">", ou 
 	<figcaption><center>Operação AF (focagem automática)</center></figcaption>
 </figure>
 
-### One-Shot (motivos parados)
+#### One-Shot (motivos parados)
 Esse modo é adequado para motivos parados. Se o botão do obturador for pressionado até a metade, a câmera focará apenas uma vez. Quando a focagem é atingida, o minúsculo círculo dentro do ponto AF que obtém a focagem ficará vermelho durante alguns instantes e o indicador de focagem (representado por um círculo) irá aparecer.
 
-### AI Servo (motivos em movimento)
+#### AI Servo (motivos em movimento)
 Esse modo é adequado para motivos em movimento ou em situações em que a distância focal muda constantemente. O aviso sonoro não emite som, mesmo quando a imagem é focada, além disso, o indicador de focagem (representado por um círculo) <b>não</b> irá aparecer.
 
-### AI Focus (operação AF automaticamente)
+#### AI Focus (operação AF automaticamente)
 Se um objetivo estiver parado e começar a mover-se, essa opção muda automaticamente a operação One-Shot para AI Servo e vice-versa. Quando houver a focagem nesse modo, um aviso sonoro é emitido, o indicador de focagem (representado por um círculo) <b>não</b> irá aparecer.
 
-## Modo de Medição
+### Modo de Medição
 Existe pelo menos 3 métodos de medição utilizados pela câmera medir o brilho. É recomendado ajudar para o modo de medição matricial.
 
 No menu, escolher a opção "Modo de medição".
@@ -154,7 +155,7 @@ Selecione o modo de medição matricial.
 	<figcaption><center>Medição Matricial</center></figcaption>
 </figure>
 
-### Medição Matricial
+#### Medição Matricial
 O modo de medição matricial é de aplicação geral, a câmera define automaticamente a exposição de acordo com a cena.
 
 <figure>
@@ -162,7 +163,7 @@ O modo de medição matricial é de aplicação geral, a câmera define automati
 	<figcaption><center>Medição Matricial</center></figcaption>
 </figure>
 
-### Medição Parcial
+#### Medição Parcial
 O modo de medição parcial é eficaz nos casos em que existem luzes muito mais brilhantes ao redor do motivo, devido à contraluz.
 
 <figure>
@@ -172,7 +173,7 @@ O modo de medição parcial é eficaz nos casos em que existem luzes muito mais 
 
 A área cinzenta da figura representa o local aproximado onde é medido o brilho para a obtenção da exposição normal.
 
-### Medição Ponderada com Predominância ao Centro
+#### Medição Ponderada com Predominância ao Centro
 No modo de medição ponderado com predominância ao centro, o brilho é ponderado ao centro da imagem e utilizado para calcular a média da cena completa.
 
 <figure>
