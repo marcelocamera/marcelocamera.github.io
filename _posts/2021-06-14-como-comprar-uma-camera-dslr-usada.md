@@ -56,8 +56,7 @@ Procure por arranhões e amassados, não se preocupe com arranhões menores, ess
 
 Verifique a condição da borracha, da superfície do corpo da câmera e do silk dos botões, procure por partes soltas ou descoladas ou por letras que estejam apagadas, isso geralmente acontece devido ao uso constante do equipamento.
 
-<figure class="half">
-    <img src="https://i.imgur.com/ccsHvhJ.png">
+<figure>
     <img src="https://i.imgur.com/jgV3HFb.png">
 </figure>
 
