@@ -25,7 +25,7 @@ O diafragma está associado ao controle da profundidade de campo, isto é, quant
 	<img src="https://i.imgur.com/pWI7s2s.png">
 </figure>
 
-## Abertura do Diafragma na prática
+## Como ajustar a abertura do diafragma
 Valores baixos de f irão garantir um pequena faixa de nitidez, isto é, os elementos que estiverem dentro dessa faixa terão nitidez, àqueles fora dessa faixa estão desfocados.
 
 <figure>
