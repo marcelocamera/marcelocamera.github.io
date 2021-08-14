@@ -22,16 +22,14 @@ Quanto menor o número de f, maior será a abertura do diafragma e, portanto mai
 O diafragma está associado ao controle da profundidade de campo, isto é, quanto da sua foto está focada. Esse controle garante que toda sua foto estará em foco ou somente parte dela.
 
 <figure>
-	<img src="https://i.imgur.com/Xl1bD1C.png">
+	<img src="https://i.imgur.com/pWI7s2s.png">
 </figure>
 
-
 ## Abertura do Diafragma na prática
-Valores baixos de f irão garantir um pequena faixa de nitidez, elementos que estiverem dentro dessa faixa terão nitidez, àqueles fora dessa faixa estão desfocados.
+Valores baixos de f irão garantir um pequena faixa de nitidez, isto é, os elementos que estiverem dentro dessa faixa terão nitidez, àqueles fora dessa faixa estão desfocados.
 
 <figure>
-	<img src="https://i.imgur.com/yELY6BE.png">
-	<figcaption><center>Faixa de nitidez</center></figcaption>
+	<img src="https://i.imgur.com/2O4zXWE.png">
 </figure>
 
 O efeito de desfoque é muito apreciado em retratos onde o plano de fundo não precisa de destaque. Já a nitidez em toda a foto é necessária quando se deseja retratar uma paisagem ou quando o objetos em diferentes distâncias devem fazer parte da foto.
