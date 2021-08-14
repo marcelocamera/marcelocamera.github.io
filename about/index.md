@@ -8,9 +8,10 @@ comments: false
 
 
 ## Marcelo Camera
+Meu nome é Marcelo Camera, sou graduado em Engenharia Elétrica pela UNESP - Universidade Estadual Paulista e tenho pós-graduação em Gestão Empresarial pela FGV.
 ![Smithsonian Image](https://i.imgur.com/RX71MUY.png)
-{: .image-left}
-Meu nome é Marcelo Camera, sou graduado em Engenharia Elétrica pela UNESP - Universidade Estadual Paulista e tenho pós-graduação em Gestão Empresarial pela FGV. Além disso, tenho algumas certificações que considero "um plus a mais" na minha carreira.
+{: .image-right}
+Além disso, tenho algumas certificações que considero "um plus a mais" na minha carreira.
 
 Trabalho como gerente de desenvolvimento software - essa definição significa que sou responsável pela gestão de alguns projetos, pela gestão das pessoas que trabalham nestes projetos, pelo acompanhamento da carreira dessas pessoas e também pela boa relação entre os clientes e a empresa que trabalho). Por falar nisso, acho que trabalho numa das melhores empresas de todos os Silicon Valleys que existe, o Venturus, que é um centro de desenvolvimento e inovação de software no chamado Vale do Silício Brasileiro.
 
