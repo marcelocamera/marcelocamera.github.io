@@ -9,20 +9,23 @@ tag:
 comments: true
 ---
 ## O que é o Diafragma
-O diafragma é um dispositivo mecânico que se encontra dentro das lentes e que controla a entrada de luz na câmera.
-
-A abertura do diafragma é representada por um número chamado de f.
-
-Quanto menor o número de f, maior será a abertura do diafragma e, portanto mais luz entrará na câmera e assim mais clara ficará a foto. Quanto maior o valor de f, menor será a abertura do diafragma e menos luz entrará na câmera fazendo com que a foto fique mais escura.
+O diafragma é um dispositivo mecânico que se encontra dentro das lentes e que controla a entrada de luz na câmera. A abertura do diafragma é representada por um número chamado de f.
 
 <figure>
 	<img src="https://i.imgur.com/XoX0pEM.jpg">
 </figure>
 
+Quanto menor o número de f, maior será a abertura do diafragma e, portanto mais luz entrará na câmera e assim mais clara ficará a foto. Quanto maior o valor de f, menor será a abertura do diafragma e menos luz entrará na câmera fazendo com que a foto fique mais escura.
+
+<figure class="half">
+    <img src="https://i.imgur.com/CwxlfAX.png">
+    <img src="https://i.imgur.com/5vW2Idi.png">
+</figure>
+
 O diafragma está associado ao controle da profundidade de campo, isto é, quanto da sua foto está focada. Esse controle garante que toda sua foto estará em foco ou somente parte dela.
 
 <figure>
-	<img src="https://i.imgur.com/pWI7s2s.png">
+	<img src="https://i.imgur.com/yELY6BE.png">
 </figure>
 
 ## Como ajustar a abertura do diafragma
