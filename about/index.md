@@ -1,37 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre mim
+tags: [about, tecnologia, inovação, flight simulator, fotografia]
+date: 2021-05-28
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+## Marcelo Camera
+Meu nome é Marcelo Camera, sou graduado em Engenharia Elétrica pela UNESP - Universidade Estadual Paulista e tenho pós-graduação em Gestão Empresarial pela FGV. Além disso, tenho algumas certificações que considero "um plus a mais" na minha carreira.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Trabalho como gerente de desenvolvimento software - essa definição significa que sou responsável pela gestão de alguns projetos, pela gestão das pessoas que trabalham nestes projetos, pelo acompanhamento da carreira dessas pessoas e também pela boa relação entre os clientes e a empresa que trabalho). Por falar nisso, acho que trabalho numa das melhores empresas de todos os Silicon Valleys que existe, o Venturus, que é um centro de desenvolvimento e inovação de software no chamado Vale do Silício Brasileiro.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Não sei se escrevo bem, mas gosto de ler e escrever, motivo de sobra tentar manter esse site. Nele gosto de falar sobre aquilo que gosto e olha que sou bem eclético quanto a isso, gosto de tecnologia, inovação, gestão de projetos... Gosto de alguns instrumentos musicais apesar de tocar bem mal, gosto de simulação de voo, de judô e também de fotografia.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Espero que gostem e retornem sempre que desejarem, um abraço,
+Marcelo Camera
