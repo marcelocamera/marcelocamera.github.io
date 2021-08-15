@@ -21,14 +21,14 @@ Quando uma exposição se mantem no centro da escala do fotômetro, isto é em z
 O ajuste do fotômetro pode ser feito utilizando o Triângulo da Exposição, isto é, ajustando os parâmetros de abertura do diafragma, velocidade do obturador e ISO.
 
 <figure>
-	<img src="https://i.imgur.com/OS3PyPX.png">
+	<img src="https://i.imgur.com/PY7sXsl.png">
 </figure>
 
 Como exemplo temos a exposição abaixo. Segundo o fotômetro, que está marcando à direita de +1, a foto ficará clara demais. Aumentando a velocidade do obturador de 1/160 para 1/400, o valor do fotômetro atinge o equilíbrio.
 
 <figure class="half">
-    <img src="https://i.imgur.com/OS3PyPX.png">
     <img src="https://i.imgur.com/CzdGxSC.png">
+    <img src="https://i.imgur.com/kUjpfp5.png">
 </figure>
 
 ## O fotômetro sempre está certo?
