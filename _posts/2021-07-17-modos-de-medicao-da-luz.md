@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modos de Medição da Luz"
+title:  "Modos de medição da luz"
 date:   2021-07-17
 excerpt: "Como sua câmera mede a luz"
 tag:
