@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como funciona uma Câmera DSLR"
+title:  "Como funciona uma câmera DSLR"
 date:   2021-06-15
 excerpt: "DSLR - Digital Single Lens Reflex"
 tag:
