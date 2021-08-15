@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Como configurar os parâmetros de exposição fotográfica"
+title:  "Como medir a exposição fotográfica"
 date:   2021-07-19
-excerpt: "Controlando o obturador, diafragma e o ISO."
+excerpt: "O fotômetro mede a luz refletida pelos objetos"
 tag:
 - fotografia
 - técnica fotográfica
@@ -10,6 +10,10 @@ comments: true
 ---
 ## Abertura, Velocidade e ISO
 A quantidade de luz que entra na câmera pode ser controlada pelos parâmetros de abertura do diafragma, velocidade do obturador e ISO, mas é necessário determinar quais parâmetros devem ser ajustados para se obter a melhor exposição fotográfica em uma determinada situação.
+
+<figure>
+	<img src="https://i.imgur.com/OS3PyPX.png">
+</figure>
 
 ## Explorando algumas situações
 Seja o exemplo da planta Maleiteira-Maior (<i>Euphoria characias L.</i>) tira de um jardim no bosque municipal.
