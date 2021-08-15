@@ -12,7 +12,7 @@ comments: true
 A quantidade de luz que entra na câmera pode ser controlada pelos parâmetros de abertura do diafragma, velocidade do obturador e ISO, mas é necessário determinar quais parâmetros devem ser ajustados para se obter a melhor exposição fotográfica em uma determinada situação.
 
 ## Explorando algumas situações
-Seja o exemplo da planta Maleiteira-Maior (<i>Euphoria characias L.</i>).
+Seja o exemplo da planta Maleiteira-Maior (<i>Euphoria characias L.</i>) tira de um jardim no bosque municipal.
 
 Na foto à esquerda, a câmera foi ajustada com os valores base de f=7.1, 1/250 e ISO 250. A foto ficou muito escura apesar da planta estar bem exposta à luz do sol.
 
@@ -24,6 +24,6 @@ Na foto à direta, a câmera foi ajustada com os valores base de f=4.0, 1/80 e I
 	<img src="https://i.imgur.com/0Dkgg0o.png">
 </figure>
 
-## Dicas 
+## Dicas
 **Dica 1**: Mantenha o valor de ISO base (=100), depois ajuste o valor da abertura do diafragma (f) e depois a velocidade do obturador.
 {: .notice}
