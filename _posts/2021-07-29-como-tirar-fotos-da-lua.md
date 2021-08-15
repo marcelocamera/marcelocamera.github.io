@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como tirar fotos da Lua"
+title:  "Como tirar fotos da lua"
 date:   2021-07-29
 excerpt: "Como melhorar suas fotos da Lua."
 tag:
