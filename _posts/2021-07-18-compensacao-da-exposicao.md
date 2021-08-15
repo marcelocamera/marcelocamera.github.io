@@ -11,7 +11,7 @@ comments: true
 Uma vez que é possível aumentar ou diminuir a exposição fotográfica, é possível fazer fotos mais claras ou mais escuras quando comparadas com a correta exposição sugerida pelo fotômetro da câmera. Essas alterações são chamadas de compensação da exposição.
 
 ### Como ajustar a compensação da exposição
-Na maioria das câmeras, a compensação fotográfica é feita a partir do botão \\( +- \\) no corpo da câmera.
+Na maioria das câmeras, a compensação fotográfica é feita a partir do botão \\( \pm \\) no corpo da câmera.
 É o modo padrão das principais marcas de câmeras DSLR e mirrorless. Nesse modo, a câmera lê todos os pontos de luz que incidirão no sensor, mostrando uma exposição média desses pontos para toda a cena.
 
 <figure>
