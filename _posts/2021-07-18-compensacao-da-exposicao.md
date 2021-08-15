@@ -24,7 +24,7 @@ Na maioria das câmeras, a compensação fotográfica é feita a partir do botã
 
 ![](      =250x)
 
-![smiley](https://i.imgur.com/i1JTfji.png){ width: 200px; }
+![smiley](https://i.imgur.com/i1JTfji.png){ width= 200px; }
 
 [Imgur](https://i.imgur.com/i1JTfjis.png)
 
