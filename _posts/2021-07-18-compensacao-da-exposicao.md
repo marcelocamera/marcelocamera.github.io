@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Compensação da exposição fotográfica"
-date:   2021-07-17
+date:   2021-07-18
 excerpt: "Como alterar a exposição fotográfica"
 tag:
 - fotografia
@@ -15,7 +15,7 @@ Na maioria das câmeras, a compensação fotográfica é feita a partir do botã
 É o modo padrão das principais marcas de câmeras DSLR e mirrorless. Nesse modo, a câmera lê todos os pontos de luz que incidirão no sensor, mostrando uma exposição média desses pontos para toda a cena.
 
 <figure>
-	<img src="https://i.imgur.com/135h5cQ.png">
+	<img src="https://i.imgur.com/i1JTfji.png" width="200"/>
 </figure>
 
 <figure>
