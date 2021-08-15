@@ -8,26 +8,38 @@ tag:
 - técnica fotográfica
 comments: true
 ---
-## Abertura, Velocidade e ISO
-A quantidade de luz que entra na câmera pode ser controlada pelos parâmetros de abertura do diafragma, velocidade do obturador e ISO, mas é necessário determinar quais parâmetros devem ser ajustados para se obter a melhor exposição fotográfica em uma determinada situação.
+## O fotômetro
+O fotômetro é um dispositivo presente na grande maioria das câmeras para medir a quantidade de luz refletida pelos objetos durante a exposição dos mesmos. Com o fotômetro é possível verificar se um exposição está muito clara ou muito escura que a foto seja tirada.
+
+<figure>
+	<img src="https://i.imgur.com/0yoagK0.png">
+</figure>
+
+Quando uma exposição se mantem no centro da escala do fotômetro, isto é em zero, significa que a exposição está equilibrada. Quando o fotômetro estiver com valores negativos a foto poderá estar escura demais e quando estiver em valores positivos significa que a foto poderá estar clara demais.
+
+## Como ajustar o fotômetro
+O ajuste do fotômetro pode ser feito utilizando o Triângulo da Exposição, isto é, ajustando os parâmetros de abertura do diafragma, velocidade do obturador e ISO.
 
 <figure>
 	<img src="https://i.imgur.com/OS3PyPX.png">
 </figure>
 
-## Explorando algumas situações
-Seja o exemplo da planta Maleiteira-Maior (<i>Euphoria characias L.</i>) tira de um jardim no bosque municipal.
+Como exemplo temos a exposição abaixo. Segundo o fotômetro, que está marcando à direita de +1, a foto ficará clara demais. Aumentando a velocidade do obturador de 1/160 para 1/400, o valor do fotômetro atinge o equilíbrio.
 
-Na foto à esquerda, a câmera foi ajustada com os valores base de f=7.1, 1/250 e ISO 250. A foto ficou muito escura apesar da planta estar bem exposta à luz do sol.
+<figure class="half">
+    <img src="https://i.imgur.com/OS3PyPX.png">
+    <img src="https://i.imgur.com/CzdGxSC.png">
+</figure>
 
-Na foto central, a câmera foi ajustada com os valores base de f=4.0, 1/250 e ISO 250. Nessa foto, a abertura do diafragma foi aumentada, logo a imagem está mais clara que a anterior, mas ainda continua escura. É possível aumentar a abertura do diafragma ainda mais, mas isso levará a um grande desfoque do fundo da imagem.
+## O fotômetro sempre está certo?
+Essa é uma das perguntas que a resposta varia de pessoa para pessoa. Uma vez que o fotômetro possibilita verificar como a foto será tirada, é possível que no ponto de equilíbrio não esteja sendo mostrada a foto que é desejada.
 
-Na foto à direta, a câmera foi ajustada com os valores base de f=4.0, 1/80 e ISO 100. Nessa foto, a abertura do diafragma foi mantida, o que significa que se deseja manter o foco em toda foto. Os parâmetros de velocidade do obturado foi reduzido, o que significa que mais luz entrará em contato com o sensor deixando a foto mais clara. O valor de ISO também foi reduzido, o que significa que o sensor será menos sensível à luz.
+É possível que se deseje uma foto um pouco mais escura como na parte esquerda da foto e mesmo assim o fotômetro esteja marcando -1, ou uma foto um pouco mais clara, com o fotômetro marcando +1.
 
 <figure>
-	<img src="https://i.imgur.com/0Dkgg0o.png">
+	<img src="https://i.imgur.com/a0ZskNr.png">
 </figure>
 
 ## Dicas
-**Dica 1**: Mantenha o valor de ISO base (=100), depois ajuste o valor da abertura do diafragma (f) e depois a velocidade do obturador.
+**Dica 1**: Lembre que o fotômetro é apenas uma ferramenta, a decisão sobre a melhor exposição deve ser do fotógrafo.
 {: .notice}
