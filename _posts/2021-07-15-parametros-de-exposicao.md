@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como configurar os parâmetros de exposição fotográfica"
-date:   2021-07-19
+date:   2021-07-15
 excerpt: "Controlando o obturador, diafragma e o ISO."
 tag:
 - fotografia
