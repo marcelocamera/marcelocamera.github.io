@@ -95,3 +95,5 @@ It will look something like this:
 	http://vignette1.wikia.nocookie.net/naruto/images/1/15/J%C5%ABho_S%C5%8Dshiken.png
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}
+
+<img src="https://i.imgur.com/i1JTfji.png" alt="drawing" style="width:500px;"/>
