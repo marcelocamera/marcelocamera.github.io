@@ -8,19 +8,35 @@ tag:
 - técnica fotográfica
 comments: true
 ---
-Uma vez que é possível aumentar ou diminuir a exposição fotográfica, é possível fazer fotos mais claras ou mais escuras quando comparadas com a correta exposição sugerida pelo fotômetro da câmera. Essas alterações são chamadas de compensação da exposição.
+Uma maneira fácil de corrigir a quantidade de luz que incide na câmera é usar a configuração de compensação de exposição. A compensação fotográfica é feita a partir do botão \\( \pm \\) no corpo da câmera.
+
+<img src="https://i.imgur.com/i1JTfji.png"/>
+
+As fotos subexpostas (que ficam mais escuras) precisam de uma compensação positiva (+) e as fotos superexpostas (mais claras) precisam de uma compensação negativa (-).
+
+<img src="https://i.imgur.com/LTzWHo1.png"/>
 
 ### Como ajustar a compensação da exposição
-Na maioria das câmeras, a compensação fotográfica é feita a partir do botão \\( \pm \\) no corpo da câmera.
+Na maioria das câmeras, a compensação fotográfica é feita a partir do botão \\( \pm \\) no corpo da câmera em conjunto com a roda seletora.
+
+<img src="https://i.imgur.com/i1JTfji.png"/>
+
+Usar a compensação de exposição é uma maneira fácil de substituir as configurações de exposição automática de sua câmera. Ele faz isso iluminando ou escurecendo suas fotos antes de realmente serem capturadas. A compensação da exposição depende de qual modo criativo a câmera está sendo usada.
+
+**Modo de Prioridade de Abertura do Diafragma**
+Nesse modo, a compensação da exposição irá alterar a velocidade do obturador da câmera.
+
+**Modo de Prioridade da Velocidade do Obturador**
+Nesse modo, a compensação da exposição irá alterar a abertura do diafragma da câmera.
+
+**Modo de Programa**
+Nesse modo, a compensação da exposição será feita pela alteração da velocidade do obturador.
+
+
+a as câmeras possuem os modos criativos de prioridade da abertura do diafragma, de prioridade
 
 <figure>
-	<img src="https://i.imgur.com/i1JTfji.png" width="50%"/>
-</figure>
-
-A compensação da exposição é usada para alterar a exposição a partir dos valores escolhidos pela câmera. Usar a compensação de exposição é uma maneira fácil de substituir as configurações de exposição automática de sua câmera. Ele faz isso iluminando ou escurecendo suas fotos antes de realmente serem capturadas.
-
-<figure>
-	<img src="https://i.imgur.com/i1JTfji.png" width="50%"/>
+	<img src="https://i.imgur.com/i1JTfji.png"/>
 </figure>
 
 <figure>
@@ -29,7 +45,7 @@ A compensação da exposição é usada para alterar a exposição a partir dos 
 
 ![drawing](https://i.imgur.com/i1JTfji.png){ width=50% }
 
-<img src="https://i.imgur.com/i1JTfji.png" alt="drawing" style="width:200px;"/>
+<img src="https://i.imgur.com/i1JTfji.png" alt="drawing" style="width:400px;"/>
 12
 
 <figure>
