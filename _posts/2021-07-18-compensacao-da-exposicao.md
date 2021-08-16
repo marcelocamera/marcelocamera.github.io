@@ -12,7 +12,12 @@ Uma vez que é possível aumentar ou diminuir a exposição fotográfica, é pos
 
 ### Como ajustar a compensação da exposição
 Na maioria das câmeras, a compensação fotográfica é feita a partir do botão \\( \pm \\) no corpo da câmera.
-É o modo padrão das principais marcas de câmeras DSLR e mirrorless. Nesse modo, a câmera lê todos os pontos de luz que incidirão no sensor, mostrando uma exposição média desses pontos para toda a cena.
+
+<figure>
+	<img src="https://i.imgur.com/i1JTfji.png" width="50%"/>
+</figure>
+
+A compensação da exposição é usada para alterar a exposição a partir dos valores escolhidos pela câmera. Usar a compensação de exposição é uma maneira fácil de substituir as configurações de exposição automática de sua câmera. Ele faz isso iluminando ou escurecendo suas fotos antes de realmente serem capturadas.
 
 <figure>
 	<img src="https://i.imgur.com/i1JTfji.png" width="50%"/>
@@ -24,7 +29,8 @@ Na maioria das câmeras, a compensação fotográfica é feita a partir do botã
 
 ![drawing](https://i.imgur.com/i1JTfji.png){ width=50% }
 
-
+<img src="https://i.imgur.com/i1JTfji.png" alt="drawing" style="width:200px;"/>
+12
 
 <figure>
 	<img src="https://i.imgur.com/jc8IGVq.png">
