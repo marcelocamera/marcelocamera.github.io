@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como medir a exposição fotográfica"
-date:   2021-07-19
+date:   2021-07-16
 excerpt: "O fotômetro mede a luz refletida pelos objetos"
 tag:
 - fotografia
