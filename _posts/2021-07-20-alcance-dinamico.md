@@ -10,12 +10,17 @@ comments: true
 ---
 O alcance dinâmico é definido como o quanto de luz, o sensor da câmera é capaz de distinguir do preto ao branco sem perder informações nas regiões de altas e baixas luzes, expressa a razão entre pretos e brancos na exposição.
 
-<img src="https://i.imgur.com/MEXnvCh.png" alt="drawing" style="width:400px;"/>
+<img src="https://i.imgur.com/MEXnvCh.png" alt="drawing" style="width:600px;"/>
 
 ### Baixo Alcance Dinâmico
 O baixo alcance dinâmico significa que a foto tem poucas mudanças entre brancos e pretos.
 
 <center> **Baixo Alcance Dinâmico = Baixo Contraste** </center>
+
+<img src="https://i.imgur.com/mOXXzcO.png" alt="drawing" style="width:600px;"/>
+
+### Alto Alcance Dinâmico
+O alto alcance dinâmico significa que a foto tem muitas mudanças entre brancos e pretos.
 
 ### Modo de Prioridade de Abertura do Diafragma (Av ou A)
 Nesse modo, é possível configurar manualmente a abertura do diafragma, a câmera vai configurar automaticamente a velocidade do obturador para ter uma exposição correta da foto.
