@@ -15,7 +15,7 @@ O alcance dinâmico é definido como o quanto de luz, o sensor da câmera é cap
 ### Baixo Alcance Dinâmico
 O baixo alcance dinâmico significa que a foto tem poucas mudanças entre brancos e pretos.
 
-<center> **Baixo Alcance Dinâmico = Baixo Contraste** </center>
+<center><b>Baixo Alcance Dinâmico = Baixo Contraste</b></center>
 
 <img src="https://i.imgur.com/mOXXzcO.png" alt="drawing" style="width:600px;"/>
 
