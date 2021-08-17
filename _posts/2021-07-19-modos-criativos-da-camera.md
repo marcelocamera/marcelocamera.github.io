@@ -21,6 +21,9 @@ Esse modo permite o ajuste da profundidade de campo (deph of field) de sua image
 
 Esse modo é muito usado em situações com muito sol, quando há uma variação de luzes e sombras. Assim configurando a abertura, a câmera irá decidir qual a velocidade ideal para cada situação de luz. Desse modo, a atenção do fotógrafo fica apenas na fotografia.
 
+**Dica 1:** Use o Modo de Abertura do Diafragma somente quando você souber exatamente qual a abertura do diafragma deverá ser usada. Valores baixos de f deixarão o fundo da foto desfocados, já valores altos irão aumentar a profundidade do campo focal.
+{: .notice}
+
 ### Modo de Prioridade de Velocidade do Obturador (Tv ou S)
 Nesse modo, é possível configurar manualmente a velocidade do obturador da câmera, a câmera irá ajustar automaticamente a abertura do diafragma.
 
@@ -28,13 +31,19 @@ Esse modo permite congelar um momento de ação. Com esse modo, a atenção do f
 
 No modo de prioridade de velocidade pode acontecer de suas fotos ficarem subexpostas (mais escuras) ou superexpostas (mais claras), isso pode ocorrer pelo fato de não existir luz suficiente ou de existir muita luz.
 
+**Dica 2:** Use o Modo de Velocidade do Obturador em cenas esportivas ou que requerem o congelamento ou borrão na foto.
+{: .notice}
+
 ### Modo de Programa (P)
-No Modo de Programa (P), a câmera escolhe automaticamente a abertura do diafragma e a velocidade do obturador da câmera, isso tudo baseado nas informações de luz vindas da lente.
+No Modo de Programa (P), a câmera irá ajustar automaticamente os parâmetros de abertura do diafragma e da velocidade do obturador da câmera baseados no tipo de medição escolhido.
 
-No Modo P é possível ajustar manualmente o valor do ISO e a câmera vai se adequar àquela situação de luz tentando configurar a abertura e a velocidade de modo que a câmera entenda qual é a melhor situação de luz. A câmera vai tentar sempre manter a velocidade mais rápida.
+No Modo P é possível ajustar manualmente o valor do ISO e a câmera irá se adequar àquela situação de luz tentando configurar a abertura e a velocidade, de maneira que a câmera entenda qual é a melhor situação de luz. A câmera vai tentar sempre manter a velocidade mais rápida.
 
-### Modos Automáticos
-Existem na câmera ainda outros modos denominados de Modos Automáticos. Esses modos são uma combinação dos modos acima, previamente ajustados para uma ou outra determinada situação.
+### Modo Automático (A)
+Esse modo também é conhecido como Auto Mode, nele a câmera ajusta todos os parâmetros de exposição. Além disso, a câmera irá decidir se é necessário o uso do flash pop-up.
 
-**Dica 1:** No Modo Manual (M) não é possível fazer nenhum tipo de priorização dos parâmetros, pois não há ajustes automáticos nesse modo.
+**Dica 3:** Use o Modo Automático somente quando você não souber como ajustar os parâmetros de exposição manualmente.
+{: .notice}
+
+**Dica 4:** Use a compensação da exposição para ajustar a quantidade de brilho da foto.
 {: .notice}
