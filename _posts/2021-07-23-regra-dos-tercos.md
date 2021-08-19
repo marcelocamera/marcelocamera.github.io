@@ -12,20 +12,12 @@ A técnica dos terços é uma das técnicas de composição mais básicas em fot
 
 A maioria das câmeras DSLRs têm uma configuração que mostra a regra das linhas de grade de terços na câmera. Se a sua não tiver essa configuração, use os pontos de foco para lhe ajudar a dividir a imagem em três partes.
 
-<img src="https://i.imgur.com/I12ORve.png" alt="drawing" style="width:600px;"/>
+<img src="https://i.imgur.com/I12ORve.png" alt="drawing" style="width:500px;"/>
 
-## Equipamentos
-1. lente objetiva com distância focal maior que 200mm;
-2. tripé
+**Dica 1:** Ao fotografar as pessoas, o ideal é colocar o rosto ou o olho mais próximo da câmera, nas linhas que se cruzam. Se eles estiverem olhando para longe da câmera, certifique-se de que estão olhando para o enquadramento e não para fora.
+{: .notice}
 
-## Configurações
-1. colocar a câmera no modo manual (ou modo M);
-2. ajustar a abertura do diafragma entre f/5 e f/11;
-3. ajustar a velocidade do obturador para 1/500 ou maior;
-4. ajustar o valor do ISO em 200 ou 400 (manter a relação do dobro da distância focal da lente, isto é se uso uma lente 200mm, manter o ISO em pelo menos 400);
+**Dica 2:** Embora a regra dos terços seja uma regra de composição fotográfica amplamente usada, às vezes pode parecer sem brilho ou imaginação. Nessa hora ser criativo e quebrar a regra dos terços é permitido, colocando o elemento central em sua imagem nos cantos, nas bordas ou centro da grade.
+{: .notice}
 
-## Captura
-1. estabilizar a máquina no tripé
-2. ajustar manualmente o foco da lente;
-3. conferir o foco usando a lupa da câmera e o display;
-4. utilizar o temporizador da câmera para 2 segundos;
+<img src="https://i.imgur.com/RHIKLWN.png" alt="drawing" style="width:500px;"/>
