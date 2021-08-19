@@ -2,7 +2,7 @@
 layout: post
 title:  "O que é a Razão de Ouro"
 date:   2021-07-24
-excerpt: "Dividir a imagem em 3 partes"
+excerpt: "Como usar a razão de ouro na composição fotográfica das suas fotos"
 tag:
 - fotografia
 - composição fotográfica
