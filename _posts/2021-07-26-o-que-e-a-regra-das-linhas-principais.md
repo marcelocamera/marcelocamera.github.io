@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "O que é a regra das linhas principais"
+title:  "Como usar a regra das linhas principais na composição das suas fotos"
 date:   2021-07-26
-excerpt: "Como usar a regra das linhas principais na composição das suas fotos"
+excerpt: "O que é a regra das linhas principais e como usá-la"
 tag:
 - fotografia
 - composição fotográfica
