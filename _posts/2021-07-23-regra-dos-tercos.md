@@ -2,7 +2,7 @@
 layout: post
 title:  "O que é a Regra dos Terços"
 date:   2021-07-23
-excerpt: "Dividir a imagem em 3 partes"
+excerpt: "Como utilizar a regra dos terços na composição das suas fotos"
 tag:
 - fotografia
 - composição fotográfica
