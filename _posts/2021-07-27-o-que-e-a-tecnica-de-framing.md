@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "O que é a técnica de framing"
+title:  "Como usar a técnica de framing na composição das suas fotos"
 date:   2021-07-27
-excerpt: "Como usar a técnica de framing na composição das suas fotos"
+excerpt: "O que é essa técnica e como utilizar"
 tag:
 - fotografia
 - composição fotográfica
