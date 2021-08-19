@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "O que é Ponto de Luz"
+title:  "O que é ponto de luz"
 date:   2021-07-22
-excerpt: "Luz e a Exposição Fotográfica"
+excerpt: "Luz e a exposição fotográfica"
 tag:
 - fotografia
 - técnica fotográfica
