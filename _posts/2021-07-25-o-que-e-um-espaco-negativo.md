@@ -2,7 +2,7 @@
 layout: post
 title:  "O que é a técnica do espaço negativo"
 date:   2021-07-25
-excerpt: "Como usar o espaço negativo na composição das suas fotos"
+excerpt: "Como lidar com os espaços ao redor do objeto principal da foto"
 tag:
 - fotografia
 - composição fotográfica
