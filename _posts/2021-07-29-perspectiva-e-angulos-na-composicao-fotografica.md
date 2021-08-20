@@ -14,7 +14,11 @@ O uso de lentes grande angular ou teleobjetiva podem dar uma aparência completa
 
 **Lentes Fixas** - São as lentes com distância focal fixa, por exemplo 50mm, 24mm.
 
-<img src="https://i.imgur.com/rHYZ66K.png" alt="drawing" style="width:300px;"/>
+<img src="https://i.imgur.com/rHYZ66K.png" alt="drawing" style="width:150px;"/>
+
+**Lentes Zoom** - São as lentes com distância focal variável, por exemplo 18-55mm, 75-300mm.
+
+<img src="https://i.imgur.com/WEZHqz0.png" alt="drawing" style="width:150px;"/>
 
 **Distância Focal** - É a distância, em mm, entre o ponto de convergência da luz, denominado centro óptico, que fica do meio da lente e o sensor da câmera.
 
