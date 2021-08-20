@@ -2,7 +2,7 @@
 layout: post
 title:  "Como usar a técnica de framing "
 date:   2021-07-27
-excerpt: "O que é a técnica de framing e como usá-la na composição fotográfica"
+excerpt: "Enquadrar um objetivo dentro de um quadro na foto"
 tag:
 - fotografia
 - composição fotográfica
