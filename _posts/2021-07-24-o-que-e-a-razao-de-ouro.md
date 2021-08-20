@@ -2,7 +2,7 @@
 layout: post
 title:  "O que é a Razão de Ouro"
 date:   2021-07-24
-excerpt: "Como usar a razão de ouro na composição fotográfica das suas fotos"
+excerpt: "Como o número 1,618 pode alterar a maneira de como fotografamos as coisas"
 tag:
 - fotografia
 - composição fotográfica
