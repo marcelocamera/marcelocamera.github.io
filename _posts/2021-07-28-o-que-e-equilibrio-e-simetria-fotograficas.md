@@ -2,7 +2,7 @@
 layout: post
 title:  "O que é equilíbrio e simetria fotográfica"
 date:   2021-07-28
-excerpt: "O que é a técnica de framing e como usá-la na composição fotográfica"
+excerpt: "Como manter o balanço e a harmonia na composição fotográfica"
 tag:
 - fotografia
 - composição fotográfica
