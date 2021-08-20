@@ -2,7 +2,7 @@
 layout: post
 title:  "Perspectiva e ângulos na composição fotográfica"
 date:   2021-07-29
-excerpt: "O que é a técnica de framing e como usá-la na composição fotográfica"
+excerpt: "Como aproveitar perspectivas e ângulos na composição fotográfica"
 tag:
 - fotografia
 - composição fotográfica
@@ -14,7 +14,7 @@ O uso de lentes grande angular ou teleobjetiva podem dar uma aparência completa
 
 **Lentes Fixas** - São as lentes com distância focal fixa, por exemplo 50mm, 24mm.
 
-<img src="https://i.imgur.com/rHYZ66K.png" alt="drawing" style="length:300px;"/>
+<img src="https://i.imgur.com/rHYZ66K.png" alt="drawing" style="width:300px;"/>
 
 **Distância Focal** - É a distância, em mm, entre o ponto de convergência da luz, denominado centro óptico, que fica do meio da lente e o sensor da câmera.
 
