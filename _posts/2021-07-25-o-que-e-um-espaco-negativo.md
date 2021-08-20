@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O que é o Espaço Negativo"
+title:  "O que é a técnica do espaço negativo"
 date:   2021-07-25
 excerpt: "Como usar o espaço negativo na composição das suas fotos"
 tag:
