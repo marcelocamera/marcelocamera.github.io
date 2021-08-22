@@ -48,22 +48,16 @@ que objetos distantes se parecem menores.
 Grande parte daquilo que torna uma foto excelente se dá na escolha dos planos e dos ângulos utilizados. Ângulos na composição fotografia são a maneira como a câmera está posicionada na hora da foto.
 
 #### Altura do ângulo
-Em relação à altura do ângulo, existem cinco posições principais: o ângulo normal (ou frontal), o ângulo picado (ou plongée), o ângulo contrapicado (ou contra-plongée), o ângulo cenital e o ângulo nadir. Cada uma dessas posições é ideal para tipos distintos de enquadramento.
+Em relação à altura do ângulo, existem cinco posições principais: o ângulo normal (ou frontal), o ângulo picado (ou plongée), o ângulo contrapicado (ou contre-plongée), o ângulo cenital e o ângulo nadir. Cada uma dessas posições é ideal para tipos distintos de enquadramento.
 
 <img src="https://i.imgur.com/DgU9q4K.png" alt="drawing" style="length:400px;"/>
 
 **Ângulo Normal ou Frontal:** É quando a câmera está no mesmo nível dos olhos da pessoa fotografada, ideal para retratos.
 
-<img src="https://i.imgur.com/UVFctAz.png" alt="drawing" style="width:400px;"/>
+**Ângulo Picado ou Plongée:** É conhecido como câmera alta, ocorre quando a câmera está numa posição mais alta do que o objeto a ser fotografado, é ideal quando se deseja o efeito de mergulho pra dentro da foto.
 
-plongée: conhecido como câmera alta, é quando a câmera capta as imagens da pessoa de cima, com uma  impressão de mergulho na imagem;
-contra plongée: quando a câmera está abaixo do nível dos olhos, fotografando as pessoas de baixo, sendo ideal para dar impressão de altura e imposição da pessoa fotografada.
+**Ângulo Cenital:** É o ângulo picado na sua posição máxima. Funciona como uma fotografia aérea do objeto, sendo ideal para potencializar ainda mais a profundidade da imagem.
 
-**Dica 1:** Experimente tirar fotos em que a câmera não esteja no mesmo nível dos olhos.
-{: .notice}
+**Ângulo Contrapicado ou Contre-Plongée:** É conhecido como câmera baixa, ocorre quando a câmera está numa posição mais baixa do que o objeto a ser fotografado, é ideal quando se deseja o efeito de imposição ou superioridade do objeto.
 
-Uma imagem que segue a regra de simetria da composição é aquela que parece a igual de um lado e do outro. A imagem pode ser dividida vertical ou horizontalmente para criar uma linha de simetria.
-
-Os reflexos são um excelente exemplo de simetria, mas outras formas de simetria podem ser encontradas na natureza e nas estruturas feitas pelo homem. Ao capturar imagens simétricas, fotografe do centro da estrutura e certifique-se de que a câmera esteja paralela à estrutura.
-
-<img src="https://i.imgur.com/8HNhUu7.png" alt="drawing" style="length:500px;"/>
+**Ângulo Nadir:** É o ângulo contrapicado na sua posição máxima. A foto é tirada literalmente de baixo pra cima, é ideal para potencializar ainda mais a profundidade da imagem.
