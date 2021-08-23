@@ -17,21 +17,37 @@ A construção da Torre Eiffel foi motivada pela Exposição Universal de 1889. 
 Durante a construção, na época, numerosos detratores que consideraram a Torre como uma ameaça à estética da cidade. Uma torre de ferro erguida em pleno coração de Paris não convinha por contrastar demasiadamente com a elegância e a beleza refinada da cidade.  
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/torre-eiffel-01.jpg"><img src="http://marcelocamera.github.io/assets/img/torre-eiffel-01.jpg"></a>
+	<a href="https://i.imgur.com/WHtFeGc.jpg"><img src="https://i.imgur.com/WHtFeGc.jpg"></a>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/torre-eiffel-02.jpg"><img src="http://marcelocamera.github.io/assets/img/torre-eiffel-02.jpg"></a>
+	<a href="https://i.imgur.com/HLcjwtV.jpg"><img src="https://i.imgur.com/HLcjwtV.jpg"></a>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/torre-eiffel-03.jpg"><img src="http://marcelocamera.github.io/assets/img/torre-eiffel-03.jpg"></a>
+	<a href="https://i.imgur.com/nG983o1.jpg"><img src="https://i.imgur.com/nG983o1.jpg"></a>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/torre-eiffel-04.jpg"><img src="http://marcelocamera.github.io/assets/img/torre-eiffel-04.jpg"></a>
+	<a href="https://i.imgur.com/OgGekct.jpg"><img src="https://i.imgur.com/OgGekct.jpg"></a>
 </figure>
 
 <figure>
-	<a href="http://marcelocamera.github.io/assets/img/torre-eiffel-05.jpg"><img src="http://marcelocamera.github.io/assets/img/torre-eiffel-05.jpg"></a>
+	<a href="https://i.imgur.com/ge6yw4A.jpg"><img src="https://i.imgur.com/ge6yw4A.jpg"></a>
+</figure>
+
+<figure>
+	<a href="https://i.imgur.com/CJmGR6O.jpg"><img src="https://i.imgur.com/CJmGR6O.jpg"></a>
+</figure>
+
+<figure>
+	<a href="https://i.imgur.com/HuKFWbQ.jpg"><img src="https://i.imgur.com/HuKFWbQ.jpg"></a>
+</figure>
+
+<figure>
+	<a href="https://i.imgur.com/Jht9Ghx.jpg"><img src="https://i.imgur.com/Jht9Ghx.jpg"></a>
+</figure>
+
+<figure>
+	<a href="https://i.imgur.com/49B8y0s.jpg"><img src="https://i.imgur.com/49B8y0s.jpg"></a>
 </figure>
