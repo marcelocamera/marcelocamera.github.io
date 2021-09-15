@@ -17,7 +17,7 @@ Ter uma imagem corretamente exposta nem sempre é fácil, existem situações em
 A exposição fotográfica correta pode ser atingida ajustando os chamados parâmetros de exposição. Existem 3 parâmetros de exposição na sua câmera: a abertura do diafragma, a velocidade do obturador e o ISO.
 
 <figure>
-	<img src="https://i.imgur.com/OS3PyPX.png">
+	<img src="https://i.imgur.com/PY7sXsl.png">
 </figure>
 
 Além de ajustar a exposição fotográfica, o ajuste desses parâmetros podem criar efeitos como o desfoque do fundo da foto, o congelamento do objeto em movimento dentre outros.
