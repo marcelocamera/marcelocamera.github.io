@@ -47,7 +47,7 @@ Esse framework se concentra nos retornos financeiros dos projetos e incentiva a 
 - Os recursos do processo podem ser definidos, controlados, medidos e aprimorados;
 - O sucesso do Six Sigma depende da adesão de toda a organização;
 
-###Abordagens Híbridas
+### Abordagens Híbridas
 Mesmo com essa variedade de abordagens, uma única metodologia pode não se encaixar em todos os projetos ou em toda a organização. Uma abordagem híbrida pode ser a solução para que você possa ter sucesso na gestão do seu projeto.
 
 Qualquer abordagem híbrida começa com o gerente de projeto sendo capaz de identificar quais frameworks podem ser misturados para atingir um melhor desempenho e resultados do projeto.
