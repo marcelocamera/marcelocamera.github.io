@@ -4,7 +4,7 @@ title:  "O que é um projeto"
 date:   2021-06-10
 excerpt: "Definição de Projeto"
 tag:
-- projeto
+- gerenciamento de projetos
 comments: true
 ---
 ### Definição de Projeto
