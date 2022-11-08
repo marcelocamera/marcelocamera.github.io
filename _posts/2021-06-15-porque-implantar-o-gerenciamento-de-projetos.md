@@ -4,7 +4,7 @@ title:  "Porque implantar o Gerenciamento de Projetos"
 date:   2021-06-15
 excerpt: "O por quê da gestão de projetos."
 tag:
-- gestão
+- gerenciamento de projetos
 comments: true
 ---
 Você deve implantar o gerenciamento de projetos quando for necessário:
