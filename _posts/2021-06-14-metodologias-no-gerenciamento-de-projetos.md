@@ -4,7 +4,7 @@ title:  "Metodologias usadas no Gerenciamento de Projetos"
 date:   2021-06-14
 excerpt: "Ágil, Kanban, Waterfall, Six Sigma"
 tag:
-- gestão
+- gerenciamento de projetos
 - metodologia
 comments: true
 ---
