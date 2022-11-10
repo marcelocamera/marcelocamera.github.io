@@ -101,22 +101,11 @@ O planejamento de recursos analisa especificamente os custos associados à aloca
 A estimativa de custos é um processo contínuo de identificar os custos associados a cada um dos recursos necessários para a execução de todas as atividades programadas. Os gerentes de projeto devem iterar as estimativas de custo sempre que as alterações do escopo do projeto ou solicitações de alteração forem aprovadas. Essas estimativas fornecem um somatório de todos os custos envolvidos no projeto, desde o início até a conclusão.
 
 - <b>Cotações</b>
-Para as cotações de preço, o gerente de projetos deve:
+As cotações de preço devem explicar, desde custos diretos de mão-de-obra até custos de material, custos de fabricação, custos de equipamento, custos administrativos e custos de uso de licenças de software. O gerente de projeto deve (1) combinar as estimativas de custo das execuções das atividades individuais em um custo total do projeto, (2) estabelecer um cronograma de pagamentos associados aos custos e (3) medir o progresso do projeto contra os custos planejados.
 
-- Combinar as estimativas de custo das execuções das atividades individuais em um custo total do projeto;
-- Estabelecer um cronograma de pagamentos dos custos;
-- Medir o progresso do projeto contra os custos planejados;
 
-Esses orçamentos devem explicar tudo, desde custos diretos de mão -de -obra a custos de material, custos de fábrica, custos de equipamento, custos administrativos e custos de software.
+- <b>Controle de custo</b> 
+-Controlar os custos do projeto exige do gerente de projeto estar ciente (1) do valor do orçamento original ou custos previstos, (2) do valor dos custos extras aprovados e (3) do valor dos custos realizados.
 
-Controle de custo.
-
-Controlar os custos do projeto exige estar ciente de:
-
-O orçamento original
-Custos aprovados
-Custos previstos
-Custos reais
-Custos comprometidos
-Nos casos de alterações no escopo ou riscos imprevistos, o gerente do projeto precisará revisar o nível de impacto e tomar medidas corretivas, conforme necessário.
+Nos casos de alterações no escopo ou riscos imprevistos, o gerente do projeto precisará revisar o impacto no orçamento e tomar medidas corretivas, conforme necessário.
 
