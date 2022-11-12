@@ -143,7 +143,7 @@ O processo de gerenciamento da qualidade ajuda a:
 
 Com o processo de gerenciamento da qualidade é possível reduzir o risco de falhas do produto ou clientes insatisfeitos.
 
-###### Planejamento da qualidade</b>
+###### a. Planejamento da qualidade</b>
 Um bom plano de gerenciamento de qualidade começa com uma definição clara dos objetivos do projeto:
 - o que o produto ou a entrega deve realizar;
 - quais são as evidências do correto funcionamento do produto;
@@ -157,14 +157,14 @@ Prover essas informações ajudará o gerente de projetos a identificar e defini
 - definir quais métodos e testes serão realizados;
 - garantir que existam tarefas relativas aos testes de garantia da qualidade façam parte do plano de projeto;
 
-###### Gerenciamento (ou garantia) da qualidade
+###### b. Gerenciamento (ou garantia) da qualidade
 Os testes de garantia de qualidade usam um sistema de métricas para determinar se o plano de qualidade está ou não de maneira aceitável.
 
 Usando métricas qualitativas e quantitativas, o gerente de projeto pode medir efetivamente a qualidade do projeto e com isso a satisfação do cliente. Esses testes ou auditorias de qualidade, ajudarão o gerente de projetos a prever e verificar o alcance das metas e a identificar a necessidade de ações corretivas.
 
 Além disso, os testes de garantia de qualidade ajudarão a mapear métricas de qualidade, permitindo que o gerente de projetos transmita o status da qualidade em reuniões periódicas de revisão de projetos.
 
-###### Controle de qualidade
+###### c. Controle de qualidade
 
 Enquanto a garantia de qualidade ocorre antes que um problema seja identificado, o controle de qualidade responde a um problema existente. O controle de qualidade monitora saídas específicas do projeto e determina a conformidade com os padrões aplicáveis. Ele também identifica fatores de risco e mitigação do projeto, enquanto buscam maneiras de prevenir e eliminar o desempenho insatisfatório.
 
@@ -186,7 +186,7 @@ O gerenciamento das comunicações do projeto deve garantir que as informações
 
 Essa comunicação envolve não apenas saber o que dizer, mas quando e com que frequência. 
 
-###### Planejamento das comunicações
+###### a. Planejamento das comunicações
 Defina expectativas e procedimentos desde o início do projeto, para que toda a equipe saiba como deve receber e enviar informações. Seu plano de comunicação precisa documentar os requisitos de comunicação ao longo do ciclo de vida do projeto para que todas as partes interessadas estejam na mesma página. Alguns desses requisitos incluem:
 
 - Com que frequência as atualizações serão enviadas?
@@ -196,13 +196,13 @@ Defina expectativas e procedimentos desde o início do projeto, para que toda a 
 - As solicitações de mudança serão compartilhadas com todas as partes interessadas?
 - Quais canais (e-mail, chat, videoconferência etc.) serão usados para quais comunicações?
 
-###### Gerenciamento das comunicações
+###### b. Gerenciamento das comunicações
 
 Depois que todas as partes interessadas concordem com o Plano de Comunicações, o gerente do projeto precisa garantir que as comunicações sigam essas diretrizes. 
 
 O plano deve ser visto como um documento vivo ao longo de todo ciclo de vida do projeto, mas quaisquer alterações devem ser comunicadas à equipe do projeto (que pode ser feito via CR).
 
-###### Comunicações de controle
+###### c. Comunicações de controle
 
 Nem todas as partes interessadas encontram relevância em todos os detalhes do projeto, portanto, inclua apenas as partes interessadas nas comunicações quando necessário. Crie subgrupos de partes interessadas e decida que tipos de comunicações cada um desses subgrupos precisam receber.
 
@@ -211,15 +211,15 @@ O risco é uma parte inevitável de todos os projetos e precisa ser contabilizad
 
 O gerenciamento de riscos é o processo que deve mitigar o impacto negativo de eventos imprevistos que podem atingir o projeto. Normalmente esses impactos atingem o custo, o cronograma ou nos recursos do projeto. O gerenciamento de riscos ocorre em 05 etapas distintas:
 
-###### Planejamento de riscos
+###### a. Planejamento de riscos
 Documente o plano de gerenciamento de riscos, incluindo como os riscos serão identificados e categorizados quanto a sua probabilidade, impacto e severidade e como serão feitas as contingências deste risco.
 
-###### Identificação de risco
+###### b. Identificação de risco
 Encontre os riscos do projeto utilizando alguma técnica de de identificação de risco, que pode ser pensar o que pode acontecer de errado em cada uma das fases do projeto.
 
 É importante estimular o time de projetos a identificar riscos potenciais enquanto executam suas tarefas.
 
-###### Análise de risco 
+###### c. Análise de risco 
 Realize uma análise de risco qualitativa e quantitativa e insira os dados em um registro de risco.
 
 Normalmente o registro de um risco deve conter:
@@ -230,10 +230,10 @@ Normalmente o registro de um risco deve conter:
 - plano mitigatório (ou de resposta ao risco)
 - plano de ação (quando esse risco torna-se um evento)
 
-###### Plano de resposta ao risco (mitigatório ou de ação) 
+###### d. Plano de resposta ao risco (mitigatório ou de ação) 
 Crie ações para cada ameaça e oportunidade identificadas dentro do alcance do seu limiar de tolerância ao risco.
 
 Esses planos serão úteis para evitar que um risco torne-se um evento e para quando isso acontecer exista uma plano de ação para minimizar os impactos previstos.
 
-###### Monitoramento de risco
+###### e. Monitoramento de risco
 Monitore os riscos, execute os planos de resposta e documente ameaças e oportunidades subsequentes que emergem durante o ciclo de vida do projeto.
