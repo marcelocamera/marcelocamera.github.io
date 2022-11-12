@@ -107,15 +107,15 @@ Ao comprar ou contratar, o gerente de projetos precisará planejar as compras no
 ## Gerenciamento de Custos
 Manter um projeto dentro do orçamento planejado envolve um processo de gerenciamento de custos para ajudá-lo a definir um orçamento, monitorar e prever custos.
 
-### Planejamento de recursos
+### a. Planejamento de recursos
 O planejamento de recursos analisa especificamente os custos associados à alocação e agenda de cada recurso. Devido à complexidade desse processo, uma WBS pode ajudar a simplificar e fornecer clareza. Identifique quais recursos serão usados para satisfazer cada item da WBS e determinar os custos associados.
 
-### Estimativa de custo
+### b. Estimativa de custo
 A estimativa de custos é um processo contínuo de identificar os custos associados a cada um dos recursos necessários para a execução de todas as atividades programadas. 
 
 Os gerentes de projeto devem iterar as estimativas de custo sempre que as alterações do escopo do projeto ou solicitações de alteração forem aprovadas. Essas estimativas fornecem um somatório de todos os custos envolvidos no projeto, desde o início até a conclusão.
 
-### Cotações
+### c. Cotações
 As cotações de preço devem explicar, desde custos diretos de mão-de-obra até custos de material, custos de fabricação, custos de equipamento, custos administrativos e custos de uso de licenças de software.
 
 O gerente de projeto deve:
