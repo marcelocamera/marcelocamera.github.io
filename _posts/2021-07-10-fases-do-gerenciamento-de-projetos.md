@@ -14,7 +14,7 @@ comments: true
 ---
 Para obter uma prévia de como a maioria dos projetos provavelmente será executado, cada uma das seguintes fases comuns do gerenciamento de projetos representa um grupo de processos interrelacionados que devem ocorrer, mas não necessariamente em uma ordem estritamente sequencial.
 
-### Fase de Iniciação
+## Fase de Iniciação
 Esta fase consiste em apenas dois processos: o registro da proposta de trabalho e o registro dos stakeholders (partes interessadas) do projeto. O objetivo é determinar a visão do projeto (o que espera-se realizar) e garantir as aprovações de um sponsor (patrocinador) do projeto.
 
 Ao estabelecer uma visão clara e coesa, considere quem deve estar envolvido idealmente em dar vida ao projeto.
@@ -35,7 +35,7 @@ Reservar um tempo para obter definir claramente os objetivos significará que o 
 
 Todos os envolvidos poderão discutir suas próprias sugestões ou preocupações. Ter essa fase inicial é importante não apenas para o projeto, mas para todas as equipes envolvidas para dar a sua opinião sobre o que é necessário para o projeto.
 
-#### Fase de Planejamento
+## Fase de Planejamento
 Durante a fase de planejamento, é importante que a primeira coisa a fazer seja delinear e definir os que será feito durante o projeto. Ao responder às seguintes perguntas, o gerente de projetos pode ver claramente o que o projeto precisa atingir.
 
 - O que exatamente será feito?
@@ -47,7 +47,7 @@ Como parte da fase de planejamento, o gerente de projeto precisará trabalhar co
 
 Colocar o plano em prática, com o envolvimento de toda a equipe pode ser complicado de se fazer. Mas dar a todos os à chance de se envolver no plano significará que haverá menos problemasno futuro do projeto.
 
-### Fase de Execução
+## Fase de Execução
 A fase de execução deve envolver as seguintes etapas:
 
 - Desenvolvimento da(s) equipe(s);
@@ -62,14 +62,14 @@ Durante esse período, a comunicação é importante, haverá momentos em que o 
 
 Ter um sistema confiável de gerenciamento de projetos economizará muitas dores de cabeça do gerente de projeto e das suas equipes. Será mais fácil a execução das tarefas, a manutenção dos prazos e das entregas e fornecerão ao time de projetos mais informações do que ainda precisa ser feito.
 
-#### Fase de Monitoramento e Controle
+## Fase de Monitoramento e Controle
 Quando, na fase de monitoramento e controle, o gerente de projeto precisará garantir o progresso geral do projeto.
 
 O gerente de projetos precisará permanecer acompanhar, rastrear e obter o status de sua equipe de projetos para que esteja ciente de quaisquer problemas potenciais antes que o projeto saia do controle.
 
 Vale muito a pena ter outro membro da equipe do projeto (ou de cada área) para atuar como outro controlador ou garantidor da qualidade, que podem ajudá-lo a acompanhar tudo o que está acontecendo em sua equipe e ter reuniões regulares para atualizar a gerência em todos os aspectos e para que todos estejam indo no caminho certo.
 
-### Fase de Fechamento (ou Encerramento)
+## Fase de Fechamento (ou Encerramento)
 A fase final do ciclo de vida do projeto é a fase de fechamento. É mais do que simplesmente verificar como feito e finalizar o projeto. É essencial encerrar o projeto formalmente e garantir a aprovação do cliente, dos stakeholders e dos sponsor do projeto.
 
 Este processo pode incluir:
@@ -81,7 +81,7 @@ Este processo pode incluir:
 
 A importância desta etapa final do ciclo de vida do projeto não pode ser exagerada, especialmente à medida que mais organizações estão adotando o modelo de trabalho onde as equipes temporárias se reúnem em torno de um projeto específico e depois se separam e se reagrupam em outro projeto. Isso é importante para as equipes de projetos que envolvem freelancers ou consultores.
 
-### Ciclo de Vida Completo do Projeto
+## Ciclo de Vida Completo do Projeto
 Abaixo está um gráfico do ciclo de vida completo do projeto, incluindo os cinco grupos de processo de gerenciamento de projetos e as etapas necessárias em cada fase para todas as áreas de conhecimento.
 
 <figure>
