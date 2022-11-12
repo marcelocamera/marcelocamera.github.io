@@ -1,43 +1,19 @@
 ---
 layout: post
-title:  "Abertura do Diafragma"
+title:  "Como escrever um Business Case"
 date:   2021-07-12
-excerpt: "Controle de foco e desfoque"
+excerpt: "Porquê, o que e como deverá ser o projeto"
 tag:
-- fotografia
-- técnica fotográfica
+- gerenciamento de projeto
+- business case
+- proposta de projeto
 comments: true
 ---
-## O que é o Diafragma
-O diafragma é um dispositivo mecânico que se encontra dentro das lentes e que controla a entrada de luz na câmera. A abertura do diafragma é representada por um número chamado de f.
+Por que muitos projetos não conseguem atingir seus objetivos, embora as melhores práticas de gerenciamento de projetos tenham sido usadas? O gerenciamento de projetos pode ser desastroso se o gerente de projetos não conseguir obter uma adesão e o envolvimento dos stakeholders. Nesse caso, escrever um business case completo pode fazer toda a diferença.
 
-<figure>
-	<img src="https://i.imgur.com/XoX0pEM.jpg">
-</figure>
+### O que é um business case
+Um business case é desenvolvido durante os estágios iniciais do projeto, muito antes do início da execução desse projeto e descreve o porquê, o que, como e quem precisa decidir se vale a pena iniciar ou não um projeto. Uma das primeiras coisas que o gerente de projetos precisa saber ao iniciar um novo projeto são os benefícios desse projeto e como comunicar esses benefícios ao cliente.
 
-Quanto menor o número de f, maior será a abertura do diafragma e, portanto mais luz entrará na câmera e assim mais clara ficará a foto. Quanto maior o valor de f, menor será a abertura do diafragma e menos luz entrará na câmera fazendo com que a foto fique mais escura.
+O business case deverá conter muito mais detalhes sobre o projeto, ele deverá ser revisado pelos sponsors do projeto e pelos stakeholders antes de ser aprovado.
 
-<figure class="half">
-    <img src="https://i.imgur.com/CwxlfAX.png">
-    <img src="https://i.imgur.com/5vW2Idi.png">
-</figure>
-
-O diafragma está associado ao controle da profundidade de campo, isto é, quanto da sua foto está focada. Esse controle garante que toda sua foto estará em foco ou somente parte dela.
-
-<figure>
-	<img src="https://i.imgur.com/yELY6BE.png">
-</figure>
-
-## Como ajustar a abertura do diafragma
-Valores baixos de f irão garantir um pequena faixa de nitidez, isto é, os elementos que estiverem dentro dessa faixa terão nitidez, àqueles fora dessa faixa estão desfocados.
-
-<figure>
-	<img src="https://i.imgur.com/2O4zXWE.png">
-</figure>
-
-O efeito de desfoque é muito apreciado em retratos onde o plano de fundo não precisa de destaque. Já a nitidez em toda a foto é necessária quando se deseja retratar uma paisagem ou quando o objetos em diferentes distâncias devem fazer parte da foto.
-
-<figure>
-	<img src="https://i.imgur.com/ybhMBDU.jpg">
-	<figcaption><center>Imagens com variação da abertura do diafragma</center></figcaption>
-</figure>
+Dependendo da escala da mudança de negócios, o caso de negócios pode precisar de um desenvolvimento adicional como parte de uma investigação detalhada. Portanto, deve ser desenvolvido de forma incremental para que o tempo e os recursos não sejam desperdiçados desperdiçados no impraticável.
