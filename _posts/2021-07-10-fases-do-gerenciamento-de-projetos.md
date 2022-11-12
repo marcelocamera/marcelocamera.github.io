@@ -82,7 +82,7 @@ Este processo pode incluir:
 A importância desta etapa final do ciclo de vida do projeto não pode ser exagerada, especialmente à medida que mais organizações estão adotando o modelo de trabalho onde as equipes temporárias se reúnem em torno de um projeto específico e depois se separam e se reagrupam em outro projeto. Isso é importante para as equipes de projetos que envolvem freelancers ou consultores.
 
 #### Ciclo de Vida Completo do Projeto
-Abaixo está um gráfico do ciclo de vida completo do projeto, incluindo os cinco grupos de processo de gerenciamento de projetos em ordem e as etapas necessárias em cada fase em todas as áreas de conhecimento.
+Abaixo está um gráfico do ciclo de vida completo do projeto, incluindo os cinco grupos de processo de gerenciamento de projetos e as etapas necessárias em cada fase para todas as áreas de conhecimento.
 
 <figure>
 	<a href="http://marcelocamera.github.io/assets/img/grupos-de-processos.webp"><img src="http://marcelocamera.github.io/assets/img/grupos-de-processos.webp"></a>
