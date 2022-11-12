@@ -3,7 +3,6 @@ layout: post
 title:  "Fases do Gerenciamento de Projetos"
 date:   2021-07-10
 excerpt: "As fases comuns a todos os projetos"
-project: true
 tag:
 - gerenciamento de projetos
 - iniciação
