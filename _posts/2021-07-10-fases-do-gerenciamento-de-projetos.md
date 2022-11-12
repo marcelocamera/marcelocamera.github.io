@@ -9,7 +9,8 @@ tag:
 - iniciação
 - planejamento
 - execução
-- 
+- monitoramento e controle
+- encerramento
 comments: true
 ---
 Para obter uma prévia de como a maioria dos projetos provavelmente será executado, cada uma das seguintes fases comuns do gerenciamento de projetos representa um grupo de processos interrelacionados que devem ocorrer, mas não necessariamente em uma ordem estritamente sequencial.
