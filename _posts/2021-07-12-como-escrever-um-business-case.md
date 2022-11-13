@@ -133,3 +133,53 @@ O cronograma macro de projeto é mostrado abaixo na sua versão preliminar, assi
 	<figcaption><center><a>Cronograma Macro Preliminar</a></center></figcaption>
 </figure>
 
+#### 5. Alocação dos Recursos
+
+A alocação dos recursos preliminar do projeto é mostrada abaixo abaixo na sua versão preliminar, assim que o projeto for formalmente aprovado, uma nova versão da alocação de recursos será apresentada.
+
+
+|  | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 | Mês 6 |
+|:--------|:-------|:--------|:--------|:-------|:--------:|
+| Designer UI/UX | 1,0 | | | | | |
+| Arquiteto de Sistemas | 0,5 | 0,5 | | | | |
+| Desenvolvedor FE | | 1,0 | 1,0 | 1,0 | 1,0 | 1,0 |
+| Desenvolvedor BE | | 1,0 | 1,0 | 1,0 | 1,0 | 1,0 |
+| Analista de QA | | 1,0 | 1,0 | 1,0 | 1,0 | 1,0 |
+| Gerente de Projetos | 0,3 | 0,3 | 0,3 | 0,3 | 0,3 | 0,3 |
+| <b>TOTAL | <b>1,8 | <b>3,8 | <b>3,3 | <b>3,3 | <b>3,3 | <b>3,3 |
+
+#### 6. Metodologia e Tecnologias
+A metodologia a ser utilizada durante todo o ciclo de vida do projeto será a metodologia ágil com o uso do framework Scrum, extensamente utilizada em nossa empresa.
+
+Essa metodologia propõe que todo o escopo do projeto seja executado em períodos de tempo denominado de sprint, nossa empresa propõe que cada sprint terá a duração de 03 semanas de desenvolvimento e ao final desse período todo o escopo desenvolvido seja apresentado ao cliente para a aceitação e coleta de feedbacks.
+
+As tecnologias utilizadas para o projeto serão:
+- React para o desenvolvimento do frontend do projeto;
+- Java para o desenvolvimento do backend do projeto;
+- Banco de dados MySQL;
+
+A validação e testes do projeto estão planejadas para serem feitas na modalidade de testes manuais e exploratórios, não sendo previstos testes de carga e automatizados conforme desejo do cliente.
+
+#### 7. Aquisições
+
+Para o desenvolvimento do projeto estão previstas as seguintes aquisições:
+- 02 (duas) licenças do software para programação em web, sendo que essa licença será cobrada na modalidade mensal;
+- 01 (um) tablet android para testes de validação;
+
+Estão previstas os seguintes deslocamentos ao cliente:
+
+|  | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 | Mês 6 |
+|:--------|:-------|:--------|:--------|:-------|:--------:|
+| Deslocamentos |3,0 |1,0 | | |1,0 |5,0 |
+
+#### 8. Entregáveis
+Ao final do projeto estão planejadas entregas contendo os seguintes itens:
+- todos os wireframes produzidos durante a fase de web designer;
+- documento com a identidade visual do site;
+- documento contendo a jornada do usuário;
+- workflow das telas do site;
+- todo código-fonte produzido;
+- relatório de bugs conhecidos;
+- relatório de testes e validações;
+- scripts para carregamento do site no ambiente de produção;
+- manual do administrador do site;
