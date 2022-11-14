@@ -170,7 +170,7 @@ Estão previstas os seguintes deslocamentos ao cliente:
 
 |  | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 | Mês 6 |
 |:--------|:-------|:--------|:--------|:-------|:--------:|
-| Deslocamentos |3,0 |1,0 | | |1,0 |5,0 |
+| Deslocamentos |3,0 |1,0 |- |- |1,0 |5,0 |
 
 #### 8. Entregáveis
 Ao final do projeto estão planejadas entregas contendo os seguintes itens:
@@ -183,3 +183,35 @@ Ao final do projeto estão planejadas entregas contendo os seguintes itens:
 - relatório de testes e validações;
 - scripts para carregamento do site no ambiente de produção;
 - manual do administrador do site;
+
+#### 9. Critério de Aceitação
+A aceitação do projeto pelo cliente é definida como a entrega de todos os itens mandatórios da lista de entregáveis da seção "Entregáveis".
+
+#### 10. Riscos
+A avaliação de risco resume os riscos e oportunidades significativas ao projeto. Os riscos elencados até o momento são:
+
+1. Participação do time técnico do cliente durante as atividades de validação do projeto;
+2. Demora na aprovação dos itens de projeto;
+3. Impactos do COVID-19 na capacidade do time;
+
+#### 11. Premissas
+As premissão são notas que precisam ser compartilhadas pelo cliente antes, durante e depois da execução do projeto, para este projeto são consideradas as seguintes premissas:
+1. O cliente disponibilizará um time técnico com prerrogativas de revisão e de aprovação para as respectivas revisão e de aprovação;
+2. Nossa organização irá usar a metodologia de desenvolvimento ágil e o framework Scrum;
+3. Não estão planejadas aquisições diferentes daquelas pertencentes à seção Aquisições deste documento
+4. O desenvolvimento será realizado nas dependências de nossa organização ou no modelo de home-office conforme disponibilizado pela nossa organização.
+
+#### 12. Cronograma de Feriados, Férias e Dayoffs
+
+| Jan-21 | Fev-21 | Mar-21 | Abr-21 | Mai-21 | Jun-21 | Jul-21 |
+|:-------|:-------|:-------|:-------|:-------|:-------|:-------|
+|01 - Ano Novo | 15 a 17 - Carnaval | 01 a 15 - Férias FE | 02 - Sexta Feira Santa | 17 a 31 - Férias UI/UX | - | 03 e 04 - Corpus Christi |
+| - | - | - | 20 e 21 - Tiradentes | - | - | - |
+
+#### 13. Investimento
+<center>O investimento necessário a execução do projeto é de: 
+<b>USD 70.000,00</b>
+
+(setenta mil dólares americanos)<center>
+
+Este valor contempla todos os impostos e tem validade de 30 dias a contar da data de recebimento desta proposta pelo cliente.
