@@ -25,13 +25,14 @@ Pode ser entendido como uma sequência de tarefas que precisam ser executadas pa
 
 ### ciclo de vida de um projeto
 
-O ciclo de vida de um projeto pode ser entendido como todo período de tempo desde o início do projeto até sua finalização. Para ser melhor entendido, o ciclo de vida de um projeto é divido em 4 fases:
+O ciclo de vida de um projeto pode ser entendido como todo período de tempo desde o início do projeto até sua finalização. Para ser melhor entendido, o ciclo de vida de um projeto é divido em 05 fases:
 
-1. Iniciação
-2. Planejamento
-3. Monitoramento e Controle
-4. Encerramento
+1. **Iniciação** - Durante essa fase ocorre a definição do projeto e sua viabilidade e valor potencial são avaliados.
+2. **Planejamento** - Durante essa fase ocorre a criação do plano de projeto detalhado, que descreve as principais tarefas, recursos, cronogramas e o orçamento do projeto.
+3. **Execução** - Durante essa fase, o plano de projeto é colocado em ação e o trabalho do projeto é concluído.
+3. **Monitoramento e Controle** - Ocorre em paralelo à fase de execução do projeto, nessa fase o progresso é rastreado e monitorado, quando necessário, ajustes são feitos no plano de projeto para garantir que o projeto seja executado de maneira correta.
+4. **Encerramento** - Durante a fase de encerramento, o projeto é formalmente concluído, as entregas finais são realizadas e as lições aprendidas são documentadas.
 
 O objetivo de um ciclo de vida de um projeto é fornecer estrutura e orientação para a equipe de projeto, garantindo que o projeto seja concluído com sucesso, dentro do prazo e dentro do orçamento. 
 
-Ao dividir o projeto em fases gerenciáveis, a equipe de projetos pode se concentrar em cada estágio individualmente, reduzindo o risco e aumentando a probabilidade de sucesso. O ciclo de vida de um projeto pode variar dependendo do tamanho e da complexidade do projeto, mas geralmente envolve alguma variação dessas 4 fases.
+Ao dividir o projeto em fases gerenciáveis, a equipe de projetos pode se concentrar em cada estágio individualmente, reduzindo o risco e aumentando a probabilidade de sucesso. O ciclo de vida de um projeto pode variar dependendo do tamanho e da complexidade do projeto, mas geralmente envolve alguma variação dessas 05 fases.
