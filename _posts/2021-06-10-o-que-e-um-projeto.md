@@ -7,12 +7,12 @@ tag:
 - gerenciamento de projetos
 comments: true
 ---
-### definição de projeto
+### DEFINIÇÃO DE PROJETO
 Um <b>projeto</b> é um <b>esforço temporário</b> para <b>criar</b> um produto, serviço ou <b>resultado único</b>.
 
 Pode ser entendido como uma sequência de tarefas que precisam ser executadas para o atingimento de um certo objetivo.
 
-### características de um projeto
+### CARACTERÍSTICAS DE UM PROJETO
 <b>Temporário</b> - um projeto têm início e fim bem definidos.
 
 <b>Criar resultado único</b> - por mais que projetos possam ter similaridades, o resultado do projeto sempre será único.
@@ -23,7 +23,7 @@ Pode ser entendido como uma sequência de tarefas que precisam ser executadas pa
 
 <b>Uni ou Multi Disciplinares</b> - Os projetos podem ser <b>unidisciplinares</b> - quando somente um disciplina é abordada no desenvolvimento desse projeto (como exemplo o desenvolvimento de um aplicativo) ou <b>multidisciplinares</b> - quando mais do que uma disciplina é utilizada pelo projeto (por exemplo a criação de um smartphone, onde são necessários conhecimentos de mecânica, eletrônica, software e firmware).
 
-### ciclo de vida de um projeto
+### CICLO DE VIDA DE UM PROJETO
 
 O ciclo de vida de um projeto pode ser entendido como todo período de tempo desde o início do projeto até sua finalização. Para ser melhor entendido, o ciclo de vida de um projeto é divido em 05 fases:
 
