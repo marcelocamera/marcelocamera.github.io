@@ -1,53 +1,61 @@
 ---
 layout: post
-title:  "Metodologias usadas no Gerenciamento de Projetos"
+title:  "METODOLOGIAS ÁGEIS NO GERENCIAMENTO DE PROJETO"
 date:   2021-06-20
-excerpt: "Ágil, Kanban, Waterfall, Six Sigma"
+excerpt: "Scrum, Kanban e Lean"
 tag:
 - gerenciamento de projetos
 - metodologia
 comments: true
 ---
-Como todo projeto único, o campo do gerenciamento de projetos desenvolveu uma série de abordagens específicas para gerenciar o trabalho de diferentes ramos do conhecimento.
+A metodologia ágil no gerenciamento de projetos é uma abordagem que enfatiza entregas contínuas, envolvimento da equipe de projetos, adaptação a mudanças e feedbacks frequentes. 
 
-Cada uma dessas metodologias tem um foco particular na melhor maneira de iniciar, planejar e executar um projeto. O que você escolher dependerá muito do ambiente de trabalho da sua organização, das metas e valores do projeto e da complexidade do trabalho.
+Em vez de seguir processos rígidos e predefinidos, a metodologia ágil se concentra em adaptar-se às necessidades e requisitos do projeto à medida que eles surgem, dividindo-o em sprints, que são ciclos curtos de trabalho que permitem fazer entregas rápidas e iterativas. 
 
-Aqui estão uma visão geral das seis metodologias mais comuns no gerenciamento de projetos:
+Entre as metodologias ágeis mais populares estão o **Scrum**, o **Kanban** e o **Lean**. A metodologia ágil é adequada para projetos com requisitos e objetivos flexíveis ou desconhecidos, onde as necessidades do cliente podem mudar ao longo do tempo e exigem uma maior interação e colaboração da equipe no processo de entrega do projeto.
 
-### Agile (Metodologia)
-O Agile é uma das mais populares abordagens iterativas ou orientadas a mudanças para o gerenciamento de projetos. O Agile se caracteriza pela capacidade de se adaptar rapidamente às mudanças necessárias ou às correções do curso.
+### Scrum
 
-A abordagem ágil tem uma perspectiva mais centrada nas pessoas, implementando fases iterativas curtas (Sprints) que dependem do feedback contínuo que reformula e refazem os objetivos do projeto.
+Scrum é um framework da metodologia ágil de gerenciamento de projetos, que é baseado em abordagens iterativas e incrementais. 
 
-O sucesso do Agile no campo de desenvolvimento de software levou ao rápido aumento da adoção em outros ramos de negócios.
+O Scrum é utilizado para gerenciar projetos complexos e dinâmicos, ajudando as equipes a lidar com mudanças de requisitos e incertezas do projeto. 
 
-### Kanban (Framework)
-Como na maioria das metodologias ágeis, o Kanban foi projetado para fazer com que as equipes funcionem melhor, e qualquer coisa que não esteja funcionando para sua equipe em particular deve estar em alteração.
+A metodologia é centrada na colaboração da equipe, comunicação eficaz, adaptação a mudanças e entrega contínua de valor aos clientes. 
 
-Quando usado pelas equipes de desenvolvimento, o Kanban apresenta um grande backlog de estórias de usuários que precisam ser abordadas. As partes interessadas são responsáveis por manter e priorizar esse backlog porque é a única fonte de trabalho para os desenvolvedores.
+As equipes Scrum trabalham em sprints, que são ciclos curtos de trabalho que duram de uma a quatro semanas, com o objetivo de entregar incrementos de valor em todas as iterações. 
 
-Quando um membro da equipe está pronto para trabalhar em uma nova estória, ele a retira da coluna "to do" no quadro Kanban, colocando-a na coluna "doing". À medida que o projeto progride, essa estória se move através do quadro concluído. Os membros da equipe que lida com esse projeto não devem iniciar outras estórias até aquela iniciada por ele esteja concluída.
+O Scrum possui três principais papéis: 
+- o Product Owner - que é responsável por definir e priorizar o backlog do produto; 
+- o Scrum Master - que é responsável por garantir o uso adequado do framework 
+- e a Equipe Scrum - que é responsável por entregar os trabalhos no sprint. 
 
-### Waterfall (Framework)
-O Waterfall evoluiu a partir de metodologias mais tradicionais de gerenciamento de trabalho, empregando uma abordagem sequencial e de cima para baixo para o gerenciamento de projetos.
+Ao utilizar o Scrum, as equipes são capazes de aumentar a qualidade da entrega, a produtividade e a satisfação do cliente, ao mesmo tempo que reduzem os riscos envolvidos na execução do projeto.
 
-Usando o Waterfall, os gerentes de projeto se esforçam para eliminar riscos e incerteza, descrevendo todas as etapas de um projeto e definindo seu escopo, orçamento e cronograma antecipadamente.
+### Kanban
 
-Um dos fundamentos do Waterfall é que investir tempo nos estágios iniciais de um projeto com atividades relacionadas ao design e a escrita de requisitos adequados evitando que haja esforço extra e outros problemas futuros. Isso é realizado principalmente, garantindo que uma fase de um projeto seja 100% concluída com sucesso antes de passar para a próxima.
+Kanban é um outro framework da metodologia ágil que se baseia na gestão visual do fluxo de trabalho, onde as tarefas, atividades e processos são representados por cartões ou post-its em um quadro, indicando seu estado atual e o que deve ser feito em seguida. 
 
-### Scrum (Framework)
-O Scrum é outro framework ágil que organiza projetos em Sprints, ou períodos de tempo definidos. As equipes criam um backlog de tarefas que precisam ser concluídas em um sprint e planejar prazos realistas.
+Esta metodologia foi desenvolvida pela Toyota na década de 1940 para aumentar a eficiência da sua linha de produção.
 
-Durante o sprint, são realizadas reuniões diárias (daily meetings), onde os membros da equipe relatam o que realizaram no dia anterior, o que planejam fazer naquele dia e quaisquer obstáculos que possam impedi-los. No final do sprint, é realizada uma reunião para revisar (review) o que foi feito.
+Na gestão do conhecimento, o Kanban se tornou popular pela sua abordagem simples e intuitiva, que busca a eficiência através da redução do desperdício de recursos. 
 
-### Six Sigma (Framework)
-Esse framework se concentra nos retornos financeiros dos projetos e incentiva a tomada de decisões com base nos dados. Os conceitos do Six Sigma são:
+Nessa abordagem, é comum visualizar as etapas do fluxo de trabalho em um quadro Kanban, permitindo a visualização das etapas, que tarefas estão sendo executadas, quais foram concluídas e quais aguardam a ação do próximo usuário. 
 
-- Os projetos são mais bem-sucedidos quando a variação nos processos é reduzida;
-- Os recursos do processo podem ser definidos, controlados, medidos e aprimorados;
-- O sucesso do Six Sigma depende da adesão de toda a organização;
+A metodologia também utiliza métricas para medir o desempenho do processo, a eficiência e a produtividade da equipe.
 
-### Abordagens Híbridas
-Mesmo com essa variedade de abordagens, uma única metodologia pode não se encaixar em todos os projetos ou em toda a organização. Uma abordagem híbrida pode ser a solução para que você possa ter sucesso na gestão do seu projeto.
+### Lean
 
-Qualquer abordagem híbrida começa com o gerente de projeto sendo capaz de identificar quais frameworks podem ser misturados para atingir um melhor desempenho e resultados do projeto.
+Lean é uma filosofia de gestão que tem como objetivo aumentar a eficiência e a produtividade de uma organização. 
+
+A metodologia busca eliminar desperdícios e reduzir custos, ao mesmo tempo em que fornece valor aos clientes. 
+
+O Lean teve origem na Toyota na década de 1950 como uma extensão do Kanban, no chamado Sistema Toyota de Produção, que revolucionou a indústria automotiva.
+
+A filosofia Lean se baseia em cinco princípios fundamentais: 
+1. identificar o valor para o cliente;
+2. mapear o fluxo de valor;
+3. criar fluxo contínuo;
+4. produzir somente o que é necessário;
+5. buscar a melhoria contínua. 
+
+Para isso, a metodologia utiliza diversas ferramentas, como o Kanban, o Just in Time, o 5S, entre outras.
