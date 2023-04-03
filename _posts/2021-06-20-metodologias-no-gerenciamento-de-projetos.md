@@ -6,6 +6,9 @@ excerpt: "Scrum, Kanban e Lean"
 tag:
 - gerenciamento de projetos
 - metodologia
+- scrum
+- kanban
+- lean
 comments: true
 ---
 A metodologia ágil no gerenciamento de projetos é uma abordagem que enfatiza entregas contínuas, envolvimento da equipe de projetos, adaptação a mudanças e feedbacks frequentes. 
@@ -14,7 +17,7 @@ Em vez de seguir processos rígidos e predefinidos, a metodologia ágil se conce
 
 Entre as metodologias ágeis mais populares estão o **Scrum**, o **Kanban** e o **Lean**. A metodologia ágil é adequada para projetos com requisitos e objetivos flexíveis ou desconhecidos, onde as necessidades do cliente podem mudar ao longo do tempo e exigem uma maior interação e colaboração da equipe no processo de entrega do projeto.
 
-### Scrum
+### SCRUM
 
 Scrum é um framework da metodologia ágil de gerenciamento de projetos, que é baseado em abordagens iterativas e incrementais. 
 
@@ -31,7 +34,7 @@ O Scrum possui três principais papéis:
 
 Ao utilizar o Scrum, as equipes são capazes de aumentar a qualidade da entrega, a produtividade e a satisfação do cliente, ao mesmo tempo que reduzem os riscos envolvidos na execução do projeto.
 
-### Kanban
+### KANBAN
 
 Kanban é um outro framework da metodologia ágil que se baseia na gestão visual do fluxo de trabalho, onde as tarefas, atividades e processos são representados por cartões ou post-its em um quadro, indicando seu estado atual e o que deve ser feito em seguida. 
 
@@ -43,7 +46,7 @@ Nessa abordagem, é comum visualizar as etapas do fluxo de trabalho em um quadro
 
 A metodologia também utiliza métricas para medir o desempenho do processo, a eficiência e a produtividade da equipe.
 
-### Lean
+### LEAN
 
 Lean é uma filosofia de gestão que tem como objetivo aumentar a eficiência e a produtividade de uma organização. 
 
