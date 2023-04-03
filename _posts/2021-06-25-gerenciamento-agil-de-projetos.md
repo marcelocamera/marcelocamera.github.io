@@ -6,6 +6,7 @@ excerpt: "gerenciamento ágil, agilidade e manifesto ágil"
 tag:
 - gerenciamento de projetos
 - agile
+- -gerenciamento ágil
 comments: true
 ---
 ### INTRODUÇÃO AO GERENCIAMENTO ÁGIL DE PROJETOS
@@ -50,7 +51,6 @@ Portanto, feedbacks frequentes durante o ciclo de vida do projeto ágil servem c
 Além disso, por meio da colaboração frequente do cliente, o ágil visa aumentar a eficiência dos projetos. Uma maneira de conseguir isso é reduzindo o retrabalho dos projetos que criam um desperdício massivo de tempo e recursos. Como resultado, os projetos ágeis atingem alta produtividade com menor custos de atraso, tornando o produto ou serviço mais barato para o cliente final. 
 
 **Adaptabilidade**
-
 Outra característica do gerenciamento ágil de projetos é permitir que as equipes de projeto respondam melhor às mudanças devido aos feedbacks constantes do cliente.
 
 Isso exige uma entrega de valor mais frequente ao cliente final, para que as equipes de projeto possam obter feedback rápido diretamente do mercado. 
