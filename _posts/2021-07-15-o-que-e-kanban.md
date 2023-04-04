@@ -21,5 +21,3 @@ O Kanban oferece algumas práticas importantes, como:
 - **Feedback contínuo** - Promover a comunicação constante entre a equipe de projeto e os stakeholders para ajustar o processo e o produto;
 
 O Kanban é um framework bastante flexível e pode ser aplicado em diversas áreas, como desenvolvimento de software, marketing, gestão de projetos, entre outras. O Kanban é muito útil para equipes de projetos que precisam gerenciar várias atividades simultaneamente e que desejam identificar oportunidades de melhoria contínua.
-
-
