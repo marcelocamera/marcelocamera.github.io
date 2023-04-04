@@ -23,7 +23,5 @@ A metodologia Lean utiliza algumas práticas importantes, como:
 
 As técnicas de Lean podem ser aplicadas em diversas áreas, como manufatura, serviços e saúde dentre outras, e tem como objetivo fornecer valor ao cliente como a maior eficiência possível.
 
-### NOTAS
 
-> **Produção Puxada**
-> É fazer o necessário quando for necessário, ou seja, reduzir ao mximo o estoque, produzindo somente aquilo que o cliente comprou. Esse método é um dos pilares do Sistema Toyota de Produção.
+> **Produção Puxada** é fazer o necessário quando for necessário, ou seja, reduzir ao mximo o estoque, produzindo somente aquilo que o cliente comprou. Esse método é um dos pilares do Sistema Toyota de Produção.
