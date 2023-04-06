@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SUSTENTABILIDADE NO DESENVOLVIMENTO DE SOFTWARE"
-date:   2022-04-06
+date:   2023-04-06
 excerpt: "Como promover ações para garantir benefícios economicos, sociais e ambientais"
 tag:
 - gerenciamento de projetos
