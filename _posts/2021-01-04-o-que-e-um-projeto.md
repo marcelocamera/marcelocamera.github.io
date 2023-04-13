@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O QUE É UM PROJETO"
-date:   2021-04-01
+date:   2021-01-04
 excerpt: "definição do projeto e do seu ciclo de vida"
 tag:
 - gerenciamento de projetos
