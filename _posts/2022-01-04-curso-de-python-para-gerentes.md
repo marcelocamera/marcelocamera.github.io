@@ -17,15 +17,19 @@ Vamos criar um programa simples chamado 'Hello World'.
 
 1. Digite o código a seguir em um editor ou em uma IDE;
 
-'''
+```
+
+
 	Print ("Hello, World!!")
-'''
+
+```
     
 2. Salve esse código como **hello_world.Py**
 3. Como saída será obtido a seguinte mensagem
 '''
 	Hello, World!!
 '''
+
 ### KEYWORDS EM PYTHON
 
 Uma keyword é uma palavra reservada que não pode ser usada como o nome de uma variável, função ou qualquer outro identifier. As keywords são usadas para definir e a estrutura da linguagem Python.
