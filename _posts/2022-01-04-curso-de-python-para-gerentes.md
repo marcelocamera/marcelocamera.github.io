@@ -17,18 +17,14 @@ Vamos criar um programa simples chamado 'Hello World'.
 
 1. Digite o código a seguir em um editor ou em uma IDE;
 
-```
-
-
+    
 	Print ("Hello, World!!")
-
-```
     
 2. Salve esse código como **hello_world.Py**
 3. Como saída será obtido a seguinte mensagem
-'''
+    
 	Hello, World!!
-'''
+    
 
 ### KEYWORDS EM PYTHON
 
