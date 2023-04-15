@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "CURSO DE PYTHON PARA GERENTES DE PROJETO"
+title:  "PYTHON PARA GERENTES DE PROJETO"
 date:   2022-01-04
 excerpt: "Tudo o que é preciso saber, mas tinha medo de perguntar"
 tag:
 - linguagens de programação
 - gerenciamento de projetos
+- desenvolvimento de software
 - python
 comments: true
 ---
