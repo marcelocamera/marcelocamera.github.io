@@ -43,13 +43,13 @@ Todas as keywords exceto: True, False e None deve ser escritas em minúsculas.
 ### IDENTIFIERS PYTHON
 
 Um identifier é o nome dado as entidades de classe, funções, variáveis e etc. Uma keyword não pode ser usada como um identifier.
-    
-	`Global = 1`
-    
+
+`Global = 1`
+
 Output:
-    
-	`File "<interactive input>", line 1`
+
+  `File "<interactive input>", line 1`
     `global = 1`
-    `    ^
-    'Syntax Error: invalid syntax
+    `===^`
+    `Syntax Error: invalid syntax`
     
