@@ -30,9 +30,13 @@ Vamos criar um programa simples chamado 'Hello World'.
 
 Uma keyword é uma palavra reservada que não pode ser usada como o nome de uma variável, função ou qualquer outro identifier. As keywords são usadas para definir e a estrutura da linguagem Python.
 
-| false | await | else   | import | pass  |
+| False | await | else   | import | pass  |
 |-------|-------|--------|--------|-------|
-| none  | break | except | in     | raise |
-| **true**  | **class** | **finally** | **is**   | **return** |
+| None  | break | except | in     | raise |
+| **True**  | **class** | **finally** | **is**   | **return** |
 | and  | continue | for | lambda     | try |
 | **as**  | **def** | **from** | **non local**   | **while** |
+| assert  | del | global | not     | with |
+| **async**  | **elif** | **if** | **or**   | **yield** |
+
+
