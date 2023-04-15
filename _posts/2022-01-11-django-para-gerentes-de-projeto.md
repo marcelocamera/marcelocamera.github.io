@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "CURSO DE PYTHON PARA GERENTES DE PROJETO"
+title:  "DJANGO PARA GERENTES DE PROJETO"
 date:   2022-01-04
 excerpt: "Tudo o que é preciso saber, mas tinha medo de perguntar"
 tag:
 - linguagens de programação
 - gerenciamento de projetos
 - python
+- django
+- frameworks de desenvolvimento
+- desenvolvimento de software
 comments: true
 ---
 Como gerente de projetos, é importante ter uma compreensão geral da linguagem de programação Python e das ferramentas associadas a ela. Aqui estão algumas coisas que um gerente de projetos deve saber sobre Python:
