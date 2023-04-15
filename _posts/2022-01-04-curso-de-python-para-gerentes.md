@@ -44,12 +44,19 @@ Todas as keywords exceto: True, False e None deve ser escritas em minúsculas.
 
 Um identifier é o nome dado as entidades de classe, funções, variáveis e etc. Uma keyword não pode ser usada como um identifier.
 
-`Global = 1`
+Exemplo 1:
 
-Output:
+~~~python
+Global = 1
+~~~
 
-  `File "<interactive input>", line 1`
-    `global = 1`
-    `===^`
-    `Syntax Error: invalid syntax`
-    
+Output 1:
+
+~~~python
+ File "<interactive input>", line 1
+ Global = 1
+ ===^
+ Syntax Error: invalid syntax
+~~~
+
+Não é permitido usar símbolos especiais, como !, @, #, $, % e etc., no
