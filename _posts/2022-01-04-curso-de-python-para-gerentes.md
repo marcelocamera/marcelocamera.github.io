@@ -48,8 +48,8 @@ Um identifier é o nome dado as entidades de classe, funções, variáveis e etc
     
 Output:
     
-	`File "<interactive input>", line 1
-    `global = 1
+	`File "<interactive input>", line 1`
+    `global = 1`
     `    ^
     'Syntax Error: invalid syntax
     
