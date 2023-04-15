@@ -16,9 +16,8 @@ comments: true
 Vamos criar um programa simples chamado 'Hello World'.
 
 1. Digite o código a seguir em um editor ou em uma IDE;
-
     
-	Print ("Hello, World!!")
+	`Print ("Hello, World!!")`
     
 2. Salve esse código como **hello_world.Py**
 3. Como saída será obtido a seguinte mensagem
@@ -38,4 +37,19 @@ Uma keyword é uma palavra reservada que não pode ser usada como o nome de uma 
 | assert  | del | global | not     | with |
 | **async**  | **elif** | **if** | **or**   | **yield** |
 
+**Observação**
+Todas as keywords exceto: True, False e None deve ser escritas em minúsculas.
 
+### IDENTIFIERS PYTHON
+
+Um identifier é o nome dado as entidades de classe, funções, variáveis e etc. Uma keyword não pode ser usada como um identifier.
+    
+	`Global = 1`
+    
+Output:
+    
+	`File "<interactive input>", line 1
+    `global = 1
+    `    ^
+    'Syntax Error: invalid syntax
+    
