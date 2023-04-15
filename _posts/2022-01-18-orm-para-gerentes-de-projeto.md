@@ -5,10 +5,11 @@ date:   2022-01-18
 excerpt: "Tudo o que é preciso saber, mas tinha medo de perguntar"
 tag:
 - linguagens de programação
-- frameworks de programação
+- frameworks de desenvolvimento
 - gerenciamento de projetos
 - python
 - orm
+- desenvolvimento de software
 comments: true
 ---
 Como gerente de projetos, é importante entender o que é ORM (Object-Relational Mapping) e como ele pode ser benéfico para o desenvolvimento de um projeto de software.
