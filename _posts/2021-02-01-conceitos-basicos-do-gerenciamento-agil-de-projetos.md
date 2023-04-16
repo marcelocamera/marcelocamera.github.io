@@ -24,6 +24,4 @@ O **envolvimento ativo do cliente** é outro princípio fundamental do gerenciam
 Em resumo, o gerenciamento ágil de projetos se concentra em entregar valor incremental, colaboração e comunicação, flexibilidade e adaptação a mudanças e envolvimento ativo do cliente. Esses fundamentos permitem que as equipes de desenvolvimento sejam ágeis e se adaptem rapidamente às mudanças necessárias para garantir que o projeto seja entregue com sucesso.
 
 ##### Referências
-1. Agile Alliance. (2021). The Agile Manifesto. https://www.agilealliance.org/agile101/the-agile-manifesto/
-
-2. Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R. C., Mellor, S., Schwaber, K., Sutherland, J., & Thomas, D. (2001). Manifesto for Agile Software Development. Agile Alliance.
+1. Agile Alliance. (2021). The Agile Manifesto. [https://www.agilealliance.org/agile101/the-agile-manifesto/](https://www.agilealliance.org/agile101/the-agile-manifesto/)
