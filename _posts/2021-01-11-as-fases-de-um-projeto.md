@@ -1,27 +1,42 @@
 ---
 layout: post
-title:  "AS FASES DE UM PROJETO"
+title:  "O CICLO DE VIDA DE UM PROJETO"
 date:   2021-01-11
-excerpt: "Iniciação, planejamento, execução, monitoramento e controle, e encerramento"
+excerpt: "Ciclo de vida de um projeto"
 tag:
 - gerenciamento de projetos
 comments: true
 ---
-As fases de um projeto podem variar dependendo da metodologia utilizada, mas em geral, a maioria dos projetos possuem as seguintes fases:
+O ciclo de vida de um projeto descreve as fases pelas quais um projeto passa, desde a concepção até a conclusão. Cada fase do ciclo de vida do projeto tem suas próprias características, objetivos e entregas. Neste artigo, vamos explorar as fases do ciclo de vida do projeto e como elas se relacionam entre si.
 
-#### INICIAÇÃO
-Esta fase é o ponto de partida do projeto e geralmente envolve a identificação da necessidade do projeto, a definição do escopo, dos objetivos e das metas do projeto, a identificação das partes interessadas e a elaboração do termo de abertura do projeto.
+#### Fase de Iniciação
 
-#### PLANEJAMENTO
-Nesta fase, é elaborado o plano de gerenciamento do projeto, que inclui o planejamento das atividades, o cronograma, o orçamento, o plano de comunicação, o plano de riscos, o plano de recursos, entre outros.
+A fase de iniciação é o primeiro passo do ciclo de vida do projeto. Nesta fase, a ideia do projeto é identificada e avaliada. A equipe do projeto realiza uma análise preliminar de viabilidade do projeto para determinar se é um projeto que vale a pena ser executado. Esta fase também inclui a identificação do escopo do projeto, o estabelecimento de objetivos claros, a avaliação dos riscos e a definição do orçamento inicial.
 
-#### EXECUÇÃO
-É nesta fase que as atividades do projeto são executadas de acordo com o plano de gerenciamento do projeto. A equipe do projeto trabalha na execução das atividades previstas, gerenciando os recursos, monitorando o progresso e fazendo ajustes conforme necessário.
+#### Fase de Planejamento
 
-#### MONITORAMENTO E CONTROLE
-Nesta fase, o progresso do projeto é monitorado e medido em relação ao plano de gerenciamento do projeto com o objetivo de garantir que o projeto esteja dentro do escopo, cronograma e orçamento previstos. É também nesta fase que os riscos são monitorados e gerenciados e as mudanças no projeto são avaliadas e implementadas, caso necessário.
+A fase de planejamento é a fase mais crítica do ciclo de vida do projeto, pois é aqui que o gerente de projetos desenvolve o plano detalhado do projeto. Nesta fase, a equipe do projeto estabelece um plano detalhado para alcançar os objetivos do projeto e desenvolve uma estratégia para gerenciar o escopo, o cronograma, o orçamento, os recursos, os riscos e a qualidade. Esta fase também inclui a definição das metas e dos objetivos do projeto, a identificação dos requisitos e a alocação dos recursos.
 
-#### ENCERRAMENTO
-Nesta fase, o projeto é concluído e entregue aos stakeholders. É realizada a revisão final do projeto e o registro de lições aprendidas para futuros projetos. Também são finalizados os pagamentos finais, os contratos são encerrados e os recursos são liberados.
+#### Fase de Execução
 
-É importante lembrar que as fases de um projeto não são estanques, e que muitas vezes pode haver sobreposição de fases. Além disso, as atividades em cada fase podem variar dependendo do tipo de projeto e da metodologia utilizada.
+A fase de execução é a fase do ciclo de vida do projeto em que o trabalho real é realizado. A equipe do projeto começa a implementar o plano detalhado desenvolvido na fase de planejamento. Durante a execução, o gerente do projeto deve gerenciar o cronograma do projeto, os custos, a qualidade, a equipe e os riscos para garantir que o projeto seja entregue dentro do prazo, do orçamento e da qualidade especificados.
+
+#### Fase de Monitoramento e Controle
+
+A fase de monitoramento e controle é a fase do ciclo de vida do projeto em que o gerente do projeto monitora o progresso do projeto e controla a qualidade, o cronograma e o orçamento. Esta fase inclui o acompanhamento do desempenho do projeto, a identificação de problemas, a implementação de ações corretivas e a atualização do plano do projeto.
+
+#### Fase de Encerramento
+
+A fase de encerramento é a fase final do ciclo de vida do projeto. Nesta fase, a equipe do projeto entrega o projeto concluído e realiza uma revisão pós-projeto para avaliar o sucesso do projeto. Esta fase também inclui a documentação final do projeto, o fechamento de contratos e a liberação dos recursos do projeto.
+
+Cada fase do ciclo de vida do projeto tem suas próprias características, objetivos e entregas. O gerente do projeto deve gerenciar cada fase do ciclo de vida do projeto para garantir que o projeto seja entregue com sucesso. A compreensão do ciclo de vida do projeto é fundamental para o gerenciamento eficaz do projeto.
+
+##### Referências:
+
+1. Project Management Institute. (2017). Guia do Conhecimento em Gerenciamento de Projetos
+
+2. Kerzner, H. (2017). Project Management: A Systems Approach to Planning, Scheduling, and Controlling. John Wiley & Sons.
+
+
+
+Regenerate response
