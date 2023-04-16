@@ -2,41 +2,28 @@
 layout: post
 title:  "O QUE É UM PROJETO"
 date:   2021-01-04
-excerpt: "definição do projeto e do seu ciclo de vida"
+excerpt: "Definindo o que é um projeto"
 tag:
 - gerenciamento de projetos
 comments: true
 ---
 ### DEFINIÇÃO DE PROJETO
-Um <b>projeto</b> é um <b>esforço temporário</b> para <b>criar</b> um produto, serviço ou <b>resultado único</b>.
+> **Um projeto é um esforço temporário para criar um produto, serviço ou resultado único.**
 
-Pode ser entendido como uma sequência de tarefas que precisam ser executadas para o atingimento de um certo objetivo.
+Um projeto é um conjunto de atividades planejadas e organizadas para alcançar um objetivo específico em um período determinado de tempo. Projetos podem ser empreendidos por indivíduos, organizações, empresas ou governos, e podem variar em escopo, complexidade e duração.
 
-### CARACTERÍSTICA DE UM PROJETO
+O objetivo final de um projeto pode variar amplamente. Pode ser a construção de uma ponte, o lançamento de um novo produto, a organização de um evento, a implementação de uma política pública ou a realização de uma pesquisa científica. Independentemente do objetivo, todos os projetos têm um conjunto comum de características.
 
-**Temporário** - Um projeto têm início e fim bem definidos.
+Em primeiro lugar, todos os projetos têm um objetivo claramente definido e um prazo para conclusão. Isso significa que o projeto deve ser iniciado com uma compreensão clara do que se espera alcançar e quando se espera que seja concluído.
 
-**Cria resultado único** - Por mais que os projetos possam ter similaridades, o resultado do projeto sempre será único.
+Em segundo lugar, todos os projetos são únicos e exigem um planejamento cuidadoso. Isso inclui a identificação de recursos necessários, a alocação de tarefas específicas e a elaboração de um cronograma para as atividades do projeto.
 
-**Tem restrições** - Todo projeto tem algum tipo de restrição que pode ser relacionada ao tempo, aos recursos necessários (pessoas, equipamentos e etc.), ao *budget* (dinheiro) e a qualidade.
+Em terceiro lugar, todos os projetos envolvem um conjunto de riscos e incertezas. O sucesso do projeto depende da capacidade dos envolvidos em gerenciar esses riscos e adaptar o plano do projeto, conforme necessário, para lidar com mudanças imprevistas.
 
-**Tamanho** - Os projetos podem ser grandes (como a construção de uma usina hidrelétrica), médios (como o desenvolvimento de um aplicativo para smartphones) e pequenos (como a montagem de um álbum de fotos da sua última viagem).
+Finalmente, todos os projetos requerem comunicação e colaboração eficazes entre os membros da equipe, bem como a capacidade de gerenciar recursos e orçamentos de forma eficiente.
 
-**Uni ou Multi Disciplinares** - Os projetos podem ser unidisciplinares (quando somente um disciplina é abordada no desenvolvimento desse projeto) ou multidisciplinares (quando mais do que uma disciplina é utilizada pelo projeto).
+O processo de gerenciamento de projetos envolve a aplicação de técnicas e metodologias para planejar, executar e controlar um projeto. O gerenciamento de projetos pode incluir a identificação de objetivos e requisitos, o estabelecimento de um plano de projeto, a alocação de recursos, a implementação de atividades específicas, o monitoramento do progresso e a avaliação dos resultados.
 
-### CICLO DE VIDA DE UM PROJETO
-O ciclo de vida de um projeto pode ser entendido como todo período de tempo desde o início do projeto até sua finalização. Para ser melhor entendido, o ciclo de vida de um projeto é divido em 05 fases:
+Existem muitas abordagens diferentes para gerenciamento de projetos, incluindo as metodologias tradicionais de gerenciamento de projetos, como o modelo em cascata, e metodologias ágeis, como o Scrum e o Kanban.
 
-1. **Iniciação** - Durante essa fase ocorre a definição do projeto e sua viabilidade e valor potencial são avaliados.
- 
-2. **Planejamento** - Duante essa fase ocorre a criação do plano de projeto detalhado, que descreve as principais tarefas, recursos, cronogramas e o orçamento do projeto.
-
-3. **Execução** - Durante essa fase, o plano de projeto é colocado em ação e o trabalho do projeto é concluído.
-
-4. **Monitoramento e Controle** - Ocorre em paralelo à fase de execução do projeto, nessa fase o progresso é rastreado e monitorado, quando necessário, ajustes são feitos no plano de projeto para garantir que o projeto seja executado de maneira correta.
-
-5. **Encerramento** - Durante a fase de encerramento, o projeto é formalmente concluído, as entregas finais são realizadas e as lições aprendidas são documentadas.
-
-O objetivo de um ciclo de vida de um projeto é fornecer estrutura e orientação para a equipe de projeto, garantindo que o projeto seja concluído com sucesso, dentro do prazo e dentro do orçamento.
-
-Ao dividir o projeto em fases gerenciáveis, a equipe de projetos pode se concentrar em cada estágio individualmente, reduzindo o risco e aumentando a probabilidade de sucesso. O ciclo de vida de um projeto pode variar dependendo do tamanho e da complexidade do projeto, mas geralmente envolve alguma variação dessas 05 fases.
+Independentemente da abordagem utilizada, o gerenciamento de projetos é fundamental para garantir que os projetos sejam entregues dentro do prazo, dentro do orçamento e com os resultados esperados.
