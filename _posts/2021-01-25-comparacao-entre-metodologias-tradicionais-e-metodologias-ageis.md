@@ -16,7 +16,7 @@ Existem algumas diferenças significativas entre as metodologias ágeis e as met
 
 2. **Foco em documentos vs. comunicação** - As metodologias tradicionais geralmente enfatizam a documentação extensiva, como planos de projeto, relatórios de status e documentos de requisitos detalhados. Em contraste, as metodologias ágeis valorizam a comunicação frequente e clara entre a equipe do projeto e os stakeholders, a fim de garantir que todos estejam alinhados com os objetivos e o progresso do projeto.
 
-3. Mudanças vs. previsibilidade: as metodologias tradicionais são mais adequadas para projetos onde os requisitos são bem conhecidos e não devem mudar muito ao longo do tempo. As metodologias ágeis, por outro lado, são mais adaptáveis a mudanças e são mais adequadas para projetos onde os requisitos podem mudar ao longo do tempo.
+3. **Mudanças vs. previsibilidade** - As metodologias tradicionais são mais adequadas para projetos onde os requisitos são em conhecidos e não devem mudar muito ao longo do tempo. As metodologias ágeis, por outro lado, são mais adaptáveis a mudanças e são mais adequadas para projetos onde os requisitos podem mudar ao longo do tempo.
 
 4. **Hierarquia vs. equipe autogerenciada** - As metodologias tradicionais geralmente têm uma hierarquia de gerenciamento clara, onde um gerente de projeto é responsável por liderar a equipe do projeto e tomar decisões importantes. Em contraste, as metodologias ágeis enfatizam uma equipe autogerenciada e auto-organizada, que toma decisões de forma colaborativa e assume a responsabilidade coletiva pelo sucesso do projeto.
 
