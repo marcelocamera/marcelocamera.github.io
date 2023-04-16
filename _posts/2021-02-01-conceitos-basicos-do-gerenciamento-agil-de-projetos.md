@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CONCEITOS BÁSICOS DO GERENCIAMENTO ÁGIL DE PROJETOS"
+title:  "FUNDAMENTOS DO GERENCIAMENTO ÁGIL DE PROJETOS"
 date:   2021-02-01
 excerpt: "O alicerce inicial da cultura ágil"
 tag:
@@ -9,24 +9,21 @@ tag:
 - metodologia ágil
 comments: true
 ---
-O gerenciamento ágil de projetos é um conjunto de abordagens que enfatiza a **entrega incremental e iterativa** de produtos de software, em vez de seguir um plano de projeto rígido. Algumas das principais características do gerenciamento ágil de projetos incluem:
+O gerenciamento ágil de projetos é um conjunto de práticas e princípios que tem como objetivo permitir a entrega eficiente e eficaz de projetos complexos em ambientes em constante mudança. O gerenciamento ágil de projetos é uma alternativa ao gerenciamento tradicional de projetos, que se concentra em planejamento e controle rigorosos.
 
-#### Colaboração
-O gerenciamento ágil de projetos promove a colaboração entre os membros da equipe de desenvolvimento e com o cliente. Isso ajuda a garantir que o projeto esteja alinhado com as expectativas do cliente e que a equipe esteja trabalhando juntos para alcançar os objetivos do projeto.
+Os fundamentos do gerenciamento ágil de projetos incluem a entrega de valor incremental, a colaboração e comunicação entre a equipe de projeto, a flexibilidade e adaptação a mudanças, e o envolvimento ativo do cliente no processo de desenvolvimento do projeto.
 
-#### Entrega incremental
-Em vez de entregar um produto finalizado de uma só vez, o gerenciamento ágil de projetos divide o projeto em iterações ou *sprints*, onde a equipe entrega pequenas partes funcionais do produto. Isso permite que o cliente veja o progresso do projeto e faça alterações conforme necessário.
+A **entrega de valor incremental** é um dos princípios fundamentais do gerenciamento ágil de projetos. Em vez de esperar até que todo o projeto esteja concluído para entregá-lo ao cliente, a equipe de desenvolvimento trabalha em iterações curtas, geralmente de duas a quatro semanas, para entregar um produto funcional. Isso permite que o cliente comece a utilizar o produto mais cedo e forneça feedback, permitindo que a equipe de desenvolvimento se adapte às mudanças necessárias.
 
-#### Flexibilidade
-O gerenciamento ágil de projetos é mais flexível do que abordagens tradicionais de gerenciamento de projetos. Ele permite que a equipe faça ajustes ao longo do caminho, com base no *feedback* do cliente e no progresso do projeto.
+A **colaboração e comunicação** são vitais para o sucesso do gerenciamento ágil de projetos. As equipes de desenvolvimento são compostas por pessoas com diferentes habilidades e conhecimentos, e o trabalho em equipe é fundamental para o sucesso do projeto. A comunicação regular e aberta é essencial para garantir que todas as partes interessadas estejam alinhadas com os objetivos do projeto e entendam seu papel na entrega do produto.
 
-#### Foco no valor do negócio
-O gerenciamento ágil de projetos concentra-se em fornecer valor ao negócio, em vez de apenas cumprir prazos e orçamentos (esse assunto é polêmico e vamos abordar nos posts depois deste). Isso ajuda a garantir que o produto final atenda às necessidades do cliente e gere valor para o negócio.
+A **flexibilidade e adaptação a mudanças** é um princípio fundamental do gerenciamento ágil de projetos. As equipes de desenvolvimento trabalham em um ambiente de mudanças constantes, o que significa que o planejamento precisa ser adaptado continuamente à medida que novas informações se tornam disponíveis. As equipes de desenvolvimento precisam estar dispostas a mudar de direção rapidamente para atender às necessidades em evolução do cliente.
 
-#### Equipes auto-organizadas
-Em vez de ser liderada por um gerente de projeto, a equipe de desenvolvimento no gerenciamento ágil de projetos é auto-organizada. Isso significa que a equipe é responsável por definir e gerenciar seu próprio trabalho, tornando a equipe mais motivada e engajada.
+O **envolvimento ativo do cliente** é outro princípio fundamental do gerenciamento ágil de projetos. Os clientes têm uma visão clara do que precisam e são capazes de fornecer feedback valioso ao longo do processo de desenvolvimento. Eles são parte integrante da equipe de desenvolvimento e trabalham em conjunto com a equipe para garantir que o produto atenda às suas necessidades.
 
-#### Melhoria contínua
-O gerenciamento ágil de projetos é baseado em um ciclo de melhoria contínua. A equipe analisa o progresso do projeto após cada iteração e faz ajustes para melhorar o processo e o produto final.
+Em resumo, o gerenciamento ágil de projetos se concentra em entregar valor incremental, colaboração e comunicação, flexibilidade e adaptação a mudanças e envolvimento ativo do cliente. Esses fundamentos permitem que as equipes de desenvolvimento sejam ágeis e se adaptem rapidamente às mudanças necessárias para garantir que o projeto seja entregue com sucesso.
 
-Em resumo, o gerenciamento ágil de projetos é uma abordagem colaborativa, iterativa e flexível para o gerenciamento de projetos de software. Ele enfatiza a entrega incremental de valor ao negócio e promove a auto-organização da equipe. Esses conceitos básicos são importantes para entender a abordagem e como ela pode ser aplicada em projetos de software.
+##### Referências
+1. Agile Alliance. (2021). The Agile Manifesto. https://www.agilealliance.org/agile101/the-agile-manifesto/
+
+2. Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R. C., Mellor, S., Schwaber, K., Sutherland, J., & Thomas, D. (2001). Manifesto for Agile Software Development. Agile Alliance.
