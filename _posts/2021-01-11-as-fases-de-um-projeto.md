@@ -9,13 +9,13 @@ comments: true
 ---
 As fases de um projeto podem variar dependendo da metodologia utilizada, mas em geral, a maioria dos projetos possuem as seguintes fases:
 
-#### INICIAÇÃO
+##### INICIAÇÃO
 Esta fase é o ponto de partida do projeto e geralmente envolve a identificação da necessidade do projeto, a definição do escopo, dos objetivos e das metas do projeto, a identificação das partes interessadas e a elaboração do termo de abertura do projeto.
 
-#### PLANEJAMENTO
+### PLANEJAMENTO
 Nesta fase, é elaborado o plano de gerenciamento do projeto, que inclui o planejamento das atividades, o cronograma, o orçamento, o plano de comunicação, o plano de riscos, o plano de recursos, entre outros.
 
-#### EXECUÇÃO
+### EXECUÇÃO
 É nesta fase que as atividades do projeto são executadas de acordo com o plano de gerenciamento do projeto. A equipe do projeto trabalha na execução das atividades previstas, gerenciando os recursos, monitorando o progresso e fazendo ajustes conforme necessário.
 
 #### MONITORAMENTO E CONTROLE
