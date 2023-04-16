@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CONCEITOS BÁSICOS DO GERENCIAMENTO ÁGIL DE PROJETOS"
-date:   2021-01-25
+date:   2021-02-01
 excerpt: "O alicerce inicial da cultura ágil"
 tag:
 - gerenciamento de projeto
