@@ -33,10 +33,8 @@ Cada fase do ciclo de vida do projeto tem suas próprias características, objet
 
 ##### Referências:
 
-1. Project Management Institute. (2017). Guia do Conhecimento em Gerenciamento de Projetos
+1. Project Management Institute. (2017). [Guia PMBOK®: Um Guia do Conhecimento em Gerenciamento de Projetos (6a ed.)](https://amzn.to/40iwNm2). Newtown Square, PA: Project Management Institute, Inc.
 
-2. Kerzner, H. (2017). Project Management: A Systems Approach to Planning, Scheduling, and Controlling. John Wiley & Sons.
-
-
+2. Kerzner, H. (2017). [Gerenciamento de Projetos: uma Abordagem Sistêmica Para Planejamento, Programação e Controle](https://amzn.to/41tZpd6). Editora Blucher.
 
 Regenerate response
