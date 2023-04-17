@@ -29,3 +29,11 @@ Os projetos estão sujeitos a incerteza e risco. Isso significa que nem todos os
 
 Um projeto é uma iniciativa organizada para alcançar um objetivo, o gerente de projetos deve gerenciar as características de um projeto para garantir que o projeto seja entregue com sucesso.
 
+##### Referência
+
+1. Cervo, A. L., Bervian, P. A., & da Silva, R. (2007). [Metodologia Científica (6a ed.)](https://amzn.to/3mM3ISa). São Paulo: Pearson Prentice Hall.
+
+2. Carvalho, M. M. de, & Rabechini Jr., R. (2011). [Fundamentos em Gestão de Projetos: Construindo Competências para Gerenciar Projetos](https://amzn.to/40tC0rv). São Paulo: Atlas.
+
+3. Project Management Institute. (2017). [Guia PMBOK®: Um Guia do Conhecimento em Gerenciamento de Projetos (6a ed.)](https://amzn.to/40iwNm2). Newtown Square, PA: Project Management Institute, Inc.
+
