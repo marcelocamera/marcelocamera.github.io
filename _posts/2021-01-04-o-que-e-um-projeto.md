@@ -12,9 +12,9 @@ comments: true
 
 Um projeto é um conjunto de atividades planejadas e organizadas para alcançar um objetivo específico em um período determinado de tempo. Projetos podem ser empreendidos por indivíduos, organizações, empresas ou governos, e podem variar em escopo, complexidade e duração.
 
-O objetivo final de um projeto pode variar amplamente. Pode ser a construção de uma ponte, o lançamento de um novo produto, a organização de um evento, a implementação de uma política pública ou a realização de uma pesquisa científica. Independentemente do objetivo, todos os projetos têm um conjunto comum de características.
+O objetivo final de um projeto pode variar amplamente. Podendo ser a construção de uma ponte, o lançamento de um novo produto, a organização de um evento, a implementação de uma política pública ou a realização de uma pesquisa científica. Independentemente do objetivo, todos os projetos têm um conjunto comum de características.
 
-Em primeiro lugar, todos os projetos têm um objetivo claramente definido e um prazo para conclusão. Isso significa que o projeto deve ser iniciado com uma compreensão clara do que se espera alcançar e quando se espera que seja concluído.
+Em primeiro lugar, todos os projetos têm um objetivo claramente definidos e um prazo para sua conclusão. Isso significa que o projeto deve ser iniciado com uma compreensão clara do que se espera alcançar e quando se espera que seja concluído.
 
 Em segundo lugar, todos os projetos são únicos e exigem um planejamento cuidadoso. Isso inclui a identificação de recursos necessários, a alocação de tarefas específicas e a elaboração de um cronograma para as atividades do projeto.
 
@@ -27,3 +27,10 @@ O processo de gerenciamento de projetos envolve a aplicação de técnicas e met
 Existem muitas abordagens diferentes para gerenciamento de projetos, incluindo as metodologias tradicionais de gerenciamento de projetos, como o modelo em cascata, e metodologias ágeis, como o Scrum e o Kanban.
 
 Independentemente da abordagem utilizada, o gerenciamento de projetos é fundamental para garantir que os projetos sejam entregues dentro do prazo, dentro do orçamento e com os resultados esperados.
+
+##### Referências
+1. Project Management Institute. (2021). [A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Seventh Edition](https://amzn.to/43GMQ06). Newtown Square, PA: Project Management Institute, Inc.
+
+2. Kerzner, H. (2013). [Project Management: A Systems Approach to Planning, Scheduling, and Controlling](https://amzn.to/3UIl0fD). Hoboken, NJ: John Wiley & Sons.
+
+3. Gido, J., & Clements, J. P. (2014). [Successful Project Management](https://amzn.to/3A1p4yf). Boston, MA: Cengage Learning.
