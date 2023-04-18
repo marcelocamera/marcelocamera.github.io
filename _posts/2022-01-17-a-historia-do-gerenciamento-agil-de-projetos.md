@@ -33,7 +33,7 @@ Vários fatores impulsionaram a criação do Gerenciamento Ágil de Projetos, in
 
 Ao longo dos anos, o Gerenciamento Ágil de Projetos se expandiu para além do setor de desenvolvimento de software e se tornou uma abordagem popular para o gerenciamento de projetos em muitas outras áreas, incluindo engenharia, construção, marketing, entre outras. A eficácia dessa abordagem tem sido comprovada por muitas empresas em todo o mundo, que relatam entregas mais rápidas e eficientes, maior satisfação do cliente e melhorias significativas nos processos de gerenciamento de projetos.
 
-##### Referências
+### Referências
 1. Beck, K. (2000). [Extreme programming explained: embrace change](https://amzn.to/41ByUT3). Addison-Wesley Professional.
 
 2. Highsmith, J. (2002). [Agile software development ecosystems](https://amzn.to/3mAjUGp). Addison-Wesley Professional.
