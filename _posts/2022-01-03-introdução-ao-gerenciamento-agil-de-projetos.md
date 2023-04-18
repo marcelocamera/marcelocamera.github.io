@@ -46,7 +46,7 @@ O Gerenciamento Ágil de Projetos também utiliza o Product Backlog e o Sprint B
 Outro aspecto importante do Gerenciamento Ágil de Projetos é a Retrospectiva, que é uma reunião que ocorre ao final de cada Sprint para avaliar o processo e identificar oportunidades de melhoria. Essa prática incentiva a equipe a aprender continuamente e aprimorar o processo ao longo do tempo.
 
 
-##### Referências
+### Referências
 1. [Manifesto for Agile Software Development](https://agilemanifesto.org/). Disponível em: [https://agilemanifesto.org/](https://agilemanifesto.org/). Acesso em 03 jan. 2022.
 
 2. Schwaber, K. [Agile Project Management with Scrum](https://amzn.to/3A6kAGt). Microsoft Press, 2004.
