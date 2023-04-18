@@ -41,7 +41,7 @@ O Gerenciamento Ágil de Projetos pode trazer uma série de benefícios para a e
 
 - Maior engajamento e motivação da equipe;
 
-##### Referências
+### Referências
 1. [Manifesto for Agile Software Development](https://agilemanifesto.org/). Disponível em: [https://agilemanifesto.org/](https://agilemanifesto.org/). Acesso em 03 jan. 2022.
 
 2. Schwaber, K. [Agile Project Management with Scrum](https://amzn.to/3A6kAGt). Microsoft Press, 2004.
