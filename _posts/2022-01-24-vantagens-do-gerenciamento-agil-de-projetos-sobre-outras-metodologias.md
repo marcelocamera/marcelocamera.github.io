@@ -21,7 +21,7 @@ Neste post, vamos explorar as vantagens do Gerenciamento Ágil de Projetos em re
 
 - **Melhoria contínua** - A abordagem ágil incentiva a melhoria contínua em todas as fases do projeto. A equipe realiza avaliações regulares e retrospectivas para identificar oportunidades de melhoria no processo, nos produtos e na comunicação. Isso ajuda a equipe a aprender com seus erros e sucessos, permitindo que ela melhore continuamente a qualidade do trabalho.
 
-##### Referências
+### Referências
 
 1. Highsmith, J. A. (2001). [Agile project management: creating innovative products](https://amzn.to/40aRnoo). Addison-Wesley Professional.
 
