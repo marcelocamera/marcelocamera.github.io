@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Torre Eiffel"
-date:   2021-07-11
-excerpt: "O cartão postal da França"
+title:  "Vinyl Addicted"
+date:   2025-08-01
+excerpt: "Sinais do vício pelos discos de vinil."
 project: true
 tag:
-- fotografia
-- preto e branco
-- viagens
+- discos de vinil
 comments: true
 ---
 A Torre Eiffel é o cartão postal da França, com a sua geometria e arquitetura intrigante, é o lugar mais visitado no mundo, com cerca de 7 milhões de visitantes.
