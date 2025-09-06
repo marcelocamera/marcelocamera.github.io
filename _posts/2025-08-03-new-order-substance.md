@@ -11,7 +11,7 @@ comments: true
 
 ---
 <p align="center">
-<img src="https://github.com/marcelocamera/marcelocamera.github.io/blob/master/assets/img/neworder-substance.jpg" width="250" height="250">
+<img src="https://raw.githubusercontent.com/marcelocamera/marcelocamera.github.io/refs/heads/master/assets/img/neworder-substance.jpg" width="250" height="250">
 </p>
 
 O álbum **Substance** representa o ápice da banda **New Order** nos anos 80 - a fusão perfeita entre o post-punk e a dance music, com versões estendidas, hits consagrados e faixas que marcaram gerações. Para fãs e colecionadores, é muito mais que um álbum, é a essência do que a banda fez de melhor até então.
