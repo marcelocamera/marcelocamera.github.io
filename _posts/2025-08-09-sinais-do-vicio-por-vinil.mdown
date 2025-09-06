@@ -3,14 +3,15 @@ layout: post
 title:  "Vinyl Addicted"
 date:   2025-08-01
 excerpt: "Sinais do vício pelos discos de vinil."
-project: true
 tag:
 - discos de vinil
 comments: true
 ---
-O vinil voltou a ocupar um espaço importante no mundo da música. O que antes parecia ultrapassado tornou-se um símbolo de autenticidade, qualidade sonora e paixão musical.
+A Torre Eiffel é o cartão postal da França, com a sua geometria e arquitetura intrigante, é o lugar mais visitado no mundo, com cerca de 7 milhões de visitantes.
 
-O que começa como um simples hobby pode se tornar algo mais profundo — quase um “vício” por discos de vinil.
+A construção da Torre Eiffel foi motivada pela Exposição Universal de 1889. Como parte dessa exposição, deveria ser erguida de maneira provisória sobre o Campo de Marte, uma torre de ferro, de base quadrada com 125 metros de largura e 300 metros de altura. Dos 107 projetos apresentados, o de Gustave Eiffel foi o escolhido, ele tinha a seu lado os engenheiros Maurice Koechlin, Emile Nouguier e o arquiteto Stephen Sauvestre.
+
+Durante a construção, na época, numerosos detratores que consideraram a Torre como uma ameaça à estética da cidade. Uma torre de ferro erguida em pleno coração de Paris não convinha por contrastar demasiadamente com a elegância e a beleza refinada da cidade.  
 
 <figure>
 	<a href="https://i.imgur.com/WHtFeGc.jpg"><img src="https://i.imgur.com/WHtFeGc.jpg"></a>
