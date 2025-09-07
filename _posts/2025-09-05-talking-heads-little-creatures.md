@@ -25,12 +25,12 @@ Lançamento: 1985 / Duração: 39min / Gênero: Pop
 O álbum tem status 4,5 de 5 pelo site [AllMusic](https://www.allmusic.com/album/little-creatures-mw0000191997).
 
 Track List:
-A1. And She Was
-A2. Give Me Back My Name
-A3. Creatures Of Love
-A4. The Lady Don't Mind
-A5. Perfect World
-B1. Stay Up Late
-B2. Walk It Down
-B3. The Television Man
-B4. Road To Nowhere
+(A1) And She Was
+(A2) Give Me Back My Name
+(A3) Creatures Of Love
+(A4) The Lady Don't Mind
+(A5) Perfect World
+(B1) Stay Up Late
+(B2) Walk It Down
+(B3) The Television Man
+(B4) Road To Nowhere
