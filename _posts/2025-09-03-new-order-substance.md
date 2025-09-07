@@ -2,7 +2,7 @@
 
 layout: post
 title:  "SUBSTANCE - NEW ORDER"
-date:   2025-08-03
+date:   2025-09-03
 excerpt: "O hino das baladas"
 tag:
 - discos de vinil
@@ -11,14 +11,14 @@ comments: true
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/marcelocamera/marcelocamera.github.io/refs/heads/master/assets/img/neworder-substance.jpg" width="250" height="250">
+<img src="https://raw.githubusercontent.com/marcelocamera/marcelocamera.github.io/refs/heads/master/assets/img/neworder-substance.jpg" width="150" height="150">
 </p>
 
 O álbum **Substance** representa o ápice da banda **New Order** nos anos 80 - a fusão perfeita entre o post-punk e a dance music, com versões estendidas, hits consagrados e faixas que marcaram gerações. Para fãs e colecionadores, é muito mais que um álbum, é a essência do que a banda fez de melhor até então.
 
 O álbum duplo reúne todos os singles lançados em versões de 12 polegadas, acompanhados de seus respectivos B‑sides, incluíndo as faixas: Blue Monday, The Perfect Kiss e o hino das pistas Bizarre Love Triangle.
 
-Lançamento: 1987 / Duração: 02:27 / Gênero: Pop
+Lançamento: 1987 / Duração: 2h27m / Gênero: Pop
 
 O álbum tem status 5 de 5 pelo site [AllMusic](https://www.allmusic.com/album/substance-mw0000191190).
 
