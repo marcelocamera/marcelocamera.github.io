@@ -1,5 +1,5 @@
 ---
-title: "Instalou o Flight Simulator e agora? Um guia sem enrolação pra você não desistir no primeiro menu"
+title: "Instalou o Flight Simulator e agora? Um guia sem enrolação pra você não desistir no primeiro voo"
 tags:
   - msfs
 ---
