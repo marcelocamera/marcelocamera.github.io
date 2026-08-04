@@ -50,7 +50,7 @@ Esqueça voo transatlântico, esqueça pousar num A320 em condição de neblina.
 
 Parece bobo, mas é exatamente assim que você constrói a base: controle de velocidade na aproximação final, sentir como o avião responde, entender o ritmo da aterrissagem. Depois de alguns dias fazendo isso, pousar já vira rotina — e é aí que o simulador começa a ficar realmente divertido, porque você já não está mais lutando contra os controles básicos.
 
-E o resto do menu (Carreira, Fotógrafo, Marketplace)?
+### E o resto do menu (Carreira, Fotógrafo, Marketplace)?
 
 Guarda pra depois, sem culpa nenhuma:
 
