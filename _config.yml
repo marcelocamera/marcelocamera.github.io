@@ -3,10 +3,10 @@
 #  Edite os campos abaixo com seus dados.
 # ────────────────────────────────────────────────────────────
 
-title: "Marcelo Camera"
-tagline: "Gestão de Projetos de Hardware, Software, Firmware e Inteligência Artificial."
+title: "Seu Nome"
+tagline: "Textos, ideias e outras coisas que escrevo por aqui."
 description: "Blog pessoal de Seu Nome."
-author: "Marcelo Camera"
+author: "Seu Nome"
 
 # Troque pelo endereço real depois de publicar, ex:
 #   https://seu-usuario.github.io          (se o repo se chamar seu-usuario.github.io)
@@ -16,15 +16,19 @@ baseurl: ""
 
 # Bio curta exibida na coluna lateral (aceita Markdown/links)
 bio: >
-  Voando (virtualmente) no Microsoft Flight Simulator, ouvindo muito rock e fotografando o que aparece pela frente.
+  Escrevo sobre software, produto e o que mais me interessar.
   [Mais sobre mim →](/sobre/)
 
 # Links sociais (deixe em branco "" para ocultar um item)
 social:
   twitter: ""
   github: ""
-  linkedin: "mcamera"
+  linkedin: ""
   email: ""
+
+# Google Analytics (GA4) — cole seu ID de medição (formato G-XXXXXXXXXX).
+# Deixe em branco "" para desativar o analytics.
+google_analytics: ""
 
 # ────────────────────────────────────────────────────────────
 markdown: kramdown
