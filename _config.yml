@@ -1,0 +1,66 @@
+# ────────────────────────────────────────────────────────────
+#  Configuração do blog
+#  Edite os campos abaixo com seus dados.
+# ────────────────────────────────────────────────────────────
+
+title: "Seu Nome"
+tagline: "Textos, ideias e outras coisas que escrevo por aqui."
+description: "Blog pessoal de Seu Nome."
+author: "Seu Nome"
+
+# Troque pelo endereço real depois de publicar, ex:
+#   https://seu-usuario.github.io          (se o repo se chamar seu-usuario.github.io)
+#   https://seu-usuario.github.io/blog     (se o repo se chamar "blog")
+url: "https://marcelocamera.github.io"
+baseurl: ""
+
+# Bio curta exibida na coluna lateral (aceita Markdown/links)
+bio: >
+  Escrevo sobre software, produto e o que mais me interessar.
+  [Mais sobre mim →](/sobre/)
+
+# Links sociais (deixe em branco "" para ocultar um item)
+social:
+  twitter: ""
+  github: ""
+  linkedin: ""
+  email: ""
+
+# ────────────────────────────────────────────────────────────
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /posts/:title/
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+feed:
+  path: atom.xml
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

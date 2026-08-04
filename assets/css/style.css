@@ -1,0 +1,196 @@
+/* ── Reset básico ─────────────────────────────────────────── */
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+:root {
+  --ink: #111111;
+  --muted: #6b6b6b;
+  --hairline: #e4e4e4;
+  --bg: #ffffff;
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+body {
+  font-family: var(--serif);
+  background: var(--bg);
+  color: var(--ink);
+  line-height: 1.6;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--hairline); }
+a:hover { border-bottom-color: var(--ink); }
+
+/* ── Layout geral: coluna fixa + conteúdo ────────────────── */
+.wrap {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 48px 24px 80px;
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 56px;
+}
+
+@media (max-width: 700px) {
+  .wrap {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    padding: 32px 20px 64px;
+  }
+}
+
+/* ── Sidebar ──────────────────────────────────────────────── */
+.sidebar {
+  font-family: var(--sans);
+}
+
+.sidebar-name {
+  display: block;
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 22px;
+  border-bottom: none;
+  margin-bottom: 6px;
+}
+
+.sidebar-tagline {
+  font-size: 14px;
+  color: var(--muted);
+  margin: 0 0 18px;
+  line-height: 1.5;
+}
+
+.sidebar-bio {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 18px;
+  line-height: 1.6;
+}
+
+.sidebar-bio a { color: var(--muted); }
+
+.sidebar-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 13px;
+}
+
+.sidebar-links a {
+  color: var(--muted);
+  border-bottom: 1px solid var(--hairline);
+}
+
+/* ── Conteúdo ─────────────────────────────────────────────── */
+.content { min-width: 0; }
+
+.intro {
+  font-size: 16px;
+  color: var(--muted);
+  margin-bottom: 32px;
+  font-family: var(--sans);
+}
+
+.year-heading {
+  font-family: var(--sans);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin: 36px 0 8px;
+  text-transform: uppercase;
+}
+
+.year-heading:first-of-type { margin-top: 0; }
+
+.post-list {
+  list-style: none;
+  margin: 0 0 8px;
+  padding: 0;
+}
+
+.post-list-item {
+  display: flex;
+  gap: 14px;
+  padding: 7px 0;
+  border-bottom: 1px solid var(--hairline);
+  align-items: baseline;
+}
+
+.post-list-item:last-child { border-bottom: none; }
+
+.post-list-date {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--muted);
+  width: 52px;
+  flex-shrink: 0;
+}
+
+.post-list-item a {
+  font-size: 17px;
+  border-bottom: none;
+}
+
+.post-list-item a:hover { border-bottom: 1px solid var(--ink); }
+
+/* ── Post individual ──────────────────────────────────────── */
+.back-link {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--muted);
+  border-bottom: none;
+  margin-bottom: 28px;
+}
+
+.post-title {
+  font-size: 34px;
+  line-height: 1.25;
+  margin: 0 0 6px;
+}
+
+.post-date {
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--muted);
+  margin: 0 0 32px;
+}
+
+.post-body p { margin: 0 0 20px; }
+.post-body img { max-width: 100%; border-radius: 4px; }
+.post-body h2 { font-size: 24px; margin: 40px 0 16px; }
+.post-body h3 { font-size: 20px; margin: 32px 0 12px; }
+.post-body blockquote {
+  border-left: 3px solid var(--hairline);
+  margin: 24px 0;
+  padding: 4px 0 4px 18px;
+  color: var(--muted);
+}
+.post-body code {
+  font-family: var(--mono);
+  font-size: 0.85em;
+  background: #f5f5f5;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+.post-body pre {
+  background: #f5f5f5;
+  padding: 16px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+.post-body pre code { background: none; padding: 0; }
+.post-body ul, .post-body ol { padding-left: 22px; }
+
+/* ── Rodapé ───────────────────────────────────────────────── */
+.site-footer {
+  margin-top: 48px;
+  text-align: center;
+  font-family: var(--sans);
+  color: var(--hairline);
+  font-size: 14px;
+}

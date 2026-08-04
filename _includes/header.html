@@ -1,0 +1,19 @@
+<header class="sidebar">
+  <a class="sidebar-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+  {% if site.tagline %}
+    <p class="sidebar-tagline">{{ site.tagline }}</p>
+  {% endif %}
+
+  {% if site.bio %}
+    <div class="sidebar-bio">{{ site.bio | markdownify }}</div>
+  {% endif %}
+
+  <nav class="sidebar-links">
+    {% if site.social.twitter != "" %}<a href="https://twitter.com/{{ site.social.twitter }}">Twitter</a>{% endif %}
+    {% if site.social.github != "" %}<a href="https://github.com/{{ site.social.github }}">GitHub</a>{% endif %}
+    {% if site.social.linkedin != "" %}<a href="https://linkedin.com/in/{{ site.social.linkedin }}">LinkedIn</a>{% endif %}
+    {% if site.social.email != "" %}<a href="mailto:{{ site.social.email }}">E-mail</a>{% endif %}
+    <a href="{{ '/atom.xml' | relative_url }}" title="Feed RSS">RSS</a>
+  </nav>
+</header>
