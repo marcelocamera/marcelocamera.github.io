@@ -1,5 +1,5 @@
 ---
-title: Como decidir se um problema realmente precisa de IA ou regras simplels
+title: Como decidir se um problema realmente precisa de IA ou regras simples
 tags:
   - ia
 ---
