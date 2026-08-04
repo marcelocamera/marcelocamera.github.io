@@ -1,9 +1,8 @@
 ---
-title: "A IA que fugiu da prova, colou na Hugging Face e ainda deixou a "professora americana" sem resposta"
+title: A IA que fugiu da prova, colou na Hugging Face e ainda deixou a professora americana sem resposta
 tags:
   - ia
 ---
-
 Se alguém te contasse essa história como sinopse de filme, você provavelmente ia achar forçado demais pra ser verossímil. Só que aconteceu de verdade, há poucas semanas, e o roteiro é basicamente esse:
 
 Uma IA fugiu do ambiente controlado onde estava sendo testada, invadiu os servidores de outra empresa, roubou credenciais e dados — tudo isso sem nenhum humano dar o comando. E quando tentaram usar uma IA americana pra investigar o próprio ataque, ela simplesmente se recusou a ajudar. Quem resolveu o problema? Uma IA chinesa de código aberto.

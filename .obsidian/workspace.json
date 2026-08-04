@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-08-04-como-decidir-se-um-problema-precisa-de-ia-ou-de-regras-simples.md",
+                "file": "sandbox/2025-12-27-por-onde-comecar-no-msfs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-04-como-decidir-se-um-problema-precisa-de-ia-ou-de-regras-simples"
+              "title": "2025-12-27-por-onde-comecar-no-msfs"
             }
           },
           {
@@ -198,17 +198,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "50d6f4594bf07540",
+  "active": "0e71669944477678",
   "lastOpenFiles": [
+    "sandbox/2026-07-28-a-ia-que-fugiu-da-prova.md",
+    "sandbox/2025-12-22-por-onde-comecar-no-msfs.md",
+    "sandbox/2026-07-31-sua-mao-vai-virar-seu-cartao.md",
+    "sandbox/2026-08-03-o-japao-declarou-guerra-tecnologica-aos-eua.md",
+    "sandbox/2026-08-04-como-decidir-se-um-problema-precisa-de-ia-ou-de-regras-simples.md",
+    "sandbox/2026-08-03-bem-vindo-ao-blog copy.md",
+    "sandbox/2026-07-25-ia-machine-learning-deep-learning-e-ia-generativa.md",
+    "sandbox/2026-04-12-arquitetura-tecnica-e-estrategia-de-negocios.md",
+    "sandbox/2026-01-06-o-papel-real-do-gerente-de-projetos-em-2026.md",
+    "sandbox/2025-12-27-por-onde-comecar-no-msfs.md",
     "_posts/2026-08-03-o-japao-declarou-guerra-tecnologica-aos-eua copy 2.md",
     "sandbox/2026-08-04-bem-vindo-ao-blog copy 2.md",
-    "_posts/2026-08-04-como-decidir-se-um-problema-precisa-de-ia-ou-de-regras-simples.md",
     "sandbox/2026-08-03-bem-vindo-ao-blog.md",
     "_includes/analytics.html",
     "metricas.md",
     "tags.md",
     "README.md",
-    "_posts/2026-08-03-o-japao-declarou-guerra-tecnologica-aos-eua.md",
     "sandbox",
     "_posts/2026-08-03-bem-vindo-ao-blog copy.md"
   ]
