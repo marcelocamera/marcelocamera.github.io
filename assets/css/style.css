@@ -135,6 +135,12 @@ a:hover { border-bottom-color: var(--ink); }
   border-bottom: none;
 }
 
+.post-list-tags {
+  display: inline-flex;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
 .post-list-item a:hover { border-bottom: 1px solid var(--ink); }
 
 /* ── Post individual ──────────────────────────────────────── */
