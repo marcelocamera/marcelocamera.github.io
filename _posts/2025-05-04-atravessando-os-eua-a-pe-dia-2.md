@@ -17,4 +17,4 @@ Antes de deixar Lake Morena, passei pelo camping ao lado do vilarejo, ponto conh
 
 A caminhada depois de Lake Morena seguiu subindo uma crista que oferecia vista privilegiada de todo o vale abaixo, e aproveitei pra tirar as botas por alguns minutos, deixando os pés respirarem ao sol enquanto comiam um lanche rápido sentado numa pedra grande e plana.
 
-Fiz mais 15 milhas nesse dia, terminando perto de **Boulder Oaks**, já sentindo nas pernas o acúmulo de dois dias seguidos de caminhada — o tipo de dor muscular que avisa, sem sutileza nenhuma, que o corpo ainda não se adaptou de verdade ao esforço que estava sendo exigido dele.
+Fiz mais 8 milhas nesse dia, terminando perto de **Boulder Oaks**, já sentindo nas pernas o acúmulo de dois dias seguidos de caminhada — o tipo de dor muscular que avisa, sem sutileza nenhuma, que o corpo ainda não se adaptou de verdade ao esforço que estava sendo exigido dele.
