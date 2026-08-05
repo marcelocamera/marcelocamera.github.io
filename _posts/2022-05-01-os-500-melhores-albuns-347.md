@@ -5,13 +5,14 @@ tags:
 ---
 ### Informações Técnicas:
 
-Album: Liquid Swords
-Artista: GZA
-Gênero: Hip-hop 
-Faixas: 13
-Tempo: 55m22s
-Lançamento: 1995
-Gravadora: Geffen 
+| Álbum  | Liquid Swords  |
+|:----------|:----------|
+| Artista    | GZA   |
+| Gênero    | Hip-hop    |
+| Faixas    | 13    |
+| Tempo    | 55m22s    |
+| Lançamento    | 1995    |
+| Gravadora    | Geffen2    |
 
 ![](/assets/images/001.jpeg)
 
