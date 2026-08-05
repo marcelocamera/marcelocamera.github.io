@@ -1,10 +1,10 @@
 ---
-title: "500 Best Albuns of All Time - #347: Liquid Swords (GZA)
+title: "Os 500 Melhores Álbuns - #346:"
 tags:
   - música
 ---
-
 ### Informações Técnicas:
+
 Album: Liquid Swords
 Artista: GZA
 Gênero: Hip-hop 
@@ -19,7 +19,7 @@ Gravadora: Geffen
 
 GZA entrega rimas econômicas na forma, mas devastadoras pela sabedoria e pela riqueza de detalhes narrativos. Em um de seus versos, ele resume perfeitamente seu estilo:
 
->> Bloodbaths in elevator shafts
->> Like these murderous rhymes tight from genuine craft
+> *Bloodbaths in elevator shafts
+> Like these murderous rhymes tight from genuine craft
 
 Seja qual for a estranha alquimia que aqueles caras de Staten Island descobriram, Liquid Swords a apresenta em sua forma mais intensa e poderosa.
