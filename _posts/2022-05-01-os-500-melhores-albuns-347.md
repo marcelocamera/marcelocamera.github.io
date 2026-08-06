@@ -1,5 +1,5 @@
 ---
-title: "Os 500 Melhores Álbuns - #346:"
+title: "Os 500 Melhores Álbuns - 346"
 tags:
   - música
 ---
