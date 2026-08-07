@@ -5,8 +5,6 @@ tags:
 ---
 # A primeira lição sobre o calor do deserto
 
-### Do manual...
-
 Percorrer o trecho da Pacific Crest Trail (PCT) entre **Boulder Oaks** e **Kitchen Creek Falls** atravessa o **Descanso Ranger District**, na **Cleveland National Forest**.
 
 A caminhada começa na **Boulder Oaks Trailhead and Campground**, localizada na borda do **Cottonwood Valley**. Em poucos minutos, você passará por baixo da Interstate 8. Vale a pena refletir sobre como é incomum estar em uma trilha que passa sob uma rodovia tão movimentada.
