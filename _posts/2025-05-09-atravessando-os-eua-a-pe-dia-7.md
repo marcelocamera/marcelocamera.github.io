@@ -3,7 +3,7 @@ title: "Dia 7: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-# Devolta ao deserto seco, rumo a Warner Springs
+# De volta ao deserto seco, rumo a Warner Springs
 
 Voltei pra trilha de carona logo cedo, ainda com gosto de torta na boca e uma sacola extra de doce contrabandeada e encarei o trecho considerado um dos mais secos de toda a seção sul: quase 24 milhas sem fonte de água confiável, sob morros áridos cobertos de vegetação rasteira e pouquíssima variação de relevo pra distrair a caminhada.
 

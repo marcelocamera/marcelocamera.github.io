@@ -5,7 +5,19 @@ tags:
 ---
 # A primeira lição sobre o calor do deserto
 
-O trecho entre **Boulder Oaks**, milha 26 e **Kitchen Creek**, milha 30 trouxe a primeira lição de respeito ao clima do sul da Califórnia. Por decisão minha — ou melhor, pela falta de decisão, já que não cogitei sair mais cedo — saí tarde demais, quase às 8h da manhã, e paguei caro por isso: o sol já estava impiedoso quando cheguei na parte mais exposta do trajeto, sem quase nenhuma sombra por quilômetros e quilômetros de terreno aberto.
+Percorrer o trecho da Pacific Crest Trail (PCT) entre **Boulder Oaks** e **Kitchen Creek Falls** atravessa o **Descanso Ranger District**, na **Cleveland National Forest**.
+
+A caminhada começa na **Boulder Oaks Trailhead and Campground**, localizada na borda do **Cottonwood Valley**. Em poucos minutos, você passará por baixo da Interstate 8. Vale a pena refletir sobre como é incomum estar em uma trilha que passa sob uma rodovia tão movimentada.
+
+Depois de deixar a sombra do riacho e da estrada para trás, inicia-se uma subida constante, porém bastante suave, em direção à **Laguna Mountains**. Já próximo ao destino, deixe a PCT e siga por uma trilha até **Kitchen Creek**. Reserve um tempo para descansar à beira do riacho e, se desejar, explorar um pouco a região.
+
+Esta caminhada é mais agradável quando as temperaturas não estão muito elevadas. Depois de passar pela rodovia, praticamente não há sombra ao longo do percurso. Durante o verão, o riacho normalmente seca por completo — ou quase — e pode voltar a correr apenas no inverno.
+
+Se você fizer essa caminhada entre março, abril e maio, espere encontrar muitos caminhantes de longa distância vindos de diversas partes do mundo. Nessa época, eles geralmente estão no segundo ou terceiro dia de uma jornada de aproximadamente cinco meses rumo ao Canadá.
+
+![](assets/images/mi26.jpg)
+
+O trecho entre **Boulder Oaks**, milha 26 e **Kitchen Creek**, milha 30, trouxe a primeira lição de respeito ao clima do sul da Califórnia. Por decisão minha — ou melhor, pela falta de decisão, já que não cogitei sair mais cedo — saí tarde demais, quase às 8h da manhã, e paguei caro por isso: o sol já estava impiedoso quando cheguei na parte mais exposta do trajeto, sem quase nenhuma sombra por quilômetros e quilômetros de terreno aberto.
 
 Na palestra que participei no dia 1 fui alertado que precisava parar e esperar passar o pico de calor, mesmo perdendo tempo de caminhada valioso naquele momento, coisa que ignorei por completo achando que já estava ambientado ao clima do deserto. Seguir caminhando no horário de pico parecia um tipo de decisão estratégica, afinal, parar significava chegar mais tarde ao próximo ponto de água.
 
