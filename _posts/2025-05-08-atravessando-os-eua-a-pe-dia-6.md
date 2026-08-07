@@ -3,7 +3,7 @@ title: "Dia 6: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-# A descida escaldante
+## A descida escaldante
 
 A descida até **Scissors Crossing** foi tensa do início ao fim: quanto mais perdia altitude, mais o calor apertava, quase como se a trilha estivesse jogando contra de propósito, guardando o pior justamente pro fim do trecho. Aplicando a lição aprendida no Dia 3, dessa vez saí bem antes do amanhecer, ainda no escuro, driblando o pior do sol antes que ele nascesse de verdade no horizonte.
 

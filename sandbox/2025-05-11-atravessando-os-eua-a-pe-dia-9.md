@@ -1,0 +1,16 @@
+---
+title: "Dia 9: Atravessando os EUA a pé"
+tags:
+  - aventura
+---
+## Day-off, meu descanso estratégico
+
+Decidi tirar um day-off, meu feriado pessoal, ali mesmo em Warner Springs — dia sem avançar propositalmente nenhuma milha, só pra o corpo recuperar de verdade depois de uma semana inteira de caminhada praticamente contínua sob calor extremo.
+
+Cafezinho aproveitou pra escrever num caderninho simples de capa dura — o mesmo tipo de caderno que, meses depois, viraria a base pra esse relato inteiro — e organizar mentalmente a logística dos próximos trechos, incluindo o planejamento de quando mandar a primeira caixa de resupply mais lá na frente, em Idyllwild. Também revisou os pés com cuidado, aliviado de não encontrar nenhuma bolha séria além de uma vermelhidão leve no calcanhar esquerdo.
+
+Lukas passou boa parte do dia dormindo, literalmente, esparramado numa cadeira de plástico à sombra de uma árvore, roncando alto o suficiente pra virar piada entre os outros hikers ao redor. Hana ligou pra família na Coreia, atualizando os pais sobre o progresso e ouvindo, do outro lado da linha, um misto de preocupação e orgulho que ela já conhecia bem da experiência anterior nos Apalaches.
+
+No meio da tarde, os três aproveitaram pra fazer uma espécie de inventário de mochila, item por item, decidindo o que valia a pena mandar de volta pra casa (ou simplesmente descartar) e o que ainda fazia sentido carregar. Cafezinho abriu mão de um livro de bolso que jurava que ia ler na trilha e nunca tinha tocado desde o primeiro dia; Lukas finalmente admitiu que a câmera boa, apesar de toda defesa apaixonada, precisava de uma lente reserva mais leve, e decidiu mandar a outra de volta pra Alemanha assim que tivesse acesso a um correio internacional. À noite, os três se reuniram de novo, estudando o mapa da próxima seção, já ansiosos (e um pouco nervosos) com a menção repetida, nas conversas de outros hikers, de que a subida ao Monte San Jacinto poderia ainda ter neve residual, mesmo depois de tantos dias seguidos de calor extremo no deserto abaixo.
+
+Cafezinho aproveitou o silêncio da noite pra reler as primeiras páginas do próprio caderno, surpreso ao perceber como a caligrafia do primeiro dia já parecia distante, quase de outra pessoa — o mesmo efeito estranho, comentou em voz alta pros outros dois, de assistir um vídeo antigo de si mesmo e sentir que aquela pessoa ali já não existe exatamente mais daquele jeito. Hana concordou, dizendo que sentiu exatamente a mesma coisa nos Apalaches, só que na época não tinha percebido a tempo de anotar. Lukas, ouvindo os dois, admitiu rindo que provavelmente ia esquecer boa parte dos detalhes daquela viagem se não fosse pelas fotos — o que só reforçou, na cabeça de Cafezinho, a decisão de continuar escrevendo todas as noites, mesmo nos dias em que o cansaço parecia argumento suficiente pra simplesmente dormir sem registrar nada. Apagou a lanterna já tarde, com a mochila reorganizada ao lado da barraca, mais leve em peso e, de alguma forma, mais leve também na cabeça.
