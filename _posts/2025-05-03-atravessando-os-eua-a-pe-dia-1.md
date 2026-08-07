@@ -5,6 +5,8 @@ tags:
 ---
 # Dia 1: Ainda não acredito que estou aqui
 
+### Do manual...
+
 Visitar o **Marco Sul** (Southern Terminus) da Pacific Crest Trail (PCT) já é uma aventura por si só. Se você estiver lá e quiser experimentar um pouco mais da trilha, considere seguir na direção norte por cerca de 1 milha. Em grande parte do percurso, você caminhará pelo mesmo caminho por onde chegou de carro, já que a PCT atravessa propriedades particulares na comunidade de **Campo**.
 
 Você encontrará a trilha ao pé da colina onde está localizado o Marco Sul. Logo no início, passará pelo CLEEF, um camping que recebe muitos caminhantes da PCT e cavaleiros.
@@ -15,7 +17,7 @@ Se você chegou até esse ponto, vale a pena continuar por mais cerca de meia mi
 
 Ao chegar ao topo da colina, considere retornar. Um pouco mais à frente, a trilha cruza a State Route 94.
 
-![](/assets/images/campo.jpeg)
+![](/assets/images/mi00.jpeg)
 
 De manhã bem cedo, ainda no escuro, uma van de buscou parte do grupo no hostel e nos levou até **Campo**, a pequena cidade onde fica o marco inicial da PCT, praticamente colado no muro que separa os Estados Unidos do México. O motorista, um senhor aposentado que fazia esse trajeto há anos, ia contando histórias de hikers que já tinha levado até ali — alguns terminaram a trilha inteira meses depois, outros desistiram já na primeira semana, vencidos pelas bolhas nos pés ou pela solidão inesperada.
 
