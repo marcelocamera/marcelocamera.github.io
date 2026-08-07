@@ -3,7 +3,7 @@ title: "Dia -1: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-# Um amigo, um caderno de viagem e uma trilha de 4.250 km a pé
+## Um amigo, um caderno de viagem e uma trilha de 4.250 km a pé
 
 Recebi de um amigo de faculdade umas fotos de um caderno de anotações de viagem dele, contando como foi caminhar pelos Estados Unidos inteiro — sim, a pé — da fronteira do México até a fronteira do Canadá, cruzando Califórnia, Oregon e Washington no caminho. Não sei bem por que ele mandou justamente pra mim, mas achei essa aventura tão fora da curva que resolvi compartilhar aqui.
 
