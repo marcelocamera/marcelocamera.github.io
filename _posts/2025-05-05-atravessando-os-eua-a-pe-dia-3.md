@@ -5,6 +5,8 @@ tags:
 ---
 # A primeira lição sobre o calor do deserto
 
+### Do manual...
+
 Percorrer o trecho da Pacific Crest Trail (PCT) entre **Boulder Oaks** e **Kitchen Creek Falls** atravessa o **Descanso Ranger District**, na **Cleveland National Forest**.
 
 A caminhada começa na **Boulder Oaks Trailhead and Campground**, localizada na borda do **Cottonwood Valley**. Em poucos minutos, você passará por baixo da Interstate 8. Vale a pena refletir sobre como é incomum estar em uma trilha que passa sob uma rodovia tão movimentada.
@@ -15,7 +17,7 @@ Esta caminhada é mais agradável quando as temperaturas não estão muito eleva
 
 Se você fizer essa caminhada entre março, abril e maio, espere encontrar muitos caminhantes de longa distância vindos de diversas partes do mundo. Nessa época, eles geralmente estão no segundo ou terceiro dia de uma jornada de aproximadamente cinco meses rumo ao Canadá.
 
-![](assets/images/mi26.jpg)
+![ ](assets/images/mi26.jpg)
 
 O trecho entre **Boulder Oaks**, milha 26 e **Kitchen Creek**, milha 30, trouxe a primeira lição de respeito ao clima do sul da Califórnia. Por decisão minha — ou melhor, pela falta de decisão, já que não cogitei sair mais cedo — saí tarde demais, quase às 8h da manhã, e paguei caro por isso: o sol já estava impiedoso quando cheguei na parte mais exposta do trajeto, sem quase nenhuma sombra por quilômetros e quilômetros de terreno aberto.
 
