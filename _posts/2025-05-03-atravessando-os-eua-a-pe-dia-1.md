@@ -17,7 +17,7 @@ Se você chegou até esse ponto, vale a pena continuar por mais cerca de meia mi
 
 Ao chegar ao topo da colina, considere retornar. Um pouco mais à frente, a trilha cruza a State Route 94.
 
-![](/assets/images/mi00.jpeg)
+![ ](/assets/images/mi00.jpeg)
 
 De manhã bem cedo, ainda no escuro, uma van de buscou parte do grupo no hostel e nos levou até **Campo**, a pequena cidade onde fica o marco inicial da PCT, praticamente colado no muro que separa os Estados Unidos do México. O motorista, um senhor aposentado que fazia esse trajeto há anos, ia contando histórias de hikers que já tinha levado até ali — alguns terminaram a trilha inteira meses depois, outros desistiram já na primeira semana, vencidos pelas bolhas nos pés ou pela solidão inesperada.
 
