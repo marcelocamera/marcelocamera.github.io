@@ -5,6 +5,18 @@ tags:
 ---
 # Dia 1: Ainda não acredito que estou aqui
 
+Visitar o **Marco Sul** (Southern Terminus) da Pacific Crest Trail (PCT) já é uma aventura por si só. Se você estiver lá e quiser experimentar um pouco mais da trilha, considere seguir na direção norte por cerca de 1 milha. Em grande parte do percurso, você caminhará pelo mesmo caminho por onde chegou de carro, já que a PCT atravessa propriedades particulares na comunidade de **Campo**.
+
+Você encontrará a trilha ao pé da colina onde está localizado o Marco Sul. Logo no início, passará pelo CLEEF, um camping que recebe muitos caminhantes da PCT e cavaleiros.
+
+Pouco depois, a PCT segue paralela à Front Gate Road, alguns metros acima dela, pelo lado oeste da estrada. Após aproximadamente 1,5 milhas, a trilha deixa a estrada e vira à esquerda (oeste).
+
+Se você chegou até esse ponto, vale a pena continuar por mais cerca de meia milha, afastando-se da estrada e subindo pela vegetação típica de chaparral. Esse trecho oferece uma boa amostra do isolamento e da natureza selvagem que você encontrará mais adiante na trilha.
+
+Ao chegar ao topo da colina, considere retornar. Um pouco mais à frente, a trilha cruza a State Route 94.
+
+![](/assets/images/campo.jpeg)
+
 De manhã bem cedo, ainda no escuro, uma van de buscou parte do grupo no hostel e nos levou até **Campo**, a pequena cidade onde fica o marco inicial da PCT, praticamente colado no muro que separa os Estados Unidos do México. O motorista, um senhor aposentado que fazia esse trajeto há anos, ia contando histórias de hikers que já tinha levado até ali — alguns terminaram a trilha inteira meses depois, outros desistiram já na primeira semana, vencidos pelas bolhas nos pés ou pela solidão inesperada.
 
 Perto do monumento que marca o início da caminhada, um pedaço grande de tecido funcionava como livro de visitas: o famoso registro onde cada hiker assina antes de sair rumo ao norte. Passando os olhos pelas assinaturas mais recentes, dava pra ver nomes e bandeirinhas desenhadas à mão do Japão, da Argentina, da Austrália, da Escócia — um mapa-múndi improvisado, rabiscado à caneta, sobre uma trilha que ainda nem tinha começado de verdade pra nenhum deles. A sensação de fazer parte de algo maior que uma jornada individual bateu ali, antes mesmo do primeiro passo de fato.
