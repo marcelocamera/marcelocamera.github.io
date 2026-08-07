@@ -13,7 +13,8 @@ tags:
 | Tempo    | 2h15m    |
 | Lançamento    | 2003    |
 | Gravadora    | Arista Records    |
-| Hit Famoso | Hey Ya! 
+| Hit Famoso | Hey Ya! |
+
 
 ![](/assets/images/md290.png)
 
