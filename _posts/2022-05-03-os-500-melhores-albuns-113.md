@@ -15,10 +15,9 @@ tags:
 | Gravadora    | Rough Trade Records    |
 | Hit Famoso | There Is a Light That Never Goes Out |
 | Nota | 5/5 |
-|||
+| | |
 
-
-![](/assets/images/rs131.jpeg)
+![](/assets/images/rs113.jpeg)
 
 Se existe um disco que consegue transformar solidão, frustração, ironia, amor e aquela sensação de não se encaixar em lugar nenhum em algo bonito, é **The Queen Is Dead** da banda **The Smiths**.
 
