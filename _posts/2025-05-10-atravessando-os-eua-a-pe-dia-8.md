@@ -3,7 +3,7 @@ title: "Dia 8: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## Werner Springs, o QG informal dos hikers
+## Werner Springs, o QG informal dos hikers [milha 94,1 até milha 109,5]
 
 Cheguei em [Warner Springs](https://en.wikipedia.org/wiki/Warner_Springs,_California) (milha 109,5) no final da manhã, e a fama do lugar se confirmou rapidinho, quase antes mesmo de entrar de fato na área central: o Centro Comunitário de Warner Springs funciona quase como um point oficial de apoio a thru-hikers, com espaço de lavanderia rústica (sistema de balde e sabão em barra), chuveiro simples mas funcional, e um pessoal da própria comunidade que já espera, com genuíno interesse, a chegada de gente maltrapilha vinda do sul.
 

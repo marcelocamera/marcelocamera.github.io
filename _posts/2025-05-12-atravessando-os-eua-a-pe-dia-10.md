@@ -3,7 +3,7 @@ title: "Dia 10: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## Retomando o ritmo rumo a Chihuahua Valley
+## Retomando o ritmo rumo a Chihuahua Valley [milha 109,5 até milha 128,5]
 
 Voltei à trilha revigorado e o corpo já respondia visivelmente melhor depois do descanso forçado: 19 milhas percorridas com um esforço percebido bem menor do que os primeiros dias exigiram. Passei pelo [riacho de Agua Caliente](https://en.wikipedia.org/wiki/Agua_Caliente_Band_of_Cahuilla_Indians), parando ali pra encher as garrafas e mergulhar os pés cansados por alguns minutos na água fresca, e comecei a subida ao redor de Combs Peak, sentindo a paisagem mudar de novo — menos deserto raso, mais vale intercalado com trecho seco, uma transição gradual que a essa altura já não surpreendia mais tanto quanto nos primeiros dias.
 
