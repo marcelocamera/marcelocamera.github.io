@@ -1,20 +1,24 @@
 ---
-title: "Dia 15: Atravessando os EUA a pé"
+title: "Dia 17: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## Rumo ao alto do Monte San Jacinto [milha 179,3 até milha 191]  
+## De volta ao deserto pela Withwater Preserve [milha 213 até milha 233]  
 
-![](/assets/images/mi185.jpg)
+![](/assets/images/mi219.jpg)
 
-Retomei a subida pela mesma Devil's Slide Trail, agora de volta ao trecho principal da PCT, seguindo rumo à região mais alta do Monte San Jacinto. A trilha atravessou uma floresta densa de pinheiros e cedros, com trechos de terreno rochoso e vista aberta poa vale abaixo em pontos específicos, cada vez mais impressionante conforme a altitude subia.
+Depois de uma noite de sono pesado, segui adiante, entrando na área conhecida como Whitewater Preserve (milha 219)— uma reserva natural que funciona como uma espécie de oásis dentro do deserto, com um riacho de água cristalina cortando a paisagem árida ao redor, alimentado pelo derretimento da neve que tinham acabado de atravessar lá em cima.
 
-Por volta do meio da tarde, cheguei a um trecho conhecido como Wellman Divide, onde a vista se abre de um jeito quase cinematográfico — de um lado, montanha coberta de floresta; do outro, o vale do deserto se estendendo até onde a vista alcançava. Fiz uma pausa mais longa ali, tirando fotos, comendo um lanche e observando um grupo de esquilos-da-terra correndo entre as rochas próximas, aparentemente acostumados demais com a presença de hikers parados ali comendo.
+A mudança de cenário impressionou: depois de dias de terra seca e pedra solta, encontrar um riacho corrente parecia quase artificial de tão fora do lugar. Aproveitei pra encher as garrafas. Com uma fartura de água, aproveitei até para molhar os pés na água gelada por alguns minutos, um alívio e tanto depois da travessia extenuante do dia anterior.
 
-A cada metro ganho em altitude, o ar ficava perceptivelmente mais rarefeito, e senti, pela primeira vez desde o início da trilha, uma leve falta de ar em trechos de subida mais íngreme — nada grave, mas o suficiente pra lembrar que o corpo ainda precisava de tempo pra se adaptar à altitude.
+A região, segundo uma placa informativa encontrada no caminho, é habitat de carneiro selvagem (bighorn sheep), espécie ameaçada que depende justamente desses raros pontos de água permanente no meio do deserto pra sobreviver. Não avistei nenhum exemplar de perto.
 
-Percorri apenas 11,7 milhas nesse dia, ritmo deliberadamente mais lento por causa da altitude e da subida constante, acampando próximo a um trecho ainda coberto de pequenas manchas de neve residual entre as árvores — o primeiro contato visual real com a neve desde que tinham chegado nos Estados Unidos, um sinal claro de que a temida Fuller Ridge estava cada vez mais perto.
+Foram 20 milhas nesse dia, o corpo já mostrando sinais de cansaço acumulado das últimas 48 horas de altitude extrema seguida de descida brusca, mas seguindo firme rumo ao próximo grande objetivo da seção: a chegada em Big Bear Lake, ainda a alguns dias de distância.
 
-O acampamento naquela noite foi visivelmente mais silencioso que o normal, conferi pela enésima vez o encaixe dos microspikes antes de guardar tudo pro dia seguinte. O frio, também uma novidade depois de tantos dias de calor extremo, obrigou-me a vestir praticamente toda a roupa que carregavam antes mesmo de entrar no saco de dormir — um contraste quase cômico de como há pouco mais de duas semanas, o problema era exatamente o oposto: água insuficiente pra aguentar o calor do deserto, e agora o desafio virava justamente proteger o corpo do frio da altitude. Antes de apagar a lanterna, escrevi no diário uma frase curta que resumia bem o sentimento daquela noite: "amanhã é o dia da neve de verdade."
+No fim da tarde, me sentei à sombra de uma das poucas árvores maiores da reserva e pensei sobre como aquele trecho específico — o contraste absurdo entre a neve da Fuller Ridge, atravessada menos de vinte e quatro horas antes, e o calor seco do deserto ao redor da Whitewater Preserve — resumia bem, de forma quase didática, o motivo pelo qual tanta gente descreve a PCT como uma trilha de extremos.
 
-Do lado de fora da barraca, o silêncio da floresta em altitude parecia diferente de qualquer outro acampamento anterior — sem o barulho de inseto do deserto, sem vento forte de crista exposta, só uma quietude densa cortada, de vez em quando, por algum galho estalando sob o peso da própria neve derretendo lentamente ao longo da noite.
+Não existia, segundo o que já tinham vivido até ali, um único clima ou uma única paisagem que definisse a experiência inteira. Existiam dezenas delas, empilhadas uma atrás da outra, exigindo do corpo uma capacidade de adaptação rápida que não imaginava precisar tanto antes de começar. Aproveitei aquele momento de calma pra preparar mais um cafezinho, dessa vez usando a própria água fresca do riacho da reserva e aquele, especificamente, tinha sido um dos melhores cafés de toda a viagem até então.
+
+Antes de seguir viagem, passei pelo pequeno centro de visitantes da reserva, onde um funcionário voluntário explicou, com entusiasmo genuíno, o trabalho de conservação feito ali havia décadas pra manter aquele trecho de água doce protegido em meio a um dos ambientes mais hostis de toda a Califórnia — conversa breve, mas suficiente pra deixar uma sensação renovada de respeito pela fragilidade daqueles pequenos oásis espalhados ao longo da trilha.
+
+Já saindo da reserva rumo à próxima subida, aquele pequeno trecho de água corrente, cercado de deserto por todos os lados, resumia bem uma lição que a trilha andava ensinando repetidamente a mim mesmo: que recurso raro — seja água, sombra ou até companhia — merece ser aproveitado com calma e gratidão, exatamente porque nunca se sabe quantos quilômetros vão se passar até o próximo.
