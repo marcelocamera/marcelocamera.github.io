@@ -15,8 +15,7 @@ tags:
 | Gravadora    | Mute Records    |
 | Hit Famoso | Enjoy the Silence |
 | Nota | 5/5 |
-|||
-
+| | |
 
 ![](/assets/images/rs167.jpeg)
 
