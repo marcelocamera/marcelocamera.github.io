@@ -8,13 +8,13 @@ tags:
 | Álbum  | Speakerboxxx / The Love Below  |
 |:----------|:----------|
 | Artista    | OutKast   |
-| Gênero    | Hip-hop    |
-| Faixas    | 40    |
-| Tempo    | 2h15m    |
-| Lançamento    | 2003    |
-| Gravadora    | Arista Records    |
+| Gênero    | Indie Rock    |
+| Faixas    | 10    |
+| Tempo    | 37m   |
+| Lançamento    | 1986    |
+| Gravadora    | Rough Trade Records    |
 | Hit Famoso | Hey Ya! |
-| | |
+| Nota |  |
 
 
 ![](/assets/images/md290.png)
