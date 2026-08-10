@@ -7,6 +7,8 @@ tags:
 
 Recebi de um amigo que fiz numa dessas pós-graduações da vida, umas fotos tiradas das páginas de um diário de viagem dele, contando como foi caminhar pelos Estados Unidos a pé — sim, a pé — da fronteira do México até a fronteira do Canadá, cruzando os estados da Califórnia, Oregon e Washington no caminho. Não sei bem por que ele mandou justamente pra mim, mas achei essa aventura tão fora da curva que resolvi compartilhar aqui.
 
+![](/assets/images/mi00-002.png)
+
 Não teve uma história trágica por trás dessa escolha, nem uma crise de meia-idade no sentido clássico de um filme. Era mais uma sensação incômoda, que foi crescendo devagar nos últimos dois anos, de estar vivendo a vida de outra pessoa — aquela rotina de acordar ainda no escuro, entrar em reunião, sair de reunião, responder mensagem no trajeto de volta, dormir, repetir, sem nunca parar de verdade pra perguntar se era isso mesmo que queria pra própria vida. A trilha apareceu, num vídeo qualquer assistido de madrugada, quase como resposta óbvia: se a vida já estava em modo automático, talvez a solução fosse literalmente sair andando até esse automático quebrar de vez.
 
 ### Pra situar você: o que é essa trilha
