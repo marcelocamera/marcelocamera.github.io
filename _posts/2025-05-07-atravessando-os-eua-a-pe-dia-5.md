@@ -3,7 +3,7 @@ title: "Dia 5: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## O deserto de Anza-Borrego
+## O deserto de Anza-Borrego [milha 43 à milha 59]
 
 O trecho da Pacific Crest Trail (PCT) entre **Storm Canyon Vista** e **Penny Pines** é uma caminhada curta e fácil, que acompanha a borda do **Mount Laguna**, oferecendo vistas panorâmicas espetaculares do deserto que se estende abaixo.
 
@@ -19,7 +19,7 @@ A PCT segue paralela à **Sunrise Highway** até chegar ao entroncamento com a t
 
 ![](/assets/images/mi48.jpeg)
 
-Saindo de **Mount Laguna**, milha 42,5, a trilha segue por uma crista estreita que separa dois mundos completamente diferentes um do outro: de um lado, floresta de pinheiro ainda fresca da manhã, cheia de sombra generosa; do outro, uma queda vertiginosa direto pro **deserto de Anza-Borrego**, imenso e castigado pelo sol lá embaixo, esticado até onde a vista alcançava. A sensação de caminhar exatamente na linha entre dois climas opostos é, sem exagero nenhum, uma das paisagens mais impressionantes de toda a seção sul da PCT.
+Saindo de **Mount Laguna**, milha 43, a trilha segue por uma crista estreita que separa dois mundos completamente diferentes um do outro: de um lado, floresta de pinheiro ainda fresca da manhã, cheia de sombra generosa; do outro, uma queda vertiginosa direto pro **deserto de Anza-Borrego**, imenso e castigado pelo sol lá embaixo, esticado até onde a vista alcançava. A sensação de caminhar exatamente na linha entre dois climas opostos é, sem exagero nenhum, uma das paisagens mais impressionantes de toda a seção sul da PCT.
 
 Na parte da manhã, cruzei com um grupo de escoteiros americanos fazendo um passeio de um dia por aquele trecho da crista — crianças de dez, onze anos, encantadas ao descobrir que eu estava caminhando até o Canadá, fazendo pergunta atrás de pergunta sobre cobra, urso e comida liofilizada, falando um inglês empolgado e um pouco atropelado de quem nunca tinha conversado com um estrangeiro de verdade antes.
 

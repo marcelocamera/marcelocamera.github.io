@@ -3,7 +3,7 @@ title: "Dia 3: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-# A primeira lição sobre o calor do deserto
+## A primeira lição sobre o calor do deserto [milha 26 à milha 30]
 
 Percorrer o trecho da Pacific Crest Trail (PCT) entre **Boulder Oaks** e **Kitchen Creek Falls** atravessa o **Descanso Ranger District**, na **Cleveland National Forest**.
 

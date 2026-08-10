@@ -3,7 +3,7 @@ title: "Dia 1: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-# Dia 1: Ainda não acredito que estou aqui
+## Ainda não acredito que estou aqui [milha 0 à milha 12]
 
 Visitar o **Marco Sul** (Southern Terminus) da Pacific Crest Trail (PCT) já é uma aventura por si só. Se você estiver lá e quiser experimentar um pouco mais da trilha, considere seguir na direção norte por cerca de 1 milha. Em grande parte do percurso, você caminhará pelo mesmo caminho por onde chegou de carro, já que a PCT atravessa propriedades particulares na comunidade de **Campo**.
 
@@ -23,7 +23,80 @@ Perto do monumento que marca o início da caminhada, um pedaço grande de tecido
 
 Com o muro da fronteira ao fundo tirei algumas selfies e aproveitei pra encher as garrafas de água numa torneira improvisada perto do estacionamento desse lugar, e segui rumo ao norte, misturados entre outra dezena de hikers que também escolheram exatamente aquele mesmo dia pra começar.
 
-Minha mochila pesava **18,5 kg**, seis deles somente de água, quase três de comida e o restante com roupas e equipamentos. Pra quem entende um pouco de trilha de longa distância, esse é um peso considerado bem alto — a maioria dos guias de hiking recomenda ficar bem abaixo disso justamente porque cada quilo extra nas costas se paga (com juros) depois de algumas centenas de quilômetros.
+Minha mochila pesava **19,4 kg**, seis deles somente de água, pouco mais que cinco em itens de sobrevivência e o restante com outros itens necessários. Pra quem entende um pouco de trilha de longa distância, esse é um peso considerado bem alto — a maioria dos guias de hiking recomenda ficar bem abaixo disso justamente porque cada quilo extra nas costas se paga (com juros) depois de algumas centenas de quilômetros.
+
+#### a) Sobrevivência
+
+| Itens                        | Peso (em gramas) | 
+|:-----------------------------|:-----------------|
+| Barraca                      | 1216 g           | 
+| Mochila                      | 1193 g           | 
+| Colchonete Inflável          |  501 g           |  
+| Saco de Dormir               | 1285 g           | 
+| **Total**                    | **4195 g**       |    
+
+#### b) Cozinha
+
+| Itens                       | Peso (em gramas) | 
+|:-----------------------------|:-----------------|
+| Fogão, Panelas e Outros      | 516 g            | 
+| Saco Impermeável             | 290 g            | 
+| Toalha Descartável           | 58 g             |                   
+| **Total**                    | **864 g**        |
+                  
+#### c) Primeiros Socorros
+
+| Itens                              | Peso (em gramas) | 
+|:-----------------------------------|:-----------------|
+| Kit de Primeiros Socorros          | 240 g            | 
+| Kit de Reparos (barraca e mochila) | 156 g            | 
+| Garrafa com Filtro                 | 130 g            |
+| Faca de Bolso                      |  56 g            |
+| Mapas                              |  54 g            |             
+| **Total**                          | **636 g**        |  
+
+#### d) Higiene Pessoal
+
+| Itens                                     | Peso (em gramas) | 
+|:------------------------------------------|:-----------------|
+| Mosquiteiro                               | 37 g             | 
+| Antisséptico (em gel)                     | 43 g             | 
+| Pazinha                                   | 17 g             | 
+| Repelente                                 | 131 g            | 
+| Protetor Solar                            | 100 g            | 
+| Itens pessoais (dentes, cabelo, barba)    | 224 g            | 
+| **Total**                                 | **552 g**        |
+
+#### e) Eletrônicos
+
+| Itens                                     | Peso (em gramas) | 
+|:------------------------------------------|:-----------------|
+| Power Bank                                | 254 g            | 
+| Smartphone (iPhone)                       | 206 g            | 
+| Kindle                                    | 184 g            | 
+| Lanterna de Cabeça                        | 53 g             | 
+| Lanterna de Barraca                       | 75 g             | 
+| GPS                                       | 195 g            | 
+| **Total**                                 | **967 g**        |
+
+#### f) Roupas
+
+| Itens                                     | Peso (em gramas) | 
+|:------------------------------------------|:-----------------|
+| Capa de Chuva                             | 168 g            | 
+| Calça, blusas, camisetas, cuecas, meias   | 2400 g           | 
+| Casacos e jaquetas                        | 1250 g           | 
+| Botas e Sandálias                         | 1100 g           | 
+| **Total**                                 | **4918 g**       |
+
+#### g) Alimentação
+
+| Itens                                     | Peso (em gramas) | 
+|:------------------------------------------|:-----------------|
+| Água                                      | 6000 g           | 
+| Comida Liofilizada                        | 800 g            | 
+| Barras Energéticas                        | 450 g            | 
+| **Total**                                 | **7250 g**       |
 
 A caminhada em si, nas primeiras horas, foi mais sobre emoção do que sobre esforço físico de verdade. A trilha ainda estava relativamente plana, cortando um trecho de vegetação baixa e seca — arbustos espinhentos, alguma yucca isolada, terra clara e poeirenta sob a bota. O clima ainda estava ameno pela manhã, senti as pernas leves, quase incrédulo por estar realmente ali, caminhando de verdade, depois de meses só planejando aquilo tudo numa planilha aberta às escondidas durante o horário de trabalho.
 

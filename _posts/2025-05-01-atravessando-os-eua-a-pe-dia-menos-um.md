@@ -3,9 +3,9 @@ title: "Dia -1: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## Um amigo, um caderno de viagem e uma trilha de 4.250 km a pé
+## Um amigo, um diário de viagem e uma trilha de 4.250 km a pé
 
-Recebi de um amigo de faculdade umas fotos de um caderno de anotações de viagem dele, contando como foi caminhar pelos Estados Unidos inteiro — sim, a pé — da fronteira do México até a fronteira do Canadá, cruzando Califórnia, Oregon e Washington no caminho. Não sei bem por que ele mandou justamente pra mim, mas achei essa aventura tão fora da curva que resolvi compartilhar aqui.
+Recebi de um amigo que fiz numa dessas pós-graduações da vida, umas fotos tiradas das páginas de um diário de viagem dele, contando como foi caminhar pelos Estados Unidos a pé — sim, a pé — da fronteira do México até a fronteira do Canadá, cruzando os estados da Califórnia, Oregon e Washington no caminho. Não sei bem por que ele mandou justamente pra mim, mas achei essa aventura tão fora da curva que resolvi compartilhar aqui.
 
 Não teve uma história trágica por trás dessa escolha, nem uma crise de meia-idade no sentido clássico de um filme. Era mais uma sensação incômoda, que foi crescendo devagar nos últimos dois anos, de estar vivendo a vida de outra pessoa — aquela rotina de acordar ainda no escuro, entrar em reunião, sair de reunião, responder mensagem no trajeto de volta, dormir, repetir, sem nunca parar de verdade pra perguntar se era isso mesmo que queria pra própria vida. A trilha apareceu, num vídeo qualquer assistido de madrugada, quase como resposta óbvia: se a vida já estava em modo automático, talvez a solução fosse literalmente sair andando até esse automático quebrar de vez.
 
@@ -14,6 +14,8 @@ Não teve uma história trágica por trás dessa escolha, nem uma crise de meia-
 A trilha se chama **Pacific Crest Trail**, ou só **PCT** pros íntimos. São 4.250 km de percurso que pode ser feito a pé ou até a cavalo, com uma variação de altitude gigante: começa literalmente no nível do mar e sobe até 4.009 metros no Forester Pass, lá na Sierra Nevada. Ou seja, não é um passeio no parque, é maratona de altitude combinada com maratona de distância.
 
 E olha que ela nem está sozinha nesse clube: junto com a Trilha dos Apalaches e a Continental Divide Trail, a PCT forma a chamada **Triple Crown of Hiking** — basicamente o "grand slam" das trilhas de longa distância dos Estados Unidos. Quem completa as três já pode se considerar praticamente uma lenda no mundo do hiking.
+
+![](/assets/images/pct001.png)
 
 ### Dia -1: Em Guarulhos, uma bagagem estranha
 

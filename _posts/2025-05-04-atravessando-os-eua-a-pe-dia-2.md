@@ -3,7 +3,7 @@ title: "Dia 2: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-# Perus, um mercadinho salvador e o batismo
+## Perus, um mercadinho salvador e o batismo [milha 12 à milha 26]
 
 O segundo dia trouxe a primeira grande curiosidade da fauna local: um bando enorme de perus selvagens cruzando a trilha sem qualquer preocupação com a presença humana, catando sementes do chão como se os hikers simplesmente não existissem. Já tinha lido sobre isso antes de vir, é uma população não nativa da Califórnia, trazida décadas atrás pra fins de caça esportiva e hoje totalmente estabelecida na região — ao ponto de nem se abalar quando alguém passa a menos de dois metros de distância.
 

@@ -33,6 +33,6 @@ Aí você chega em [Cemetry Gates](https://open.spotify.com/track/03yOjwHoOPDlTU
 
 Mas o grande momento do álbum, para mim, é inevitavelmente [There Is a Light That Never Goes Out](https://open.spotify.com/track/6s1lXoCa6EmIGnr0GrwcJp?si=27b20dc9c7ed41f2). É uma daquelas músicas que parecem ter sido feitas para sobreviver ao tempo. A guitarra de Marr é linda, a interpretação de Morrissey é perfeita e a letra consegue falar de amor, solidão e desejo de pertencer a algum lugar de uma maneira que continua funcionando décadas depois. E talvez seja justamente por isso que tanta gente ainda se identifica com essa música.
 
-No final das contas, The Queen Is Dead não é um disco sobre uma única coisa. É sobre aquela sensação de estar meio perdido, não se encaixar direito, querer estar perto de alguém e, ao mesmo tempo, não saber muito bem o que fazer com a própria vida. Ou seja: um disco dos Smiths. 😂
+No final das contas, The Queen Is Dead não é um disco sobre uma única coisa. É sobre aquela sensação de estar meio perdido, não se encaixar direito, querer estar perto de alguém e, ao mesmo tempo, não saber muito bem o que fazer com a própria vida. Ou seja: um disco dos Smiths.
 
 O mais impressionante é que são apenas 10 faixas e cerca de 37 minutos. Não sobra muita gordura. O álbum entra, faz seu estrago e termina antes de começar a cansar. Mais de 40 anos depois, continua sendo um daqueles discos que você coloca para ouvir e percebe que algumas músicas simplesmente não envelhecem.
