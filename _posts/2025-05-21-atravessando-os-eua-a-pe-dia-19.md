@@ -5,9 +5,9 @@ tags:
 ---
 ## Chegada em Big Bear Lake [milha 253 até milha 266]  
 
-![](/assets/images/mi266.jpeg)
+![](/assets/images/big-bear-lake.png)
 
-Cheguei em Big Bear City, na milha 266, no início da tarde, depois de 13 milhas de caminhada pela manhã. A cidade — bem maior que qualquer outro ponto de resupply visto até então na trilha — funciona como destino turístico de esqui no inverno e de lago no verão, oferecendo uma variedade de infraestrutura rara pra quem vem cruzando semanas de vilarejo minúsculo em vilarejo minúsculo.
+Cheguei em **Big Bear Lake***, na milha 266, no início da tarde, depois de 13 milhas de caminhada pela manhã. A cidade — bem maior que qualquer outro ponto de resupply visto até então na trilha — funciona como destino turístico de esqui no inverno e de lago no verão, oferecendo uma variedade de infraestrutura rara pra quem vem cruzando semanas de vilarejo minúsculo em vilarejo minúsculo.
 
 Foi justamente em Big Bear Lake, aliás, que lembrei de ainda nos primeiros dias em San Diego, sobre a importância de já planejar com antecedência os pontos de resupply mais estratégicos da trilha — e Big Bear, sem dúvida, se provou um dos mais completos: supermercado grande, loja de equipamento outdoor, farmácia, e até uma lavanderia self-service, luxo raro depois de quase 270 milhas de caminhada.
 

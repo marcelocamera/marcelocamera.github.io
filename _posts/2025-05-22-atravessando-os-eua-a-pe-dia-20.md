@@ -7,7 +7,7 @@ tags:
 
 ![](/assets/images/mi267.jpeg)
 
-Decidi tirar mais um day off em Big Bear — decisão fácil de tomar, considerando a estrutura completa da cidade e a exaustão acumulada das últimas travessias intensas de altitude. Aproveitei o dia inteiro pra resolver itens da logística: comprar mantimento pra a próxima seção, revisar o estado de cada peça de equipamento (a sola da bota já mostrava sinais preocupantes de desgaste, o que motivou uma pesquisa rápida sobre onde comprar um par novo mais à frente), e planejar com calma a temida travessia do deserto do Mojave, que me aguardava depois de Big Bear e de Wrightwood.
+Decidi tirar mais um day off em Big Bear Lake — decisão fácil de tomar, considerando a estrutura completa da cidade e a exaustão acumulada das últimas travessias intensas de altitude. Aproveitei o dia inteiro pra resolver itens da logística: comprar mantimento pra a próxima seção, revisar o estado de cada peça de equipamento (a sola da bota já mostrava sinais preocupantes de desgaste, o que motivou uma pesquisa rápida sobre onde comprar um par novo mais à frente), e planejar com calma a temida travessia do deserto do Mojave, que me aguardava depois de Big Bear e de Wrightwood.
 
 Liguei pra família em São Paulo — a primeira ligação de vídeo desde o início da trilha, mostrando a mochila surrada, a barba já crescida e um bronzeado inconfundível de quem passa o dia inteiro exposto ao sol. A reação da família, misturando espanto e orgulho, me deixou com um nó na garganta inesperado, sentindo saudade de casa pela primeira vez de forma mais intensa desde a saída de Guarulhos.
 
