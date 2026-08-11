@@ -23,26 +23,31 @@ Perto do monumento que marca o início da caminhada, um pedaço grande de tecido
 
 Com o muro da fronteira ao fundo tirei algumas selfies e aproveitei pra encher as garrafas de água numa torneira improvisada perto do estacionamento desse lugar, e segui rumo ao norte, misturados entre outra dezena de hikers que também escolheram exatamente aquele mesmo dia pra começar.
 
-Minha mochila pesava **19,4 kg**, seis deles somente de água, pouco mais que cinco em itens de sobrevivência e o restante com outros itens necessários. Pra quem entende um pouco de trilha de longa distância, esse é um peso considerado bem alto — a maioria dos guias de hiking recomenda ficar bem abaixo disso justamente porque cada quilo extra nas costas se paga (com juros) depois de algumas centenas de quilômetros.
+Minha mochila pesava **20,7 kg**, seis deles somente de água, pouco mais que cinco em itens de sobrevivência e o restante com outros itens necessários. Pra quem entende um pouco de trilha de longa distância, esse é um peso considerado bem alto — a maioria dos guias de hiking recomenda ficar bem abaixo disso justamente porque cada quilo extra nas costas se paga (com juros) depois de algumas centenas de quilômetros.
 
 #### a) Sobrevivência
 
 | Itens                        | Peso (em gramas) | 
 |:-----------------------------|:-----------------|
-| Barraca                      | 1216 g           | 
-| Mochila                      | 1193 g           | 
-| Colchonete Inflável          |  501 g           |  
-| Saco de Dormir               | 1285 g           | 
-| **Total**                    | **4195 g**       |    
+| Barraca                      | 1128 g           | 
+| Mochila                      | 1198 g           | 
+| Colchonete inflável          |  501 g           |  
+| Saco de dormir               | 1285 g           | 
+| **Total**                    | **4112 g**       |    
 
 #### b) Cozinha
 
-| Itens                       | Peso (em gramas) | 
-|:-----------------------------|:-----------------|
-| Fogão, Panelas e Outros      | 516 g            | 
-| Saco Impermeável             | 290 g            | 
-| Toalha Descartável           | 58 g             |                   
-| **Total**                    | **864 g**        |
+| Itens                          | Peso (em gramas) | 
+|:-------------------------------|:-----------------|
+| Fogão, Panelas e Outros        | 448 g            | 
+| Faca de cozinha                | 112 g            | 
+| Garrafa de água                | 100 g            |  
+| Filtro de água                 | 159 g            |
+| Sacos plásticos herméticos     | 64 g             |
+| Sacola térmica                 | 125 g            |
+| Talheres (garfo, faca, colher) | 24 g             |
+| Caneca                         | 61 g             |      
+| **Total**                      | **1093 g**       |
                   
 #### c) Primeiros Socorros
 
@@ -50,10 +55,10 @@ Minha mochila pesava **19,4 kg**, seis deles somente de água, pouco mais que ci
 |:-----------------------------------|:-----------------|
 | Kit de Primeiros Socorros          | 240 g            | 
 | Kit de Reparos (barraca e mochila) | 156 g            | 
-| Garrafa com Filtro                 | 130 g            |
+| Corda                              | 162 g            |
 | Faca de Bolso                      |  56 g            |
 | Mapas                              |  54 g            |             
-| **Total**                          | **636 g**        |  
+| **Total**                          | **662 g**        |  
 
 #### d) Higiene Pessoal
 
@@ -71,23 +76,25 @@ Minha mochila pesava **19,4 kg**, seis deles somente de água, pouco mais que ci
 
 | Itens                                     | Peso (em gramas) | 
 |:------------------------------------------|:-----------------|
+| Camera fotográfica e lente                | 1087 g
 | Power Bank                                | 254 g            | 
 | Smartphone (iPhone)                       | 206 g            | 
 | Kindle                                    | 184 g            | 
-| Lanterna de Cabeça                        | 53 g             | 
-| Lanterna de Barraca                       | 75 g             | 
+| Lanterna de cabeça                        | 53 g             | 
+| Lanterna de barraca                       | 75 g             | 
 | GPS                                       | 195 g            | 
-| **Total**                                 | **967 g**        |
+| **Total**                                 | **2054 g**        |
 
 #### f) Roupas
 
 | Itens                                     | Peso (em gramas) | 
 |:------------------------------------------|:-----------------|
-| Capa de Chuva                             | 168 g            | 
+| Capa de chuva                             | 168 g            | 
+| Óculos de sol                             | 40 g             |
 | Calça, blusas, camisetas, cuecas, meias   | 2400 g           | 
 | Casacos e jaquetas                        | 1250 g           | 
-| Botas e Sandálias                         | 1100 g           | 
-| **Total**                                 | **4918 g**       |
+| Botas e sandálias                         | 1100 g           | 
+| **Total**                                 | **4958 g**       |
 
 #### g) Alimentação
 
