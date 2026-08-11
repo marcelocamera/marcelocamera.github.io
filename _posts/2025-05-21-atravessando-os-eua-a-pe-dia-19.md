@@ -3,9 +3,9 @@ title: "Dia 19: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## Chegada em Big Bear Lake [milha 253 até milha 266]  
+## Chegada em Big Bear Lake [milha 253 - milha 266]  
 
-![](/assets/images/big-bear-lake.png)
+![](/assets/images/big-bear-lake.jpg)
 
 Cheguei em **Big Bear Lake***, na milha 266, no início da tarde, depois de 13 milhas de caminhada pela manhã. A cidade — bem maior que qualquer outro ponto de resupply visto até então na trilha — funciona como destino turístico de esqui no inverno e de lago no verão, oferecendo uma variedade de infraestrutura rara pra quem vem cruzando semanas de vilarejo minúsculo em vilarejo minúsculo.
 
