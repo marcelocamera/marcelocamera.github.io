@@ -21,3 +21,6 @@ Enquanto observava o movimento de fim de semana ao redor do lago, o reparei em q
 
 Pensei nessa comparação direta, tão próxima e tão vívida, que deixava ainda mais evidente uma das lições silenciosas que a trilha andava ensinando: o tanto de coisa material que a gente costuma achar indispensável na vida normal, e que na prática, com a estrutura certa (ou a falta dela), simplesmente deixa de fazer falta depois de algumas semanas de adaptação.
 
+Antes de seguir viagem no dia seguinte, aproveitei pra alugar, por uma hora, um caiaque simples na área de recreação do lago — decisão totalmente por impulso, movida pela raridade de ter uma atividade turística tão acessível bem ao lado da trilha. Aproveitei pra tirar fotos da margem verde contrastando com o azul artificial do reservatório. Foi um dos momentos mais genuinamente turísticos de toda a viagem até ali — um pequeno respiro de "férias normais" no meio de uma jornada que, na maior parte do tempo, exigia tudo, menos leveza descompromissada como aquela.
+
+![](/assets/images/silverwood-lake-2.png)
