@@ -1,26 +1,16 @@
 ---
-title: "Dia 31: Atravessando os EUA a pé"
+title: "Dia 32: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## Enfim Vasquez Rocks [milha 427 - milha ]  
+## Vale aberto do deserto de Antelope [milha 449 - milha 472]  
 
-Cheguei em **Agua Dulce** na manhã seguinte, finalmente cara a cara com as formações rochosas avermelhadas de **Vasquez Rocks** que já vinham avistando de longe desde o dia anterior. O lugar, além de bonito por si só, carrega uma fama curiosa: já serviu de cenário pra incontáveis produções de cinema e televisão americana ao longo de décadas, de faroeste clássico a ficção científica.
+O trigésimo segundo dia trouxe uma mudança clara de paisagem: a trilha deixou de vez o relevo montanhoso do sul da Califórnia e entrou numa extensão de terreno mais plano, seco e aberto, conhecida como **vale de Antelope** — parte da grande depressão que forma a borda ocidental do deserto do Mojave.
 
-![](/assets/images/agua-dulce.png)
+A caminhada, sem grande variação de altitude, me permitiu manter um ritmo forte e constante, ainda que sob sol impiedoso e sem quase nenhuma sombra disponível ao longo de horas. Aproveitei o terreno mais monótono pra ensaiar, em voz alta, um resumo mental de tudo que já tinha vivido até ali — exercício que vinha fazendo periodicamente desde o início, tentando não deixar nenhuma memória se perder no acúmulo cada vez maior de dias parecidos.
 
-Fiquei andando entre as formações repetindo, cada vez mais desanimado, "eu tenho certeza que já vi isso em algum lugar", sem conseguir identificar nenhuma cena específica. Aproveitei uma parada para um sorvete de casquinha comprado na cidadezinha de Agua Dulce e lá estava ele. Um poster com os principais filmes gravados naquela região.
+Andei por 24 milhas, distância generosa facilitada justamente pela ausência de subida ou descida significativa, acampando num trecho aberto onde o vento soprava constante durante a noite inteira, moderando um pouco o calor acumulado do dia.
 
-![](/assets/images/restaurant-agua-dulce.jpg)
+Durante boa parte da tarde, cruzei com pouquíssimos outros hikers, sinal de que o grupo grande que tinha começado a trilha nas mesmas semanas já estava, àquela altura, bastante espalhado ao longo do percurso — alguns mais adiantados, outros ainda atrás, resultado natural de ritmos e decisões completamente diferentes tomadas por cada pessoa desde a fronteira. Cafezinho comentou que essa dispersão gradual, já perceptível desde Big Bear, criava uma sensação estranha de solidão dentro de uma comunidade que, ainda assim, continuava presente — bastava checar o registro de trilha em qualquer ponto de resupply pra saber, mais ou menos, quem estava por perto e quem já tinha seguido bem mais adiante.
 
-A cidade em si era pequena, mas contava com mercado decente e um restaurante americano que aproveitei pra um almoço reforçado, sabendo que o trecho seguinte — a entrada no vale mais aberto e seco do **deserto de Antelope** — não ofereceria muita estrutura nos próximos dias.
-
-![](/assets/images/poster-vasquez-rock.jpg)
-
-Caminhei constantes 22 milhas, incluindo o trecho de aproximação e a própria visita às rochas, acampando já um pouco além da cidade, animado e levemente queimado de sol depois da parada mais turística de toda a trilha até então.
-
-![](/assets/images/vasquez-rocks-3.jpg)
-
-Antes de deixar Agua Dulce, passei por uma pequena loja de suvenir voltada especificamente pra fãs de cinema, cheia de fotografia antiga em preto e branco mostrando equipe de filmagem posando entre as mesmas rochas que eles tinham acabado de visitar. 
-
-A dona da loja, percebendo meu interesse genuíno, contou algumas histórias de bastidor que ela mesma tinha ouvido de moradores mais antigos da região — décadas de produção cinematográfica deixando marca discreta, mas real, numa cidadezinha que, de outra forma, seria só mais um ponto pequeno no mapa do deserto californiano. 
+Ainda assim, no meio da tarde, cruzaram por acaso com o casal de canadenses conhecido semanas antes na travessia seca rumo a Warner Springs — reencontro cheio de abraço e gargalhada, comparando bronzeado e quilo perdido desde o último contato. O casal contou que também tinha enfrentado a Fuller Ridge com neve, embora em condição um pouco mais amena do que o trio, e trocaram, ali mesmo em pé no meio do deserto plano, dicas atualizadas sobre logística de resupply mais à frente. Despediram-se prometendo se reencontrar de novo, talvez já em Kennedy Meadows, antes da entrada oficial na Sierra Nevada, e seguiram viagem com o ânimo visivelmente renovado por aquele encontro inesperado no meio do nada. A tarde seguiu mais leve depois disso, o grupo comentando sobre como pequenos reencontros como aquele funcionavam quase como recompensa emocional imprevisível, um dos motivos que tornavam a trilha tão mais rica do que qualquer estatística de distância percorrida conseguiria capturar.
