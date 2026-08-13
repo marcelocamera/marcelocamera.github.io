@@ -1,20 +1,22 @@
 ---
-title: "Dia 32: Atravessando os EUA a pé"
+title: "Dia 33: Atravessando os EUA a pé"
 tags:
   - aventura
 ---
-## Vale aberto do deserto de Antelope [milha 449 - milha 472]  
+## O deserto plano, previsível e cansativo [milha 472 - milha 494]  
 
-O trigésimo segundo dia trouxe uma mudança clara de paisagem: a trilha deixou de vez o relevo montanhoso do sul da Califórnia e entrou numa extensão de terreno mais plano, seco e aberto, conhecida como **vale de Antelope** — parte da grande depressão que forma a borda ocidental do deserto do Mojave.
+O terreno seguiu praticamente igual ao dia anterior: plano, seco, exposto. Diferente da variedade visual que marcou boa parte da trilha até então, esse trecho específico exigia mais resistência mental do que qualquer habilidade técnica — quilômetros e quilômetros de paisagem repetitiva, sem marco visual claro pra medir progresso além do próprio relógio e do aplicativo de mapa no celular.
 
-![](/assets/images/antelope-valley.jpg)
+Ouvi música durante boa parte da caminhada — estratégia que ajudou bastante a enganar a cabeça em dias sem estímulo visual suficiente. Cantarolei a playlists de clássicos enquanto caminhava.
 
-A caminhada, sem grande variação de altitude, me permitiu manter um ritmo forte e constante, ainda que sob sol impiedoso e sem quase nenhuma sombra disponível ao longo de horas. Aproveitei o terreno mais monótono pra ensaiar, em voz alta, um resumo mental de tudo que já tinha vivido até ali — tentando não deixar nenhuma memória se perder no acúmulo cada vez maior de dias parecidos.
+- ![Blue Sky Mining - Midnight Oil](https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S)
+- ![Ten - Pearl Jam](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a)
+- ![Diesel and Dust - Midnight Oil](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV)
+- ![Steppenwolf - Steppenwolf](https://open.spotify.com/album/6GLHwIp1K3u1zdLOdPRG0W)
+![Fleetwood Mac - Rumors](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) 
 
-Andei por 24 milhas, distância generosa facilitada justamente pela ausência de subida ou descida significativa, acampando num trecho aberto onde o vento soprava constante durante a noite inteira, moderando um pouco o calor acumulado do dia.
+Foram 22 milhas caminhadas, acampando já perto do ponto de acesso que levaria, no dia seguinte, a um dos lugares mais peculiares de toda a trilha: Hikertown.
 
-Durante boa parte da tarde, cruzei com pouquíssimos outros hikers, sinal de que o grupo grande que tinha começado a trilha nas mesmas semanas já estava, àquela altura, bastante espalhados ao longo do percurso — alguns mais adiantados, outros ainda atrás, resultado natural de ritmos e decisões completamente diferentes tomadas por cada pessoa desde a fronteira. 
+À noite, sentado já dentro da barraca, aproveitei o tempo livre pra reler algumas das primeiras páginas do meu próprio diário — episódio que já tinha se tornado quase ritual nas noites mais monótonas de trilha, quando a paisagem do dia não oferecia matéria-prima suficiente pra escrever algo novo. 
 
-Essa dispersão gradual, já perceptível desde Big Bear, criava uma sensação estranha de solidão dentro de uma comunidade que, ainda assim, continuava presente — bastava checar o registro de trilha em qualquer ponto de resupply pra saber, mais ou menos, quem estava por perto e quem já tinha seguido bem mais adiante.
-
-Ainda assim, no meio da tarde, cruzei por acaso com o casal de canadenses que conheci semanas antes na travessia seca rumo a Warner Springs — reencontro cheio de abraços e gargalhadas, comparando bronzeado e quilos perdidos desde o último contato. O casal contou que também tinha enfrentado a Fuller Ridge com neve, embora em condição um pouco mais amena do que eu enfreitei e trocamos, ali mesmo em pé no meio do deserto plano, dicas atualizadas sobre logística de resupply mais à frente. Despedimos prometendo se reencontrar de novo, talvez já em Kennedy Meadows, antes da entrada oficial na Sierra Nevada, e seguiram viagem com o ânimo visivelmente renovado por aquele encontro inesperado no meio do nada. A tarde seguiu mais leve depois disso, pensei em como pequenos reencontros como aquele funcionavam quase como recompensa emocional imprevisível, um dos motivos que tornavam a trilha tão mais rica do que qualquer estatística de distância percorrida conseguiria capturar.
+Comparar a caligrafia nervosa e apressada dos primeiros dias com a letra mais firme e tranquila que escrevia agora, dois meses depois, virou uma espécie de termômetro pessoal de progresso — não só físico, mas também emocional, medido em algo tão simples quanto o traço de uma caneta sobre papel.
