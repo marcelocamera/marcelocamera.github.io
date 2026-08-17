@@ -1,5 +1,5 @@
 ---
-title: "Dia 37: Atravessando os EUA a pé"
+title: "Dia 01: Aventura no Aconc"
 tags:
   - aventura
 ---
